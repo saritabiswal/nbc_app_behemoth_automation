@@ -1,0 +1,12 @@
+ObjectName,ObjectProperties,SearchType
+GLobal1,span.navigation__item__title,cssSelector
+GLobal2,ul.navigation__item__list li a,cssSelector
+GLobal3,div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li:nth-child(1) > a > i,cssSelector
+GLobal4,h2.section-heading__title,cssSelector
+GLobal5,div.card__icon,cssSelector
+GLobal6,a.navigation__item__link--sign-up,cssSelector
+GLobal7,div.signup-page__account-actions a,cssSelector
+GLobal8,input.signin-form__email,cssSelector
+GLobal9,input.password-input__password,cssSelector
+GLobal10,div.signin-form__submit button,cssSelector
+GLobal11,div.sticky-outer-wrapper.show-header.show-header--mobile > div > div.show-header__background > div > div.show-header__title > a > i,cssSelector

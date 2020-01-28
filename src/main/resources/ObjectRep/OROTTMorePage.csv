@@ -1,0 +1,13 @@
+ObjectName,ObjectProperties,SearchType
+menu,a.Menu-link,cssSelector
+Myprofile,div.SettingsMenu-item--profile,cssSelector
+settings,div.SettingsMenu-item--settings,cssSelector
+faq,div.SettingsMenu-item--faq,cssSelector
+contactus,div.SettingsMenu-item--contact,cssSelector
+about,div.SettingsMenu-item--about,cssSelector
+Faqvalidation,div.SettingsTextPage,cssSelector
+contactusvalidation,div.SettingsTextPage-contact_nbc,cssSelector
+aboutvalidation,div[icon='about'],cssSelector
+privacy,div.SettingsTextPage-privacy_policy,cssSelector
+donotsell,div.SettingsTextPage-article> p:nth-child(2),cssSelector
+termsandconditions,div.SettingsTextPage-terms_conditions,cssSelector

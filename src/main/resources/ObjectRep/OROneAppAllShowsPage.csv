@@ -1,0 +1,43 @@
+ObjectName,ObjectProperties,SearchType
+BrandSelectors_img,.tile__thumbnail__image--monochrome img,cssSelector
+AtoZ,//*[text()='A-Z'],xpath
+BrandLogo_Img,div.tile__meta--branded img,cssSelector
+CategoryFilter_Visible,.shelf--CategoryItemLabel,cssSelector
+Grid_tiles,.grid__tiles,cssSelector
+Brand_Selectors,.shelf__tiles__inner .tile__thumbnail,cssSelector
+ShowTiles,.tile__meta__text .tile__title,cssSelector
+BrandLogo_Img,.tile__brand-logo img,cssSelector
+PosterImages,.tile__content .supra-wrapper img,cssSelector
+Category_Items_Visible,.shelf--CategoryItemLabel .shelf__tiles__inner,cssSelector
+categoryItems,.shelf--CategoryItemLabel .shelf__tiles__inner a,cssSelector
+ArrowButton,button.shelf__arrow--right,cssSelector
+Category_Active,.tile--category--active,cssSelector
+Category_Inner_Filter,.shelf--CategoryItemLabel a,cssSelector
+BrandText,.tile__meta img,cssSelector
+shows,div.tile__title,cssSelector
+All_Shows,//*[text()='All Shows'],xpath
+Active_Status,.tile__content .tile__thumbnail--active,cssSelector
+Brand_Filter,.shelf--BrandItemLabel,cssSelector
+HamburgerMenu,button.navigation__hamburger,cssSelector
+MenuList,ul.navigation__list,cssSelector
+AllBrands,.tile__thumbnail--active,cssSelector
+BrandItemLabelRightArrow,.shelf--BrandItemLabel .shelf__arrow--right,cssSelector
+BrandItemLabelTiles,.shelf--BrandItemLabel .shelf__tiles,cssSelector
+CategoryItemRightArrow,.shelf--CategoryItemLabel .shelf__arrow--right,cssSelector
+CategoryRightArrow,.shelf--CategoryItemLabel button.shelf__arrow--right,cssSelector
+CategoryShelfTiles,.shelf--CategoryItemLabel .shelf__tiles,cssSelector
+ShowsOption,//*[text()='Shows'],xpath
+vilynx_fading,.tile__content .supra-wrapper img.vilynx_fading,cssSelector
+ff,.slideshow__show-logo,cssSelector
+info,.show-header__info,cssSelector
+infotitle,.show-header__info h1,cssSelector
+logoimage,.slideshow__show-logo img,cssSelector
+title,.tile__title,cssSelector
+showarrow,button.shelf__arrow--right,cssSelector
+showsMenu,.navigation__list,cssSelector
+AllShows,//*[text()='All Shows'],xpath
+ItemTitles,.navigation__item__link .navigation__item__title,cssSelector
+ShowTitles,.tile__title,cssSelector
+ShowLogo,.slideshow__show-logo,cssSelector
+SlideshowImg,.slideshow__show-logo img,cssSelector
+showHeader,.show-header__info h1,cssSelector

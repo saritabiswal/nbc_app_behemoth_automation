@@ -1,0 +1,32 @@
+ObjectName,ObjectProperties,SearchType
+showname,div.brand-logo__title,cssselector
+showhomepagebrandlogo,div.slideshow__brand-logo__inner div.brand-logo img,cssselector
+playauth,section.shelf--VideoTile div.tile__icon.icon-play--auth,cssselector
+Linkprovider,button.button--secondary,cssselector
+optimum,a.mvpd-provider--cablevision,cssselector
+uname,input[id='IDToken1'],cssselector
+psd,input[id='IDToken2'],cssselector
+optimumsignin,img[id='signin_button'],cssselector
+Createprofileoutofc,div.brand-overlay__identity button,cssselector
+creditsdetail,div.credits-overlay__body,cssselector
+creditcount,span.credits-overlay__notice-count,cssselector
+episodedatedata,div.credits-overlay div.tile__title,cssselector
+episodetitle,div.credits-overlay div.tile__secondaryTitle,cssselector
+submitbtncredcon,button[type='submit'],cssselector
+notrightnow,div.credits-overlay__buttons button[type='button'],cssselector
+epinotinpackage,section:nth-child(3) div.shelf__tiles__inner a:nth-child(1),cssselector
+brandlogoincreditcon,div.credits-overlay div.brand-logo img,cssselector
+logosignoutofmvpd,button.navigation__item__link--account,cssselector
+mvpd,a.mvpd__signout,cssselector
+identitysout,div.identity__signout,cssselector
+search,li.navigation__item--search button,cssselector
+inputsearch,input[type='search'],cssselector
+authvideo,div.tile__icon.icon-play--auth,cssselector
+authvideodimmed,a.tile--dimmed,cssselector
+obverlaytitle,div.brand-overlay__title,cssselector
+brandlogoonoverlayt,div.brand-overlay__brand-logo img ,cssselector
+overlayprovidertext,div.brand-overlay__provider__text,cssselector
+overlayprovidername,div.brand-overlay__provider__mvpdlogo div img,cssselector
+overlayproviderbtn,div.brand-overlay__buttons span span,cssselector
+identitytext,div.brand-overlay__identity--text,cssselector
+identitycoins,div.brand-overlay__identity--coins,cssselector

@@ -1,0 +1,20 @@
+ObjectName,ObjectProperties,SearchType
+objShow,ul li.navigation__item--shows a.navigation__item__link,cssSelector
+objshowname,div.tabs__content__list--active div.shelf__tiles > a,cssSelector
+videoclick,a.tile--episode div.tile__icon,cssSelector
+pdk,div.video-player iframe,cssSelector
+clipclick,a.tile--clip div.tile__icon,cssSelector
+loadbtn,#main > div.responsive-app__wrapper > section > div > section:nth-child(3) > div > section > div > div.load-button.full-width,cssSelector
+linktv,button.button--secondary,cssSelector
+objSignUpBtn,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a,cssSelector
+objQuickLinks,ul.quick-links__list>li>a,cssSelector
+objTvProviderSearchBox,div.mvpd-dialog__predictive > div > input,cssSelector
+objSlingUser,input#username.input,cssSelector
+objSlingPasswd,#password,cssSelector
+objSlingLogin,#login,cssSelector
+objSkipBtn,button.button.button--hollow.provider-linked-page__cta-skip,cssSelector
+objMainNavBtns,span.navigation__item__title,cssselector
+objNetworksBrandsCnbc,div.grid__tiles > a,cssSelector
+objAuthVideos,a.tile.tile--slide.tile--zoomable.tile--slideEpisode,cssSelector
+objErrorMessage,section.video-page__player > div > div > div > p,cssSelector
+objTvProviderLogo,button.navigation__item__link.navigation__item__link--account>div>div>img,cssSelector

@@ -1,0 +1,72 @@
+ObjectName,ObjectProperties,SearchType
+type,select#edit-type,cssselector
+submit_content,input#edit-submit-content,cssselector
+list,td.views-field.views-field-state,cssselector
+add,a#navbar-link-node-add,cssselector
+breakadd,a#navbar-link-node-add-breaking-news,cssselector
+titletop,#edit-title,cssselector
+time_breakingnews,input#edit-field-breaking-news-schedule-und-0-value2-timeEntry-popup-1,cssselector
+title,input.form-text.required,cssselector
+url,input#edit-field-breaking-news-link-und-0-url,cssselector
+checkbox,input.form-checkbox,cssselector
+test,select#edit-revision-scheduler-operation.form-select,cssselector
+date ,input#edit-revision-scheduler-datetime-datepicker-popup-0,cssselector
+time,input#edit-revision-scheduler-datetime-timeEntry-popup-1.form-text,cssselector
+save,#edit-submit.form-submit,cssselector
+breakingnews,a.breaking-news__item,cssselector
+addcontnt,ul.action-links li a,cssselector
+collection,li:nth-child(1) > span > a,cssselector
+cmsttl,input#edit-title,cssselector
+displayttl,input#edit-field-display-title-und-0-value,cssselector
+addbtn,input#edit-field-marketing-bands-und-add-more,cssselector
+ttl,span#modal-title,cssselector
+select1,select#edit-type--2.form-select,cssselector
+submit,div.views-exposed-form input.form-submit,cssselector
+widchk,input#edit-entityreference-view-widget-0,cssselector
+subajax,div#modal-content input.form-submit.ajax-processed,cssselector
+select2,select.form-select.required,cssselector
+submit2,input#edit-submit.form-submit,cssselector
+pretext,pre,cssselector
+tvshow,div > ul > li:nth-child(6) > span > a,cssselector
+tvshowimages,div > div.vertical-tabs.clearfix > ul > li:nth-child(2) > a > strong,cssselector
+keyartwithlogo,div#edit-field-tv-cover-media-und-0-ajax-wrapper > div > label,cssselector
+browse,div.clearfix a.button.browse,cssselector
+viewlibraries,a#ui-id-2,cssselector
+imageinlist,div div img,cssselector
+submit_browse,div.form-actions.form-wrapper a.button.button-yes.fake-submit.publisher_media_browser--media_browser_1,cssselector
+keyartwithnologo,div#edit-field-show-key-art-und-0-ajax-wrapper > div > label,cssselector
+multilarge,div#edit-field-ios-overrides-und-form-field-global-keyart-und-0-ajax-wrapper > div > label,cssselector
+multismall,div#edit-field-ios-overrides-und-form-field-compact-image-und-0-ajax-wrapper > div > label,cssselector
+rokushoimg,div#edit-field-client-app-overrides-und-form-field-roku-show-homepage-image-und-0-ajax-wrapper > div > label,cssselector
+rokushowtile,div#edit-field-client-app-overrides-und-form-field-roku-show-title-image-und-0-ajax-wrapper > div > label,cssselector
+showkeyart,div#edit-field-xbox-overrides-und-form-field-global-keyart-und-0-ajax-wrapper > div > label,cssselector
+BACKGROUNGIMG,div#edit-field-xbox-overrides-und-form-field-background-image-und-0-ajax-wrapper > div > label,cssselector
+api,td.line-content,cssSelector
+Next,.pager-next,cssSelector
+tvshow_browse2,a#edit-field-cover-image-mobile-und-0-browse-button,cssSelector
+image_first,div.media-thumbnail img,cssSelector
+simply_click,ul.pager,cssSelector
+submitbtn,a.publisher_media_browser--media_browser_1,cssSelector
+tvshow_attach2,input#edit-field-cover-image-mobile-und-0-attach-button,cssSelector
+tvshow_posterimg_browse,#edit-field-poster-und-0-browse-button,cssSelector
+tvshow_posterimg_attach,#edit-field-poster-und-0-attach-button,cssSelector
+tvshow_showimgDesktop_browse,#edit-field-image-homepage-desktop-und-0-browse-button,cssSelector
+tvshow_showimgDesktop_attach,#edit-field-image-homepage-desktop-und-0-attach-button,cssSelector
+tvshow_showimgMbl_browse,#edit-field-image-homepage-mobile-und-0-browse-button,cssSelector
+tvshow_showimgMbl__attach,#edit-field-image-homepage-mobile-und-0-attach-button,cssSelector
+tvshow_browse4,a#edit-field-ios-overrides-und-form-field-global-keyart-und-0-browse-button,cssSelector
+tvshow_attach4,input#edit-field-ios-overrides-und-form-field-global-keyart-und-0-attach-button,cssSelector
+tvshow_browse5,a#edit-field-ios-overrides-und-form-field-compact-image-und-0-browse-button,cssSelector
+tvshow_attach5,input#edit-field-ios-overrides-und-form-field-compact-image-und-0-attach-button,cssSelector
+tvshow_browse6,a#edit-field-client-app-overrides-und-form-field-roku-show-homepage-image-und-0-browse-button,cssSelector
+tvshow_attach6,input#edit-field-client-app-overrides-und-form-field-roku-show-homepage-image-und-0-attach-button,cssSelector
+tvshow_browse7,a#edit-field-client-app-overrides-und-form-field-roku-show-title-image-und-0-browse-button,cssSelector
+tvshow_attach7,input#edit-field-client-app-overrides-und-form-field-roku-show-title-image-und-0-attach-button,cssSelector
+tvshow_browse8,a#edit-field-xbox-overrides-und-form-field-global-keyart-und-0-browse-button,cssSelector
+tvshow_attach8,input#edit-field-xbox-overrides-und-form-field-global-keyart-und-0-attach-button,cssSelector
+tvshow_browse9,a#edit-field-xbox-overrides-und-form-field-background-image-und-0-browse-button,cssSelector
+tvshow_attach9,input#edit-field-xbox-overrides-und-form-field-background-image-und-0-attach-button,cssSelector
+EditLink,div.ctools-content ul li.first,cssSelector
+PublishingOptions,select#edit-event,cssSelector
+tvshow_posterNoLogoimg_browse,#edit-field-poster-no-logo-und-0-browse-button,cssSelector
+tvshow_posterNoLogoimg_attach,#edit-field-poster-no-logo-und-0-attach-button,cssSelector

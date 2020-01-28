@@ -1,0 +1,56 @@
+ObjectName,ObjectProperties,SearchType
+ObjFeaturedHomepage,div.home-page__featured,cssSelector
+objshowstile,section:nth-child(1) > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__thumbnail img,cssSelector
+objmovietile,section.shelf--MovieTile a:nth-child(1) div.tile__thumbnail img,cssSelector
+ObjShowtile,div.home-page__sections > section:nth-child(1) > div.shelf__inner > div > div > a:nth-child(1),cssSelector
+ObjShowname,div.slideshow.slideshow--titlepage > div > div > a > div.slideshow__overlay > div > div > div.slideshow__show-logo > div > img,cssSelector
+objshownameinhomepage,div.home-page__sections > section:nth-child(1) > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div,cssSelector
+ObjMovietile,div section.shelf.shelf--default.shelf--MovieTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div,cssSelector
+ObjMovietile,div section.shelf.shelf--default.shelf--MovieTile > div.shelf__inner > div > div > a:nth-child(1) ,cssSelector
+ObjmovienameinmovieHomepage,img.title-description__image,cssSelector
+objMovienameinhomepage,section.shelf.shelf--default.shelf--MovieTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div,cssSelector
+ObjBrandTile,a.tile--brand,cssSelector
+Objbrandtext,a.tile--brand div.tile__meta__text,cssSelector
+ObjVideoTile, div.home-page__sections > section:nth-child(2) > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__thumbnail--wrapper > div > div.tile__icon,cssSelector
+ObjClipTile,div.home-page__sections > section.shelf.shelf--default.shelf--ClipTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__thumbnail > div.tile__icon,cssSelector
+ObjOnairtile,section.shelf--OnAirNowTile a:nth-child(1),cssSelector
+objmvpdpickerpage,div.mvpd-dialog__featured div.mvpd-dialog__title,cssSelector
+objSeriestiles,section.shelf--SeriesTile a.tile,cssSelector
+objSeriestilelogos,section.shelf--SeriesTile div.brand-logo,cssSelector
+objvideotiles,section.shelf--VideoTile a.tile,cssSelector
+objVideotilelogos,section.shelf--VideoTile div.brand-logo,cssSelector
+objMovietiles,section.shelf--MovieTile a.tile,cssSelector
+objMovietileslogos,section.shelf--MovieTile div.brand-logo,cssSelector
+objbrandanimation,a[href='/networks/bravo'] img.vilynx_wrapperImg,cssSelector
+objbrandanimations,a[href='/networks/bravo'],cssSelector
+ObjAuthKey,div.icon-play--auth,cssSelector
+ObjEpisodesname,section.shelf--VideoTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+ObjEpisodebrandlogo,section.shelf--VideoTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo,cssSelector
+ObjEpisodeseasonairdate,section.shelf--VideoTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__secondaryTitle,cssSelector
+objClipsname,section.shelf.shelf--default.shelf--ClipTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+ObjClipBrandlogo,section.shelf.shelf--default.shelf--ClipTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo,cssSelector
+ObjCliptitle,section.shelf.shelf--default.shelf--ClipTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__secondaryTitle,cssSelector
+ObjClipbadge,section.shelf.shelf--default.shelf--ClipTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text >div span,cssSelector
+ObjMoviename,section.shelf.shelf--default.shelf--MovieTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div,cssSelector
+ObjMovieBrandlogo,section.shelf.shelf--default.shelf--MovieTile > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo > div,cssSelector
+Objnewssportslink,li.navigation__item--group button,cssSelector
+Objnewssportslinks,div.navigation__cta__title,cssSelector
+ObjApp,a[href='/apps'],cssSelector
+objappwrapper,div.app-page__intro__wrapper,cssSelector
+ObjAppname,div.app-info__title,cssSelector
+ObjApppageimage,a.app-info__thumbnail,cssSelector
+ObjApppagelink,div.app-info__action a,cssSelector
+ObjApppageappicon,div.app-info__footer a,cssSelector
+hamburger,button.navigation__hamburger,cssSelector
+ObjFavshow,div.home-page__sections > section:nth-child(1) > div.shelf__inner > div > div > a:nth-child(2),cssSelector
+ObjFavoritingashow,li.navigation__item__desktop-only i.show-header__add-favorite-icon,cssSelector
+ObjCWWATCH,section.shelf--VideoTile  div.shelf__inner > div > div > a:nth-child(3),cssSelector
+ObjNBCLogo,a.navigation__logo,cssSelector
+objcontinuewatching,h2.section-heading__title,cssSelector
+objdlsshow,div.slideshow--homepage,cssSelector
+objcta,div.home-page__featured > div > div.slideshow__swipeable > div > a > div.slideshow__overlay.slideshow__animate > div.slideshow__overlay__inner > div > div.slideshow__cta.button > span,cssSelector
+noofslides,div.slideshow__dots button,cssSelector
+tunein,div.slideshow__tune-in,cssSelector
+brandlogo,div.slideshow__brand-logo__inner div img,cssSelector
+slideshowimage, div.slideshow__image--wrapper,cssSelector
+showname,div.slideshow__brand-logo,cssSelector

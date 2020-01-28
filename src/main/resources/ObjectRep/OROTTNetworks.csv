@@ -1,0 +1,28 @@
+ObjectName,ObjectProperties,SearchType
+Homebutton,"li[aria-label=""Home""]",cssSelector
+Networksbutton,a.Menu-link,cssSelector
+Allbrandspage,div.AllBrandsPage,cssSelector
+Firstrowfocus,div.FocusBox-fqv93f-0,cssSelector
+Bravologo,"div[aria-label=""Bravo""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+cnbclogo,"div[aria-label=""CNBC""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+elogo,"div[aria-label=""E!""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+msnbclogo,"div[aria-label=""MSNBC""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+nbclogo,"div[aria-label=""NBC""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+oxygenlogo,"div[aria-label=""Oxygen""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+syfylogo,"div[aria-label=""SYFY""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+telemundologo,"div[aria-label=""Telemundo""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+ukidslogo,"div[aria-label=""Universal Kids""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+universologo,"div[aria-label=""Universo""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+usalogo,"div[aria-label=""USA""] img.TileBrand__TileBrandLogo-sc-107uzs5-0",cssSelector
+brandtitle,span.TileBrand__TileBrandTitle-sc-107uzs5-1,cssSelector
+Activationcodevalue,div.ActivationPageComponents__ActivationPageCode-sc-11nvqmz-4,cssSelector
+Activationcodeenter,input.form-element__input,cssSelector
+continuebtn,button.form-element__button,cssSelector
+optimum,div.mvpd-dialog__providers a img[alt='Optimum'],cssSelector
+username,input#username,cssSelector
+pswd,input#password,cssSelector
+signinbtn,button#signin_button,cssSelector
+nothanks,button.button.button--hollow,cssSelector
+tvproviderloginsuccess,h1.auth-hero__title,cssSelector
+brandlogo,li.Menu-breadcrumb img ,cssSelector
+mvpdlogo,div.MVPDImage,cssSelector

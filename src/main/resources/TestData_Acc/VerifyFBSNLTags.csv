@@ -1,0 +1,2 @@
+URL,android:package,android:app_name,android:url,ios:app_store_id,ios:app_name,ios:url,web:url,web:should_fallback
+https://stage-www.nbc.com/saturday-night-live,com.nbcuni.nbc.snl,SNL,nbcsnl://home,949622036,SNL,nbctve://shows/saturday-night-live,https://stage-www.nbc.com/saturday-night-live,TRUE

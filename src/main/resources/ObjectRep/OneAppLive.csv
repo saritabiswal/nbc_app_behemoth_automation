@@ -1,0 +1,30 @@
+ObjectName,ObjectProperties,SearchType
+objBrandName,a[class='live-guide-stream'][data-brand=',cssSelector
+objLive,a.navigation__item__link[href*=live],cssSelector
+objAllProviders,div.mvpd-dialog__providers a,cssSelector
+objVerizonId,input#IDToken1,cssSelector
+objVerizonPwd,input#IDToken2,cssSelector
+objSignin,button#tvloginsignin,cssSelector
+objOptimumId,div.logInp input[name='IDToken1'],cssSelector
+objOptimumPwd,div.logInp input[name='IDToken2'],cssSelector
+objOptimumSignin,img#signin_button,cssSelector
+objSpectrumid,input[name='IDToken1'],cssSelector
+objSpectrumPwd,input[name='IDToken2'],cssSelector
+objSpectrumSignin,button#submint_btn,cssSelector
+objDirectTVID,input#usernameInputId,cssSelector
+objDirectTVPWD,input.inputFieldPass,cssSelector
+objDirectTVSignin,input.loginBtn,cssSelector
+objxfinityID,input#user,cssSelector
+objxfinityPWD,input#passwd,cssSelector
+objxfinitySignin,button.submit,cssSelector
+objcoxID,form>input[name='username'],cssSelector
+objcoxPWD,form>input[name='password'],cssSelector
+objcoxsignin,input[alt='Sign In'],cssSelector
+objdishID,input[id='username'],cssSelector
+objdishPWD,input[id='password'],cssSelector
+objdishSignin,button.login ,cssSelector
+objAt&t_ID,input[name='userid'],cssSelector
+objAt&t_PWD,input[name='password'],cssSelector
+objAt&t_Signin,input#submitLogin,cssSelector
+obj15Providers,div.mvpd-dialog__providers a img,cssSelector
+objOptimumLogoo,button > div > div > img,cssSelector

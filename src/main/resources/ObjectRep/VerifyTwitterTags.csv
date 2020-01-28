@@ -1,0 +1,7 @@
+ObjectName,ObjectProperties,SearchType
+twitter:card,meta[name='twitter:card'],cssSelector
+twitter:site,meta[name='twitter:site'],cssSelector
+twitter:site:id,meta[name='twitter:site:id'],cssSelector
+twitter:title,meta[name='twitter:title'],cssSelector
+twitter:description,meta[name='twitter:description'],cssSelector
+twitter:image,meta[name='twitter:image'],cssSelector

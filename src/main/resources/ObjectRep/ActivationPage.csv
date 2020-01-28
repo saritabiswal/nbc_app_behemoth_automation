@@ -1,0 +1,45 @@
+ObjectName,ObjectProperties,SearchType
+AppsLink,span.navigation__item__title,cssSelector
+ActivateDowmloadlink,div.app-info__action a,cssSelector
+objActivationCode,div.ActivationPageComponents__ActivationPageCode-sc-11nvqmz-4,cssSelector
+objActiveContinue,"[href=""/nbcuniversalfamily/activate""]",cssSelector
+objEnterActCode,"[class=""form-element__input""]",cssSelector
+objButtonContinue,button.form-element__button,cssSelector
+objErrorMessage,span.form-element__label__error,cssSelector
+objMVPDOptimum,div.mvpd-provider__content img,cssSelector
+objUserName,"input[type=""text""]",cssSelector
+objPassword,"input[type=""password""]",cssSelector
+objSignin,button.action_button,cssSelector
+objLinkTitle,"[class=""auth-hero__title""]",cssSelector
+ActDisContinue,button.form-element__button.form-element__button--disabled,cssSelector
+ErrorMessage,span.form-element__label__error,cssSelector
+EnvSelect,select,cssSelector
+codeGenerate,input[type='Submit'],cssSelector
+value,div.ActivationPage-code,cssSelector
+MVPDLogo,img[class='activate-device__logo'],cssSelector
+MVPDTitle,div.mvpd-dialog__title,cssSelector
+MVPDBackLink,a.mvpd-dialog__back.mvpd-dialog__back--featured,cssSelector
+MVPD,div.mvpd-dialog__faq,cssSelector
+MvpdActivateFooter,footer.activate-device__footer,cssSelector
+MVPDOptinium,div.mvpd-provider__content img,cssSelector
+SucessCheckMarck,img.success-screen__icon,cssSelector
+UserName,IDToken1,id
+Password,IDToken2,id
+SiginButton,signin_button,id
+fqalink,footer.activate-device__footer,cssSelector
+visiblility,code,id
+objMVPDOptiums,div.mvpd-provider__content img,cssSelector
+Activationcode,code,cssSelector
+Logo,img.activate-device__logo,cssSelector
+objHeadLine,h1.auth-hero__title,cssselector
+inputfield,div.form-element__input-container,cssselector
+continueb,button.form-element__button.form-element__button--disabled,cssselector
+objNeedHelp,p.code-screen__faq,cssselector
+objFaqLink,p.code-screen__faq a,cssselector
+footer,div.activate-device__footer-tm,cssselector
+objPrivacyPolicy,div.activate-page__inner>div>footer>nav>a:nth-child(1),cssselector
+objTerms,div.activate-page__inner>div>footer>nav>a:nth-child(2),cssselector
+objContactUs,div.activate-page__inner>div>footer>nav>a:nth-child(3),cssselector
+AppsLink,ul.navigation__list > li:nth-child(7),cssSelector
+objNames,div.app-info__title,cssSelector
+close error,span.form-element__input__close--error,cssSelector

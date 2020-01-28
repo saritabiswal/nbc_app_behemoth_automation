@@ -1,0 +1,11 @@
+ObjectName,ObjectProperties,SearchType
+objTabs,span.navigation__item__title,cssSelector
+objSections,h2.section-heading__title,cssSelector
+objClips,section.shelf--ClipTile div div.tile__title,cssSelector
+objFooterLogo,"div.footer__logo a[href*=""/""]",cssSelector
+objEpisode,section.shelf--VideoTile div.tile__icon.icon-play--auth,cssSelector
+objMetadata,div.tile__meta__text div,cssSelector
+objLinkbtn,section.fork-picker__mvpd button.button--secondary,cssSelector
+objTitle,div.mvpd-dialog__featured > div.mvpd-dialog__title,cssSelector
+objSubtitle,div.mvpd-dialog__featured > div.mvpd-dialog__description,cssSelector
+objRightArrow,section.shelf--VideoTile button.shelf__arrow--right,cssSelector

@@ -1,0 +1,31 @@
+ObjectName,ObjectProperties,SearchType
+objFreeEpisode,a.tile--episode div.tile__icon,cssSelector
+objAuthEpisode,a.tile--episode div.icon-play--auth,cssSelector
+objclip,a.tile--clip div.tile__icon,cssSelector
+objDetails,div.video-meta div.video-meta__container a.video-meta__expand,cssSelector
+objShare,div.share a.share__btn,cssSelector
+objControls,#Layer_1,cssSelector
+ccText,div.cVVhvN,cssSelector
+ccOptions,div.gapehA button,cssSelector
+ccOff,button.bzsBPy,cssSelector
+ccSettings,//*[text()='settings'],xpath
+settings_Text,"//*[@id=""rational-cc-card""]/div/div/div[1]/div[1]/button[2]",xpath
+settings_Background,button[label='background'],cssSelector
+save_Reset_Btn,button.sc-Rmtcm,cssSelector
+ccSubtitles,div.tpSubtitles div.ttr-line>span:nth-child(1),cssSelector
+ccAfterClick,div.bAyxzl,cssSelector
+playingIconClick,button.tpPlayOverlay,cssSelector
+ccSubtitlesAfterOff,div.tpSubtitles div.ttr-cues,cssSelector
+mouseHover,div.QRCCS,cssSelector
+objBackground,button[label='background'],cssSelector
+objBackgroundOpacity,div.jnwgGn,cssSelector
+objSubtitlesPreview,div#paveSubtitlesPreview,cssSelector
+objduration,div.sc-iAyFgw.bFguz,cssselector
+ccEnglish,"//*[contains(text(),'English [CC]')]",xpath
+objSaveBtn,//button[text()='Save'],xpath
+objResetBtn,//*[text()='Save']/following-sibling::button[text()='Reset'],xpath
+objBorder_optn,button[label='border'],cssSelector
+objBorderEffect_dropdown,//*[text()='Border effect']/parent::div/select,xpath
+objBorder_efct,//*[text()='Border effect'],xpath
+objText_Opacity,div.bgXohY,cssSelector
+objColor_Option,//*[text()='Text color']/following-sibling::div,xpath

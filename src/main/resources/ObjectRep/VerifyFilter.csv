@@ -1,0 +1,10 @@
+ObjectName,ObjectProperties,SearchType
+objFilter_Section,section > div.show-page__modules > section.video-list.video-list__item-1.video-list.video-list__item-clips.video-list--filter > div > div.section-heading > div,cssSelector
+objdrop_down,div.filter-select span.filter-select__selected,cssSelector
+objlist_size,#main > section > div > section:nth-of-type(1) > div > div:nth-of-type(1) > div > div > ul > li.filter-select__item,cssSelector
+objList_item,ul.filter-select__dropdown:nth-of-type(1) >li > span:nth-of-type(1),cssSelector
+menu,header > div > div > nav > div > ul > li > a > span,cssSelector
+sName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+,,
+,,
+,,

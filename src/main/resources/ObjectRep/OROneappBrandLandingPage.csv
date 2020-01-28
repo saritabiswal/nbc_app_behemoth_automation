@@ -1,0 +1,29 @@
+ObjectName,ObjectProperties,SearchType
+ObjNetworksButton,a[href='/networks'],cssSelector
+ObjNetworkspageload,div.all-brands-page,cssSelector
+objBrands,a[href='/networks/bravo'],cssSelector
+Brandheader,div.brand-page__header div.brand-logo,cssSelector
+Tile icons,a.tile img[alt='Bravo'],cssSelector
+Tiles,a.tile,cssSelector
+Smartlead,section.shelf--withSlideTile,cssSelector
+objcnbc,a[href='/networks/cnbc'],cssSelector
+objsmartleadimage,section > div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1)  div.tile__icon,cssSelector
+objcta,section > div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1)  div.tile__title,cssSelector
+objepisodename,section > div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1)  div.tile__secondaryTitle,cssSelector
+objepiinfo,section > div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1)  div.tile__tertiaryTitle,cssSelector
+objsmartleadlogo,section > div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1)  div.brand-logo,cssSelector
+objvideopreview,section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx_observe.vilynx.vilynx_registered,cssSelector
+objshowfromsmartlead,section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a,cssSelector
+objshownamefromsmartlead,section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__secondaryTitle,cssSelector
+objshownamefromshowhome,div.slideshow__show-logo > div > img,cssSelector
+objshowtile,section > div.brand-page__sections > section:nth-child(4) > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__thumbnail div img,cssSelector
+objshowtilenav,section > div.brand-page__sections > section:nth-child(4) > div.shelf__inner > div > div > a:nth-child(1) ,cssSelector
+objepitile,section.shelf--VideoTile div.tile__icon,cssSelector
+tiletitle,section.shelf--VideoTile div.tile__title,cssSelector
+playingtitle,div.tile__secondaryTitle,cssSelector
+hamburger,button.navigation__hamburger,cssSelector
+name,h1.show-header__title__inner,cssSelector
+objshowtilemob,section > div.brand-page__sections > section:nth-child(4) > div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__thumbnail img,cssSelector
+objbrand,a.tile--brand,cssSelector
+brandsmartlead,div.brand-page__sections > section.shelf.shelf--withSlideTile.shelf--SlideTile > div > div > div > a:nth-child(1),cssSelector
+objshownamefromviddetail,span.show-header__title__inner,cssSelector
