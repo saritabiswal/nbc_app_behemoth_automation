@@ -1,0 +1,20 @@
+ObjectName,ObjectProperties,SearchType
+objFooterSection,section.footer__top,cssSelector
+objLocalSchedule,"a[href=""/schedule""]",cssSelector
+objDownArrow,div.schedule-program.schedule-program--live>div.schedule-program__more,cssSelector
+objLiveShowTime,div.schedule-program.schedule-program--live div span.schedule-program__time-hmm,cssSelector
+objWatchLiveIcon,div.schedule-program.schedule-program--live > div.schedule-program__ctas > a,cssSelector
+objScheduleDays,div.schedule__slide,cssSelector
+objPreviousArrow,"button[aria-label=""Previous""]",cssSelector
+objNextArrow,"button[aria-label=""Next""]",cssSelector
+objWatchLiveNow,a.schedule-program__cta__live,cssSelector
+objVisitSite,a.schedule-program__cta__serie,cssSelector
+objShowTitle,div.schedule-program__content__serie-title,cssSelector
+objScheduleProgram,div.schedule-program,cssSelector
+objTimeVerify,div.schedule-program__time,cssSelector
+objCloseButton,span.branch-banner-close,cssSelector
+objDownCaret,div.schedule-program__more,cssSelector
+objScheduleDesp,div.schedule-program__content__description,cssSelector
+objButtonArrowLeft,button.flickity-prev-next-button.previous,cssSelector
+objButtonArrowRight,button.flickity-prev-next-button.next,cssSelector
+objScheduleSeriesTitle,//*[@class='schedule-program__content__serie-title'],xPath

@@ -1,0 +1,4 @@
+ObjectName,ObjectProperties,SearchType
+ObjShows_Click,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows > a > span,cssSelector
+ObjShows_Episode,#main > div.responsive-app__wrapper > div > section > section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--all.tabs__content__list--active > section > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail > div.tile__brand-logo,cssSelector
+ObjShows_Inner_Episode,#main > div.responsive-app__wrapper > section > div > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li:nth-child(3) > a,cssSelector

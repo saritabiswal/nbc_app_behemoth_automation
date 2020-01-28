@@ -1,0 +1,35 @@
+ObjectName,ObjectProperties,SearchType
+objEpisodes,nav > div > ul > li:nth-child(3) a > span,cssSelector
+objshow_Name,a.card.card--episode:nth-child(1) article > div > div:nth-child(1),cssSelector
+objepisode_Title,section > div > div.all-video__content > a:nth-child(1) > article > div.card__meta > div.card__description > span:nth-child(1),cssSelector
+objepisode_Date,a.card.card--episode:nth-child(1) article > div > div.card__description span,cssSelector
+objVideos,div.all-video__inner div.card__title,cssSelector
+objmenu,header > div > div > nav > div > ul > li > a > span,cssSelector
+objsName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li:nth-child(2) > a,cssSelector
+first_Video,div > div.video-list__container > div.video-list__content.video-list__content-5 > a:nth-child(2),cssSelector
+playerIframe,iframe#player,cssSelector
+ele,.IconPause,cssSelector
+fb_app_id,meta[property='fb:app_id'],cssSelector
+og_site_name,meta[property='og:site_name'],cssSelector
+objog_title,meta[property='og:title'],cssSelector
+objog_type,meta[property='og:type'],cssSelector
+objog_url,meta[property='og:url'],cssSelector
+objog_description,meta[property='og:description'],cssSelector
+objog_image,meta[property='og:image'],cssSelector
+objog_image_type,meta[property='og:image:type'],cssSelector
+objog_image_width,meta[property='og:image:width'],cssSelector
+objog_image_height,meta[property='og:image:height'],cssSelector
+video_secure_url,            ,cssSelector
+objvideo_embed_url,iframe#player,cssSelector
+objTV_Show_Title,article.card__content div.card__meta div.card__title,cssSelector
+obj_Title,div.card__description span:nth-child(1),cssSelector
+objAirdate,div.card__description span:nth-child(2),cssSelector
+objmeta_tag,meta[name='apple-media-service-subscription'],cssSelector
+showsclickgn,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(2) a.navigation__item__link span,cssSelector
+showclickgn,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(2) div.navigation__item__group ul.navigation__item__list li:nth-child(2) a,cssSelector
+objsName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+Heading,h2.section-heading__title,cssSelector
+AllVideosList,div.shelf__tiles a.tile,cssSelector
+HeadingTitle,h2.section-heading__title,cssSelector
+VideosList5,div.video-list__content.video-list__content-5 > a,cssSelector
+banner,a#clickThrough,cssSelector

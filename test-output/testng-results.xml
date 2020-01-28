@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="192082" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:38:28Z">
+    <groups>
+    </groups>
+    <test name="NBCAutomationDESKTOP_Safari" duration-ms="305" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@2002fc1d]" name="tRun" duration-ms="255" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationDESKTOP_Safari -->
+    <test name="NBCAutomationIPHONE" duration-ms="26" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@2e377400]" name="tRun" duration-ms="18" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IPHONE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationIPHONE -->
+    <test name="NBCAutomationIPAD" duration-ms="23" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@e4487af]" name="tRun" duration-ms="15" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:35:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IPAD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationIPAD -->
+    <test name="NBCAutomationDESKTOP_Chrome" duration-ms="191448" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:38:27Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@4c309d4d]" name="tRun" duration-ms="191442" started-at="2020-01-27T10:35:16Z" finished-at="2020-01-27T10:38:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationDESKTOP_Chrome -->
+    <test name="NBCAutomationDESKTOP_Firefox" duration-ms="63" started-at="2020-01-27T10:38:27Z" finished-at="2020-01-27T10:38:27Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@5c90e579]" name="tRun" duration-ms="58" started-at="2020-01-27T10:38:27Z" finished-at="2020-01-27T10:38:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationDESKTOP_Firefox -->
+    <test name="NBCAutomationANDROIDTAB" duration-ms="22" started-at="2020-01-27T10:38:28Z" finished-at="2020-01-27T10:38:28Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@2d2ffcb7]" name="tRun" duration-ms="20" started-at="2020-01-27T10:38:28Z" finished-at="2020-01-27T10:38:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROIDTAB]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationANDROIDTAB -->
+    <test name="NBCAutomationANDROIDPHONE" duration-ms="12" started-at="2020-01-27T10:38:28Z" finished-at="2020-01-27T10:38:28Z">
+      <class name="com.nbcd.TestRunner.TestRunner">
+        <test-method status="PASS" signature="tRun(java.lang.String)[pri:0, instance:com.nbcd.TestRunner.TestRunner@5f8edcc5]" name="tRun" duration-ms="10" started-at="2020-01-27T10:38:28Z" finished-at="2020-01-27T10:38:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROIDPHONE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tRun -->
+      </class> <!-- com.nbcd.TestRunner.TestRunner -->
+    </test> <!-- NBCAutomationANDROIDPHONE -->
+  </suite> <!-- Suite -->
+</testng-results>

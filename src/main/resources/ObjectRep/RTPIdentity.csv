@@ -1,0 +1,28 @@
+ObjectName,ObjectProperties,SearchType
+objSignup,"a[href=""/sign-up""]",cssSelector
+objSignupButton,button.button--email,cssSelector
+objBrandLink,a.email-preferences__networks.email-preferences__networks--list,cssSelector
+objAddFavorite,i.show-header__add-favorite-icon,cssSelector
+objExitIcon,span.modal__icon__exit.modal__icon__exit--mobile,cssSelector
+objSignOut,a.identity__signout,cssSelector
+objMyProfile,button.navigation__item__link--account,cssSelector
+objStartWatching,"(//*[contains(text(),'Start Watching')])[1]",xPath
+objCreditOverlay,h2.credits-overlay__heading,cssSelector
+objWatchNow,"//*[contains(text(),'Watch Now')]",xPath
+objVideoTiles,button.sc-htpNat.frKAoy,cssSelector
+objVideoControl,div.iv-video-controls,cssSelector
+objButtonShape,div.button-shape,cssSelector
+objHeadTitle,span.navigation__item__title,cssSelector
+objUnlinkMVPD,a.mvpd__signout,cssSelector
+objNbcuText,h3.fork-picker__idm-heading,cssSelector
+objSignUpFaceBook,button.button--facebook,cssSelector
+objHamBurger,button[class='navigation__hamburger'],cssSelector
+objVideoPlay,h1.video-meta__info,cssSelector
+objSignIn,"a[href=""/sign-in""]",cssSelector
+objRequestPassword,"a[href=""/request-password""]",cssSelector
+objCheckBox,label.auth-terms__terms-checkbox,cssSelector
+objLinkProvider,button.button.button--secondary,cssSelector
+objLinkText,div.mvpd-dialog__description,cssSelector
+objTermsConditions,div.auth-terms__terms-text,cssSelector
+objNBCUni,div.signin-page__account-actions,cssSelector
+objShowPassword,a.password-input__show-password,cssSelector

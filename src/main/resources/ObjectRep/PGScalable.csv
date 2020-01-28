@@ -1,0 +1,12 @@
+ObjectName,ObjectProperties,SearchType
+quicklinks,div.footer__right > div > ul > li,cssSelector
+slidedescription,div.hero__description,cssSelector
+ctas,div.hero__cta,cssSelector
+videoplayer,iframe[id='player'],cssSelector
+PlayPauseIcon,div.tpPlay canvas.IconPause,cssselector
+NowPlaying,div.now-playing.playing > span.now-playing-text,cssselector
+nowPlayingTitle,section.container.paragraphsVideoCarousel a.video-module__link.video-module__link--active div.card__title,cssselector
+videoPlayertitle,div.video-container figcaption > div > div.card__title,cssselector
+header,div > div:nth-child(1) > div > div > span:nth-child(1) > div > img,cssselector
+rail,div.rail-image-wrapper div > span:nth-child(1) > div > img,cssselector
+thumb,div > div.video-thumbnail > div.resp-image > img,cssselector

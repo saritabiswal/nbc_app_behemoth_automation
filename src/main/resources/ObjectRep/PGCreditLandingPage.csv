@@ -1,0 +1,42 @@
+ObjectName,ObjectProperties,SearchType
+menu,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows > a > span,cssSelector
+sName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+sub_menu,#main > div.responsive-app__wrapper > div > div.sticky-outer-wrapper.show-header > div > div.show-header__menu > ul > li:nth-child(5) > a,cssSelector
+Image,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__image-wrapper > img,cssSelector
+Character_Name,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__name > h1,cssSelector
+Played_By_Section,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__name > h2,cssSelector
+Back_to_Cast,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.credit-details-page__back-link-wrapper > a,cssselector
+char_name,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__name > h2 > span,cssselector
+more_button,div.bio__long-desc__more span.bio__desc__more-text,cssselector
+less_button,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary.bio__text--active > div.bio__long-desc__more.bio__long-desc__more--active > span,cssselector
+Image,div.credit-list__content a:nth-child(1) article.card__content,cssselector
+Person_Name,a article.card__content div.card__meta h2,cssselector
+Back_to_Cast,a.credit-details-page__back-link,cssselector
+contestant_name,h1.bio__character,cssselector
+more_button,div.bio__long-desc__more span.bio__desc__more-text,cssselector
+less_button,div.bio__long-desc__more--active span.bio__desc__more-text,cssselector
+Team_name_header,div.credit-list__inner div.section-heading  h2.section-heading__title,cssselector
+Image,div.credit-list__content a:nth-child(1) article.card__content ,cssselector
+Person_Name,a article.card__content div.card__meta h2,cssselector
+Role_Name,a article.card__content div.card__meta div.card__description div.card__description__part,cssselector
+metadata,#main > div.responsive-app__wrapper > div > div.credit-landing-page__inner > div.credit-landing-page__teams > section:nth-child(1) > div > div.credit-list__content > a.card.card--credit.card--credit-leader > article > div.card__meta,cssselector
+header_menu_style,div.show-header__menu,cssselector
+Back_to_Cast,div.credit-details-page__back-link-wrapper a.credit-details-page__back-link,cssselector
+character_name,h1.bio__contestant__name,cssselector
+more_button,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__long-desc__more > span,cssselector
+less_button,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary.bio__text--active > div.bio__long-desc__more.bio__long-desc__more--active > span,cssselector
+Character_Name,div.bio__long-desc.bio__long-desc--primary p,cssselector
+ActorBioHeading,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > h2,cssselector
+SocialIcons,div.social-icons,cssselector
+Longdescription,div.bio__long-desc.bio__long-desc--primary.bio__long-desc--active,cssselector
+biotitle,h2.bio__title,cssselector
+Img,div.credit-list__inner div.credit-list__content a:nth-child(1) img,cssselector
+more_button1303,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__long-desc__more > span,cssselector
+character_description,#main > div.responsive-app__wrapper > div > div.credit-details-page__section > div.bio.bio--default.bio--character > div > div.bio__text.bio__text--primary > div.bio__long-desc.bio__long-desc--primary > p:nth-child(1),cssselector
+Title,h2[class='section-heading__title'],cssSelector
+CastPersonName,.credit-list__content > a:nth-of-type(1) h2,cssSelector
+RoleName,.credit-list__content > a:nth-of-type(1) div.card__description__part,cssSelector
+ClipsHeader,.video-list__inner .section-heading__title,cssSelector
+ClipsMetadata,div.video-list__content.video-list__content-4 > a> article > div.card__meta,cssSelector
+FirstClip,div.video-list__content.video-list__content-4 > a:nth-child(1),cssSelector
+credit,#main > div.responsive-app__wrapper > section > div > div.sticky-outer-wrapper.show-header.show-header--animate.show-header--long-title > div > div.show-header__menu > ul > li:nth-child(8) > a,cssSelector

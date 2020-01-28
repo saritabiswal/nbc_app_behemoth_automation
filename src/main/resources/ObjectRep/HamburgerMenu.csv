@@ -1,0 +1,6 @@
+ObjectName,ObjectProperties,SearchType
+HamBurgMenu,button[class='navigation__hamburger'],cssSelector
+SubmenuLinksList,span.navigation__item__title,cssSelector
+ShowsubmenuList,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+InnerShowSubmenu,div[class='navigation__logo-wrapper']~div  li>a,cssSelector
+NewsoprtsSubmenuList,div[class='navigation__item__group navigation__item__group--news-sports']>ul>li>a[class='navigation__cta'],cssSelector

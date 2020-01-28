@@ -1,0 +1,57 @@
+ObjectName,ObjectProperties,SearchType
+objShows,a[href='/shows/all'] span.navigation__item__title,cssSelector
+objNBCShows,a[href='/shows/nbc'],cssSelector
+objShowList,.tile__meta__text .tile__title,cssSelector
+showVisible,//div[@data-index='0'],xpath
+AtoZVisible,//a[text()='A-Z'],xpath
+Metatiles,div.tile__title,cssSelector
+brands,div.tile__brand-logo img,cssSelector
+MovieVisible,//a[text()='Movies'],xpath
+movietilesVisible,h1.show-header__title__inner,cssSelector
+showpagesection,section.show-page,cssSelector
+videoTiles,.links-selectable-group__container section.shelf--VideoTile,cssSelector
+videotilesimg,.links-selectable-group__container section.shelf--VideoTile .tile__brand-logo img,cssSelector
+clip_tiles,.links-selectable-group__container section.shelf--ClipTile,cssSelector
+clip_tiles_img,.links-selectable-group__container section.shelf--ClipTile .tile__brand-logo img,cssSelector
+editorial_shelf,.shelf--SeriesTile,cssSelector
+editorial_shelf_img,.shelf--SeriesTile .tile__brand-logo img,cssSelector
+header_Section_items,.show-header__list a,cssSelector
+episodes_heading,h1.section-heading__title,cssSelector
+EpisodesTiles_img,.links-selectable-group .tile--episode .supra-wrapper img,cssSelector
+clipTiles_img,.links-selectable-group .tile--clip .supra-wrapper img,cssSelector
+Editorial_Shelf_img_tile,.shelf--SeriesTile div.supra-wrapper img.vilynx_wrapperImg,cssSelector
+about_show,//*[text()='About the Show'],xpath
+clips_dates,//*[@class='links-selectable-group']//*[@class='tile__description']//span[2],xpath
+Added_Favorites,div.show-header__menu a.navigation__item__link--favorite-add,cssSelector
+ClipTiles_Section,section.shelf--ClipTile div.tile__title,cssSelector
+ClipBadges,section.shelf--ClipTile div.tile__description>span:nth-child(1),cssSelector
+clipTileDates,section.shelf--ClipTile div.tile__description>span:nth-child(2),cssSelector
+BrandImagekeyArt,(//*[@class='slideshow__brand-logo']//img)[1],xpath
+CookiesText,.responsive-app__cookies__text,cssSelector
+ContinueButton,.responsive-app__cookies__wrapper .button,cssSelector
+HamburgerMenu,button.navigation__hamburger,cssSelector
+NavigationList,ul.navigation__list,cssSelector
+ShowsOption,//*[text()='Shows'],xpath
+AllShows,//*[text()='All Shows'],xpath
+FavoritesIcon,.show-header__toggle-favorite a.navigation__item__link--favorite-add,cssSelector
+EpisodeMetadata,.shelf--VideoTile .tile__title,cssSelector
+EpisodesSection,.section-heading h2,cssSelector
+ShowHeaderList,.show-header__list,cssSelector
+EpisodesHeader,.episodes-page__header,cssSelector
+BeforeXpath,(//img[@alt=',xpath
+AfterXpath,'])[1],xpath
+ShowHeaderMenu,.show-header__menu,cssSelector
+LinksSelectableGroup,.links-selectable-group .shelf--VideoTile .tile,cssSelector
+Smarttilecss,.slideshow__container>.slideshow__slide--smart-tile .slideshow__smart-tile .tile__meta__text>div,cssSelector
+EpisodeMetadata,.links-selectable-group__container section.shelf--VideoTile div.tile__title,cssSelector
+Show_Page,.show-page,cssSelector
+EpisodeSection,.shelf--VideoTile .tile__icon,cssSelector
+Loading,.tpLoading,cssSelector
+Playing,.tpPlaying,cssSelector
+ClipTiles,.shelf--ClipTile .tile__icon,cssSelector
+VideoPage,.video-page,cssSelector
+ShelfTiles,h2.section-heading__title,cssSelector
+Heading,h2.section-heading__title,cssSelector
+ClipFilter,(//div[@class='filter-select'])[2],xpath
+FilterLink,(//div[@class='filter-select'])[2],xpath
+ShelfITems,"//*[contains(@class,'shelf--ClipTile')]/preceding-sibling::div//span[@class='filter-select__link']",xpath

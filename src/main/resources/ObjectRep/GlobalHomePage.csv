@@ -1,0 +1,138 @@
+ObjectName,ObjectProperties,SearchType
+BodyAd,div.mps-ad.mps-ad--topbox,cssSelector
+BannerAd,div.ad-topbanner.mps-ad__content,cssSelector
+NBClogo,"div.footer__logo a[href*=""/""]",cssSelector
+Fbshare,a.social-icons__icon.facebook,cssSelector
+Twtrshare,a.social-icons__icon.twitter,cssSelector
+tumbshare,a.social-icons__icon.tumblr,cssSelector
+pinshare,a.social-icons__icon.pinterest,cssSelector
+gplusshare,a.social-icons__icon.googleplus,cssSelector
+Ytubeshare,a.social-icons__icon.youtube,cssSelector
+NBC Full Episode App link,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(1) > a,cssSelector
+NBCsignuplink,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(2) > a,cssSelector
+Faqlink,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(3) > a,cssSelector
+Casting,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(4) > a,cssSelector
+Nbcstorelink,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(5) > a,cssSelector
+Tourlink,#main > footer > section > div > div.footer__right > div > ul > li:nth-child(6) > a,cssSelector
+Contactus,#main > footer > div.footer__legal > div > ul > li:nth-child(1) > a,cssSelector
+corpinfo,#main > footer > div.footer__legal > div > ul > li:nth-child(2) > a,cssSelector
+jobs,#main > footer > div.footer__legal > div > ul > li:nth-child(3) > a,cssSelector
+privacy,#main > footer > div.footer__legal > div > ul > li:nth-child(4) > a,cssSelector
+terms,#main > footer > div.footer__legal > div > ul > li:nth-child(5) > a,cssSelector
+ads,#main > footer > div.footer__legal > div > ul > li:nth-child(6) > a,cssSelector
+viewpanel,#main > footer > div.footer__legal > div > ul > li:nth-child(7) > a,cssSelector
+cc,#main > footer > div.footer__legal > div > ul > li:nth-child(8) > a,cssSelector
+techsup,#main > footer > div.footer__legal > div > ul > li:nth-child(9) > a,cssSelector
+videoview,#main > footer > div.footer__legal > div > ul > li:nth-child(10) > a,cssSelector
+description,meta[name='description'],cssSelector
+canonical,link[rel='canonical'],cssSelector
+objEpisode,div section:nth-child(2) > div.section-heading > h2,cssSelector
+objEpisodeSection,section:nth-child(3) > div > div.video-list__container > div.video-list__content a,cssSelector
+objEpisodeTitle,section:nth-child(2) div.tile__meta--branded >div > div.tile__title,cssSelector
+objEpisodeSecondaryTitle,section:nth-child(2) div.tile__meta--branded >div > div.tile__secondaryTitle,cssSelector
+objEpisodeDate,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > span:nth-child(2),cssSelector
+objdescription,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a:nth-child(1) > article > div.card__meta > div.card__description > span:nth-child(1),cssSelector
+objload_btn,section:nth-child(3) > div > div.video-list__container > div.load-button.full-width,cssSelector
+obj_FirstVideo,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a:nth-child(1),cssSelector
+obj_FirstVideo_Title,section:nth-child(2) a:nth-child(1) > article > div.tile__meta--branded >div > div.tile__title,cssSelector
+obj_EpisodeHeader,div.show-header__title span,cssSelector
+objClip,section:nth-child(13) div.section-heading > h2,cssSelector
+obj_FirstClip_Title,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a:nth-child(1),cssSelector
+objClipSection,section:nth-child(4) > div > div.video-list__container > div.video-list__content a,cssSelector
+objClipTitle,section:nth-child(13) div.tile__meta--branded >div > div.tile__title,cssSelector
+objClipSecondaryTitle,section:nth-child(13) div.tile__meta--branded >div > div.tile__secondaryTitle,cssSelector
+objClipType,section:nth-child(13) div.tile__meta--branded > div > div.tile__description > span.tile__meta__badge,cssSelector
+objClipDate,section:nth-child(13) div.tile__meta--branded > div > div.tile__description > span:nth-child(2),cssSelector
+objload_btn,section:nth-child(4) > div > div.video-list__container > div.load-button.full-width,cssSelector
+obj_ClipVideos,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a,cssSelector
+objDetails_btn,section > div.video-meta > a > span,cssSelector
+objtype,section > div.video-meta.video-meta--expanded > div.video-meta__details > div.video-meta__info > span.video-meta__type,cssSelector
+ClipDropDown,div.show-page__modules section:nth-child(2) div.filter-select__inner,cssSelector
+Options,div.show-page__modules section:nth-child(2) div.filter-select__inner ul,cssSelector
+ClipVideo,div.video-list__container,cssSelector
+objmeta_tag_apple,meta[name='apple-media-service-subscription'],cssSelector
+HamBurgMenu,#app > div > header > div > div > nav > div > div > a.navigation__hamburger,cssSelector
+SubmenuLinksList,ul.navigation__list>li>a>span,cssSelector
+ShowsubmenuList,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li>a,cssSelector
+ShowLink,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows.navigation__item--group > a > span,cssSelector
+SlickShowsList,div.slick-track>div,cssSelector
+SlickShowNextArrow,button.slick-arrow.slick-next,cssSelector
+SlickShowImageLine,div.slick-list>div>div>a,cssSelector
+DLS_showname,div.hero__show-name,cssSelector
+firstcollection,section.show-list.show-list--overlay.show-list--has-ad,cssSelector
+ClipListBox,div.filter-select div.filter-select__inner,cssSelector
+Clipslistboxitems,ul.filter-select__dropdown,cssSelector
+Clipvideo,div.video-list__container,cssSelector
+Clipdetailbutton,a.video-meta__expand,cssSelector
+SlickShows,div.slick-slide>a,cssSelector
+showname,div.hero__show-name,cssSelector
+ShowtuneIn,div.hero__show-tune-in,cssSelector
+showdesc,div.hero__description,cssSelector
+ctadesc,div.hero__cta,cssSelector
+PrevIcon,div > button.slick-arrow.slick-prev,cssSelector
+NextIcon,div > button.slick-arrow.slick-next,cssSelector
+trendingNow_heading,div section:nth-child(1) > div.section-heading > h2,cssSelector
+NumberOftrendingVideos,section:nth-child(1) article.tile__content,cssSelector
+ImageOfTrendingVideos,section:nth-child(1) div.tile__thumbnail,cssSelector
+TitleofTrendingVideos,section:nth-child(1) div.tile__meta--branded >div > div.tile__title,cssSelector
+DescofTrendingVideos,section:nth-child(1) div.tile__thumbnail div.supra-wrapper,cssSelector
+LoadButton,div.load-button.full-width,cssSelector
+objAllSections,h2.section-heading__title,cssSelector
+DLS_showTitle,div.show-header__title,cssSelector
+EpisodeSelect,a.tile--episode,cssSelector
+PDK_removed,div.video-player__embed iframe,cssSelector
+ShowsLink,a.navigation__item__link,cssSelector
+ShowLists,div.tile__meta__text .tile__title,cssSelector
+CAST_CREDIT,div.show-header__menu ul.show-header__list  li:nth-child(5) a,cssSelector
+First_CAST,div.tile__thumbnail img,cssSelector
+objEpisodes,section:nth-child(3) div.tile__icon,cssSelector
+Photos_Tab,div.show-header__menu ul.show-header__list  li:nth-child(4) a,cssSelector
+Episodes,div.show-header__menu ul.show-header__list  li:nth-child(3) a,cssSelector
+AllshowLink,div.tile__thumbnail--active div.tile__thumbnail__image--monochrome div.brand-logo__title,cssSelector
+GHP_img,div.show-list__container  img,cssSelector
+SHP_img,div.video-list__container  img,cssSelector
+credit_img,div.credit-list__content img,cssSelector
+creditLanding_img,div.bio__image-wrapper img,cssSelector
+Photos_img,div.gallery-list__container img,cssSelector
+Episodes_img,div.card--episode-page  img,cssSelector
+All_tab,div  li.tabs__tab__item.active  a,cssSelector
+AllshowS_img,div.cards__container img,cssSelector
+guestdetail_img,div.guest-detail__image  img,cssSelector
+Signup,li.navigation__item--sign-up > div > a > span,cssSelector
+Signupkey,input.signup-form__email,cssSelector
+Signuppasskey,input.password-input__password,cssSelector
+chc_box_signup,label.auth-terms__terms-checkbox,cssSelector
+signupbtn,div.signup-form__submit > button,cssSelector
+signUP_mob,a.navigation__item__link--sign-up,cssSelector
+objShowLists,shelf__inner,cssSelector
+firstshelve2 (1),#main > div.home-page > div > section:nth-child(2) > div > div.shelf__tiles > a:nth-child(9),cssSelector
+firstshelve2(2),#main > div.home-page > div > section:nth-child(3) > div > div.shelf__tiles > a:nth-child(4),cssSelector
+firstshelve2(3),#main > div.home-page > div > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(18),cssSelector
+firstshelve2(4),#main > div.home-page > div > section:nth-child(5) > div > div.shelf__tiles > a:nth-child(17),cssSelector
+firstshelve2(5),#main > div.home-page > div > section:nth-child(6) > div > div.shelf__tiles > a.tile.tile--episode,cssSelector
+firstshelve2(6),#main > div.home-page > div > section:nth-child(7) > div > div.shelf__tiles > a:nth-child(7),cssSelector
+clippreview,section.shelf:nth-child(4) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1),cssSelector
+videoplayer,#main > div.responsive-app__wrapper > div > div.video-wrapper > div > div,cssSelector
+clipVilynx,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx.vilynx_registered,cssSelector
+ClipsHeading,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(4) > div > div.section-heading h2,cssSelector
+imgthumbnail,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(2) > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx.vilynx_registered > div.supra-wrapper > img,cssSelector
+Clipreff,#main > div.responsive-app__wrapper >div > div.home-page__sections > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(1),cssSelector
+clipVilynx1,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx.vilynx_registered,cssSelector
+ClipsHeading1,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(4) > div > div.section-heading h2,cssSelector
+imgthumbnail1,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(2) > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx.vilynx_registered > div.supra-wrapper > img,cssSelector
+Clipreff1,#main > div.responsive-app__wrapper >div > div.home-page__sections > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(1),cssSelector
+ClipsHeading2,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(4) > div > div.section-heading h2,cssSelector
+imgthumbnail2,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(2) > div > div.shelf__tiles > a:nth-child(1) > article > div.tile__thumbnail.vilynx_enabled.vilynx.vilynx_registered > div.supra-wrapper > img,cssSelector
+Clipreff2,#main > div.responsive-app__wrapper >div > div.home-page__sections > section:nth-child(4) > div > div.shelf__tiles > a:nth-child(1),cssSelector
+objShowLink,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows.navigation__item--group > button,cssSelector
+rootlink,navigation__item__group,cssSelector
+objPDK_src,#scripts script:nth-child(3),cssSelector
+obj_SignUpwithEmail,div.signup-page__actions section:nth-child(1) div button span span,cssSelector
+objatoz,"a.tile--category[href*=""a-z""]",cssSelector
+objEpisode,section:nth-child(3) h2.section-heading__title,cssSelector
+objGuests_Tab,div.show-header__menu ul.show-header__list  li:nth-child(4) a,cssSelector
+objSignupbtn,button.button.button--email,cssSelector
+objFootersocial,ul.social-icons__icons a,cssSelector
+objQuicklinks,ul.quick-links__list a,cssSelector
+objSections,h2.section-heading__title,cssSelector
+objLinkrefalt,link[rel='alternate'],cssSelector

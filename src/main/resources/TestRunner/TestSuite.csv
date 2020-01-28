@@ -1,0 +1,3 @@
+TestName,TestClass,Execution,ExecutionType,Browser,BrowserVersion,OS,OSVersion
+search,com.nbcd.test.OTTMorePageRTP4771Vizio,Yes,Chrome,Chrome,75,Windows,7
+search,com.nbcd.test.OTTSearchPageRTP4076Vizio,No,Chrome,Chrome,75,Windows,7

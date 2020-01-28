@@ -1,0 +1,150 @@
+ObjectName,ObjectProperties,SearchType
+Breakbar,div.breaking-news__inner a,cssSelector
+app,"a[href=""/sso""]",cssSelector
+uname,div input#username,cssSelector
+password1,div input#password,cssSelector
+submit,.button-main-text,cssSelector
+Content_submenu,a[id='navbar-link-admin-content'],cssSelector
+Content_Title,#edit-title,cssSelector
+Content_Type,select[id='edit-type'],cssSelector
+Content_ApplyBtn,input[id='edit-submit-content'],cssSelector
+Content_FilterResults,table[class='sticky-header'] ~table>tbody>tr >td:nth-child(3) >a,cssSelector
+Content_ShortTitle,.field-name-field-short-title,cssSelector
+Content_TuneIn,.field-name-field-tune-in,cssSelector
+App_ShowName,div.slideshow__title,cssSelector
+App_ShowText,div.slideshow__tune-in,cssSelector
+objmenu,header > div > div > nav > div > ul > li > button > span,cssSelector
+objsName1,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+objsName2,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a1,cssSelector
+objsName3,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a2,cssSelector
+objsName4,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a3,cssSelector
+objsName5,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a4,cssSelector
+addacc,div.actions > ul > li > a,cssSelector
+sweepadd,a#navbar-link-node-add-sponsored-sweepstakes,cssSelector
+title,h1.page-title,cssSelector
+d,div.vertical-tabs.clearfix > ul > li:nth-child(2) > a > strong,cssSelector
+additil,fieldset#edit-group_sweepstakes_additional > legend > span > a,cssSelector
+list1,tr:nth-child(1) div label.option,cssSelector
+list2,tr:nth-child(2) div label.option,cssSelector
+list3,tr:nth-child(3) div label.option,cssSelector
+list4,tr:nth-child(4) div label.option,cssSelector
+list5,tr:nth-child(5) div label.option,cssSelector
+list6,tr:nth-child(6) div label.option,cssSelector
+optinlabel1,div#field-sweepstakes-opt-in-und-0-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+optinlabel2,div#field-sweepstakes-opt-in-und-1-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+optinlabel3,div#field-sweepstakes-opt-in-und-2-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+optinlabel4,div#field-sweepstakes-opt-in-und-3-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+optinlabel5,div#field-sweepstakes-opt-in-und-4-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+optinlabel6,div#field-sweepstakes-opt-in-und-5-field-sweepstakes-opt-in-label-add-more-wrapper > div > label,cssSelector
+shortdesc1,div#field-sweepstakes-opt-in-und-0-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+shortdesc2,div#field-sweepstakes-opt-in-und-1-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+shortdesc3,div#field-sweepstakes-opt-in-und-2-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+shortdesc4,div#field-sweepstakes-opt-in-und-3-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+shortdesc5,div#field-sweepstakes-opt-in-und-4-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+shortdesc6,div#field-sweepstakes-opt-in-und-5-field-sweepstakes-opt-in-short-add-more-wrapper > div > label,cssSelector
+inbehaviour1,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(1) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+inbehaviour2,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(2) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+inbehaviour3,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(3) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+inbehaviour4,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(4) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+inbehaviour5,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(5) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+inbehaviour6,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(6) > td:nth-child(2) > label:nth-child(5) > label > span,cssSelector
+intype1,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(1) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+intype2,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(2) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+intype3,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(3) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+intype4,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(4) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+intype5,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(5) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+intype6,table#field-sweepstakes-opt-in-values > tbody > tr:nth-child(6) > td:nth-child(2) > label:nth-child(6) > label > span,cssSelector
+External Id1,div#field-sweepstakes-opt-in-und-0-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+External Id2,div#field-sweepstakes-opt-in-und-1-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+External Id3,div#field-sweepstakes-opt-in-und-2-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+External Id4,div#field-sweepstakes-opt-in-und-3-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+External Id5,div#field-sweepstakes-opt-in-und-4-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+External Id6,div#field-sweepstakes-opt-in-und-5-field-sweepstakes-opt-in-charact-add-more-wrapper > div > label,cssSelector
+EditButton,div[id='ctools-button-1'],cssSelector
+Global_ShowLabelName,table[id='field-collection-shows-values'] tbody tr:nth-child(1) input ~span>label,cssSelector
+Global_Showcheckbox,table[id='field-collection-shows-values'] tbody tr:nth-child(1) input,cssSelector
+Global_Save,div[id='edit-actions'] > input[id='edit-submit'],cssSelector
+DLSLides,table[id='field-dl-slides-values']>thead  tr:nth-child(1)>th:nth-child(1,cssSelector
+ShowsList,table[id='field-collection-shows-values'] tbody tr input ~span>label,cssSelector
+AddCollections,input[id='edit-field-collections-und-add-more'],cssSelector
+CollectionsList,table[id='field-collections-values'] tbody tr input ~span>label,cssSelector
+AddCollections_Modal,#modalContent,cssSelector
+AddCollections_Modal_Title1,input[id='edit-title--3'],cssSelector
+AddCollections_Modal_Apply,input[id='edit-submit-collections-node-selection'],cssSelector
+AddCollections_Modal_Title,td[class='views-field views-field-title'] >a ,cssSelector
+AddCollections_Modal_Submit,input[id='edit-ervw-submit'],cssSelector
+AddCollections_Modal_Select,div[class='form-item form-type-select form-item-type']>select,cssSelector
+ApplicationAddedCollectionsTitle,h2[class='section-heading__title'],cssSelector
+SearcgTableResultTitle,table[class*='tableheader-processed sticky-table'] tr> td:nth-child(3)>a,cssSelector
+ShowTitle,input[id='edit-title--2'],cssSelector
+LeftMenuOption_Collections,div.vertical-tabs.clearfix > ul > li:nth-child(15)>a>strong,cssSelector
+Feature Video Collection Override,input[id *='edit-field-featured-vid-col-override'],cssSelector
+SaveButton,input[value='Save'],cssSelector
+AddContentBtn,a[href='/node/add'],cssSelector
+AddCollectionBtn,div[id='block-system-main'] a[href='/node/add/collection'],cssSelector
+BrowseVideoButton,div[class='form-item form-type-media form-item-field-video-entities-und-0'] a[id='edit-field-video-entities-und-0-browse-button'],cssSelector
+FirstVideoBrowser,div[id='media-browser-tabset']>div[id='page'] div[class='view-content']>table>tbody>tr:nth-child(1)>td:nth-child(2)>img,cssSelector
+BrowsrVideo_submit,#media-tab-pub_mpx_video > div.form-actions.form-wrapper > a,cssSelector
+AddTitle,input[id='edit-title'],cssSelector
+ModerationStatus,#edit-event,cssSelector
+Hometab,nav[id='navbar-administration'] div[class='navbar-tab']:nth-child(2) >a,cssSelector
+ModalContent_div,div[id='modalContent'],cssSelector
+addcontent_click,ul.action-links a,cssSelector
+collection_click,ul  li:nth-child(1)  span a,cssSelector
+CMStitle_enter,input.machine-name-source,cssSelector
+VideosBrowse_click,a#edit-field-video-entities-und-0-browse-button,cssSelector
+video_3_click,tbody tr.odd:nth-child(3),cssSelector
+video_5_click,tbody tr.odd:nth-child(5),cssSelector
+video_7_click,tbody tr.odd:nth-child(7),cssSelector
+video_9_click,tbody tr.odd:nth-child(9),cssSelector
+submit_click,a.button-yes.pub_mpx_video,cssSelector
+SecondVideo,div[id='media-browser-tabset']>div[id='page'] div[class='view-content']>table>tbody>tr:nth-child(2)>td:nth-child(2)>img,cssSelector
+select_status,select[id='edit-event'],cssSelector
+save_button,input#edit-submit,cssSelector
+simply_click,ul.pager,cssSelector
+attach_click,input#edit-field-video-entities-und-0-attach-button,cssSelector
+videos_text,div.field-name-field-video-entities span,cssSelector
+content_link,div.navbar-menu-administration li a.navbar-icon-content,cssSelector
+scalable_link,ul  li:nth-child(14)  span a,cssSelector
+scalable_title,div.form-type-textfield.form-item-title input,cssSelector
+module_title,div.form-item-field-scalable-content-modules-p-und-0-field-scalable-module-title-und-0-value input,cssSelector
+AddFeaturedVideo_click,div#edit-field-scalable-content-modules-p-und-add-more input:nth-child(3),cssSelector
+AddFeaturedVideo_browse,a#edit-field-scalable-content-modules-p-und-0-field-scalable-featured-video-p-und-0-browse-button,cssSelector
+Attach_scalable,input#edit-field-scalable-content-modules-p-und-0-field-scalable-featured-video-p-und-0-attach-button,cssSelector
+Addcollection_click,div#edit-field-scalable-content-modules-p-und-add-more--2 input:nth-child(4),cssSelector
+AddItems_click,input#edit-field-scalable-content-modules-p-und-1-field-scalable-video-carousel-und-add-more,cssSelector
+title_coll,input#edit-title--3,cssSelector
+Apply_framebutton,input#edit-submit-collections-node-selection,cssSelector
+first_checkbox,input#edit-entityreference-view-widget-0,cssSelector
+Submit_btn,input#edit-ervw-submit,cssSelector
+Endpoint_link,ul.vertical-tabs-list li:nth-child(5) a,cssSelector
+Endpoint_text,input#edit-field-scalable-endpoint-alias-und-0-value,cssSelector
+published,ul.vertical-tabs-list li:nth-child(7) a,cssSelector
+relationships,ul.vertical-tabs-list li:nth-child(8) a,cssSelector
+dd_shows,select[id='edit-field-pub-relation-tv-shows-und-0-field-show-und--2'],cssSelector
+just_link,ul.vertical-tabs-list li:nth-child(2),cssSelector
+IconPause,canvas.IconPause,cssSelector
+showtitle_txt,div.show-header__title span,cssSelector
+tunein_txt,div.show-header__tune-in,cssSelector
+test1,test1q,cssSelector
+test2,test,cssSelector
+ClipsMostRecenteFilter,div.show-page__sections section:nth-child(4) span.filter-select__selected,cssSelector
+ClipsFirstClip,section[class='video-list video-list__item-1 video-list video-list__item-clips video-list--filter'] div[class='video-list__container'] a:nth-child(1) div[class='card__meta'],cssSelector
+ThirdVideoBrowser1,div[id='media-browser-tabset']>div[id='page'] div[class='view-content']>table>tbody>tr:nth-child(3)>td:nth-child(2)>img,cssSelector
+FrouthVideo2,div[id='media-browser-tabset']>div[id='page'] div[class='view-content']>table>tbody>tr:nth-child(4)>td:nth-child(2)>img,cssSelector
+sspPlayicon,button.tpPlayOverlay,cssSelector
+Browse_Categories,form#views-exposed-form-pub-mpx-video-media-browser-page select#edit-content-type,cssSelector
+apply_browsevideo,form#views-exposed-form-pub-mpx-video-media-browser-page #edit-submit-pub-mpx-video-media-browser,cssSelector
+Video_status,table.views-table td.views-field.views-field-status,cssSelector
+Show_dropdown,div.form-item.form-type-select.form-item-categories select,cssSelector
+clipsselectedfilter,div.show-page__sections section:nth-child(4) div.filter-select__inner span,cssSelector
+collectionlist-homepage,tbody tr td div.form-item.form-type-checkbox span.float-right,cssSelector
+Pub7Title,div#field-display-title-add-more-wrapper div input,cssSelector
+Sectiontitles,div.home-page__sections div.section-heading,cssSelector
+adcounterSSP,div.tpAdCountdown,cssSelector
+SSP_videoContentvalue,div.tpCards div#rational-control-rack div.sc-jKJlTe input,cssSelector
+SSP_FirstColl_videosImgs,div.video-wrapper-container div:nth-child(1) div.video-carousel.video-carousel--no-title figure a div.video-thumbnail,cssSelector
+ssp_videptracker,div#rational-control-rack,cssSelector
+ssp_nowplaying Text,div.now-playing.playing span,cssSelector
+ssp_headline,input#edit-field-scalable-headline-und-0-value,cssSelector
+api,td.line-content,cssSelector

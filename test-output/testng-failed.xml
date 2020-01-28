@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [NBCAutomation]" parallel="classes">
+  <test thread-count="1" name="NBCAutomation(failed)" parallel="classes">
+    <parameter name="environment" value="Chrome"/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="osversion" value="7"/>
+    <parameter name="version" value="75"/>
+    <classes>
+      <class name="com.nbcd.test.OTTSearchPageRTP4076Vizio">
+        <methods>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+          <include name="getBrowserType"/>
+          <include name="afterSuite"/>
+          <include name="NetworksPageRTP4088"/>
+          <include name="getBrowser"/>
+          <include name="getResult"/>
+          <include name="closeAllDriver"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.nbcd.test.OTTSearchPageRTP4076Vizio -->
+    </classes>
+  </test> <!-- NBCAutomation(failed) -->
+</suite> <!-- Failed suite [NBCAutomation] -->

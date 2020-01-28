@@ -1,0 +1,97 @@
+ObjectName,ObjectProperties,SearchType
+Branding link,div.sweepstakes.container div div div span:nth-child(3) > a.atlas-image__image-map.atlas-image__image-map-rectangle,cssSelector
+Videolink,div.carousel-video div.video-thumbnail > img,cssSelector
+Nowplaying click,div > div.now-playing.playing,cssSelector
+Topbanner,div.ad-topbanner.mps-ad__content,cssSelector
+Bodyad,div.row div.mps-ad__inner div.ad-topbox.mps-ad__content,cssSelector
+signup,input#signup-form__email.signup-form__email,cssSelector
+password,input.password-input__password,cssselector
+checkbox, div.signup-form__form-element.signup-form__form-element--terms > div > label,cssselector
+pLAY,div.tpPlayOverlay canvas.PlayerOverlaySkin,cssselector
+CONTAINER,section.container.paragraphsFeaturedVideo div.video-container,cssselector
+AD,div.mps-ad.mps-ad--topbox,cssselector
+PLAYFADE,div.playicon.fade-in,cssselector
+PAUSE,div.tpPlay canvas.IconPause,cssselector
+UNCheckedExternalContent,div.sweepstakes.container,cssselector
+CheckedExternalContent,div.sweepstakes.container,cssselector
+Videos,div > figure> a > div > div > div > img,cssselector
+TopAd,div.ad-topbanner.mps-ad__content,cssSelector
+3204_videoPlayer,div.paragraphsFeaturedVideo-module,cssSelector
+3204_play,div.featured-video div.playicon.fade-in,cssSelector
+Signupbtn,div.signup-form__submit button span span,cssSelector
+Fname,input#firstName.form-control,cssSelector
+Lname,input#lastName.form-control,cssSelector
+Gender,select.form-control,cssSelector
+Pnumber,input#phone.form-control,cssSelector
+date,input#month.date-two.form-control,cssSelector
+dateS,input#day.date-two.form-control,cssSelector
+year,input#year.date-four.form-control,cssSelector
+zip,input#zipCode.form-control,cssSelector
+Checkbox list,form#sweepstakes_pom > div:nth-child(7) > div:nth-child(1) > label input,cssSelector
+submitbutton,div.submit-container button,cssSelector
+Confirmation message,div.sweepstakes_header h1,cssSelector
+Socialicons,div.social-img img,cssSelector
+twittertext,textarea#status,cssSelector
+imageinshare,div.lfloat a div div img,cssSelector
+contentdescription,div.lfloat div:nth-child(1) a:nth-child(1),cssSelector
+ScableScalesForm,section.signup-page__pane,cssSelector
+ScalesUserName,input.signup-form__email,cssSelector
+ScalesPassword,input[type='password'],cssSelector
+ScalesCheckbox,label.signup-form__terms-checkbox,cssSelector
+ScalesSubmit,div.signup-form__submit,cssSelector
+EnterNowButton,button.css-1ovrgxz,cssSelector
+caveatText,div.caveatText.small,cssSelector
+Form_BGColor,div.submit_open,cssSelector
+form_labelcolors,div.form__label-colors,cssSelector
+Title_video,div.card__meta div.card__title,cssSelector
+category_video,div.card__meta__inner span.card__clip__badge,cssSelector
+date_video,div.card__meta__inner span.card__description__part,cssSelector
+Footer_section,footer.footer,cssSelector
+social_links,div.social-icons h2,cssSelector
+Quick_links,div.quick-links h2,cssSelector
+Corporate_links,div.corporate-links,cssSelector
+footer_nbcLogo,div.footer__logo,cssSelector
+footer_scalable,section.footer__top,cssSelector
+Shiv,Shiv,cssSelector
+url,div.lfloat div div div,cssSelector
+email,input#email,cssSelector
+pass,input#pass,cssSelector
+login,label input,cssSelector
+msg,div.well.form-state-wrapper.submit_ineligible,cssSelector
+titl,h1.signin-page__title,cssSelector
+sout,div.identity__signout a,cssSelector
+h1,div.period-closed h1,cssSelector
+h2,div.period-closed h2,cssSelector
+imgcl,div.period-closed div img,cssSelector
+nav,ul.show-header__list li a.navigation__item__link,cssSelector
+Activessp,a.navigation__item__link.navigation__item__link--active,cssSelector
+tunein,div.show-header__tune-in,cssSelector
+Pagetitle,h1.page-title__title,cssSelector
+container,div.sweepstakes.container,cssSelector
+sweep,div.sweepstakes_content > div.atlas-image > span:nth-child(2) > a,cssSelector
+sweep,div.rail-image-wrapper span a,cssSelector
+closed message,div.period-closed span:nth-child(2) a,cssSelector
+MAGE,div > div > span:nth-child(2) > a.atlas-image__image-map.atlas-image__image-map-rectangle,cssSelector
+IMAGEinshare,section[class*='paragraphsBrandingImage'] div[class*='atlas-image'] span:nth-child(2) a[class*='image-map-rectangle'],cssSelector
+SIGNIN,div.signup-page__account-actions p a,cssSelector
+navsu,a.navigation__item__link--sign-up,cssSelector
+navlogo,a.navigation__logo,cssSelector
+bodyad,div > div > div.ad-container > div,cssSelector
+brandingimg,div.paragraphsBrandingImage-module div.resp-image img,cssSelector
+featuredvideo,div.featured-video div.video-thumbnail,cssSelector
+video_feature_collection,div.video-carousel div.video-element,cssSelector
+ContentiFrame,div.form-state-wrapper,cssSelector
+banner,div.responsive-app div.mps-ad.mps-ad--topbanner,cssSelector
+Shiv,Shiv,cssSelector
+Shiv,Shiv,cssSelector
+Shiv,Shiv,cssSelector
+Shiv,Shiv,cssSelector
+HeaderImage,[class='ScalableSalesPage__header'] ~div  div[class*='paragraphsBrandingImage-module']>div,cssSelector
+FormHeaderImage,div[class*='sweepstakes__header-image'] div,cssSelector
+EntryForm,div[class='signup-page signup-page--sweepstakes'],cssSelector
+RailImage,[class*='rail-image-wrapper'],cssSelector
+Frontendcolor,main[id='main'] div[class='content'],cssSelector
+frontendimage,section[class='container paragraphsBrandingImage'],cssSelector
+IMAGEinshare,section[class*='paragraphsBrandingImage'] div[class*='atlas-image'] span:nth-child(3) a[class*='image-map-rectangle'],cssSelector
+sweep_mob,div.sweepstakes_content > div.atlas-image > span:nth-child(3) > a,cssSelector
+closed message,div.period-closed span:nth-child(3) a,cssSelector

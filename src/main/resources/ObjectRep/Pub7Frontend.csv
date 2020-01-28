@@ -1,0 +1,74 @@
+ObjectName,ObjectProperties,SearchType
+castheading,h1.section-heading__title,cssselector
+Credittitle,h2.card__title,cssselector
+CreditImg,div.card__thumbnail img,cssselector
+Creditrole,span.card__description__part-bold,cssselector
+CoachBio,h2.bio__title,cssselector
+ContestantAd,div.bio__secondary div.mps-ad__inner,cssselector
+Bio_credit details,h2.section-heading__title,cssselector
+itunes,a.bio__itunes-badge,cssselector
+details,span.bio--bold,cssselector
+wikilink,a.bio__contestant__info__link,cssselector
+socialicons,div.bio__social-icons .social-icons__icon.facebook,cssselector
+details1,li.bio__info-list__item,cssselector
+creditBioTextq,div.bio__long-desc.bio__long-desc--primary p,cssselector
+socialiconsUnderImg,div.bio__social-icons--under-image li a,cssselector
+followText,div.bio__social-icons--under-image div.bio__social-icons-follow span,cssselector
+ActorBioText,div.bio__long-desc--secondary p,cssselector
+contentMenu,div.navbar-menu-administration li a.navbar-icon-content,cssselector
+contentTitle,div.form-type-textfield.form-item-title input,cssselector
+contentType,div.form-type-select.form-item-type select,cssselector
+contentShowdropdown,div.form-type-select.form-item-field-show-target-id select,cssselector
+contentApply,input#edit-submit-content,cssselector
+firstseason_view,tbody tr.views-row-first td.views-field.views-field-title a,cssselector
+seasonNumber,div.field-name-field-season-id div.field-item.even,cssselector
+sectionHeadling,div.section-heading h1.section-heading__title,cssselector
+teamName_seasonwithteam,div.credit-landing-page__teams h2.section-heading__title,cssselector
+contestanttImg_season,div.bio__contestant__primary img,cssselector
+backlink,a.credit-details-page__back-link,cssselector
+coachimg_season,div.bio__primary img,cssselector
+coachMetacolor,div.card__meta,cssselector
+creditlandingCoach,div.card__description__part,cssselector
+firstedti_pub7,tbody tr.views-row-first td.views-field-pub-editorial div.ctools-content li.first a,cssselector
+latenight_tab,ul.vertical-tabs-list li:nth-child(9) a,cssselector
+Guestnames_pub7,div.field-name-field-lng-guests input,cssselector
+Guestblock_frontend,ul.guests__list,cssselector
+guestnames_frontend,ul.guests__list div.guests__names,cssselector
+shownav,div.sticky-outer-wrapper.show-header,cssselector
+showtitle,h1.show-header__title__inner,cssselector
+showtunein,div.show-header__tune-in,cssselector
+shownavlist,ul.show-header__list,cssselector
+shownavitems,ul.show-header__list li a,cssselector
+shownavSelected,li.navigation__item__link.navigation__item__link--div.navigation__item__link--active,cssselector
+GlobalHomedls,div.slideshow__swipeable div.slideshow__title,cssselector
+Content_submenu,a[id='navbar-link-admin-content'],cssSelector
+collectionNames,table#field-collections-values tbody td:nth-child(2) span label,cssSelector
+collectionlist-homepage,tbody tr td div.form-item.form-type-checkbox span.float-right a,cssSelector
+Pub7Title,div#field-display-title-add-more-wrapper div input,cssSelector
+Sectiontitles,div.home-page__sections div.section-heading,cssSelector
+videoscountColl,table#edit-field-video-entities-und-table tbody tr,cssSelector
+sectionscountFR,div.home-page__sections section .shelf__tiles,cssSelector
+FearurescountColl,table#field-features-values tbody tr,cssSelector
+FeaureImgname_pub7,label.media-filename,cssSelector
+Featureheadline_pub7,input#edit-field-feature-headline-und-0-value,cssSelector
+FeatureURL_Pub7,input#edit-field-feature-link-und-0-url,cssSelector
+objmenu,header > div > div > nav > div > ul > li > button > span,cssSelector
+objsName1,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+tsjf_featureheadline,div.show-page__sections section:nth-child(7) h2.section-heading__title,cssSelector
+tsjf_feaurescount,div.show-page__sections section:nth-child(7) a,cssSelector
+tsjf_firstFeatureImg,div.show-page__sections section:nth-child(7) div.tile__thumbnail img,cssSelector
+tsjf_firstFeatureItitle,div.show-page__sections section:nth-child(7) div.tile__title,cssSelector
+videosSectionTitles-sethmeyers,section.links-selectable-group h2,cssSelector
+clipsCOunt_sethmeyers,section.links-selectable-group div:nth-child(1) div.shelf__tiles .tile.tile--clip,cssSelector
+AdInClipsSection-sethmeyers,section.links-selectable-group div:nth-child(1) div.mps-ad__inner,cssSelector
+tvshow_daypart,div.field-name-field-daypart,cssSelector
+voice_firstFeatureMetadata,div.show-page__sections section:nth-child(4) div.tile__secondaryTitle,cssSelector
+Featuremetadata_pub7,input#edit-field-feature-metadata-und-0-value,cssSelector
+voice_feaureHeadline,div.show-page__sections section:nth-child(4) h2.section-heading__title,cssSelector
+voice_feauretitle,div.show-page__sections section:nth-child(4) div.tile__title,cssSelector
+tvshow_active,div.field-name-field-active,cssSelector
+allshowslink,li.navigation__item__more a,cssSelector
+showsHeading,h1.page-title__title,cssSelector
+all_tab_allshows,li.tabs__tab__item:nth-child(1) a,cssSelector
+showTitles_alltab,div.tabs__content__list--all div.tile__title,cssSelector
+activevalue_pub7_screenshot,div.field-name-field-background-repeat,cssSelector

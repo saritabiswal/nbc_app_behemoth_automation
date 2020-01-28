@@ -1,0 +1,16 @@
+ObjectName,ObjectProperties,SearchType
+objNetworkTiles,div.tile__thumbnail__image--monochrome img ,cssSelector
+objBrandDisplaying,a.tile--brand,cssSelector
+objnetworkTilesImage,div.tile__thumbnail,cssSelector
+networkTiles,div.tile__meta__text,cssSelector
+brandLogoImg,div.tile__thumbnail__image--monochrome>img,cssSelector
+image_Tile,img.vilynx_wrapperImg,cssSelector
+image_fading,img.vilynx_fading,cssSelector
+brand_header,div.brand-page__header__inner img,cssSelector
+HamburgerMenu,button.navigation__hamburger,cssSelector
+MenuList,ul.navigation__list,cssSelector
+NetworksOption,//*[text()='Networks'],xpath
+NetworkTiles,.grid__tiles,cssSelector
+Beforecss36,div.tile__meta[data-index=',cssSelector
+AfterCss,'],cssSelector
+PageTile,div.page-title__inner h1,cssSelector

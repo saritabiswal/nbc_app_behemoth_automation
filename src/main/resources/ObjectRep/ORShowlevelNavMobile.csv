@@ -1,0 +1,42 @@
+ObjectName,ObjectProperties,SearchType
+ham,button.navigation__hamburger,cssSelector
+popular,a[href='/shows/all/popular'],cssSelector
+blacklistshow,#main > div.responsive-app__wrapper > div > div > div.all-shows-page__sections > section > section.links-selectable-group > div > div > section.grid > div > div > a:nth-child(2),cssSelector
+verify,ul.show-header__list,cssSelector
+link,a.navigation__item__link_target,cssSelector
+episodespage,div.episodes-page,cssSelector
+thumbnails,div.tile__thumbnail,cssSelector
+tiles,div.tile--episode,cssSelector
+showhomepagevalidate,section.show-page,cssSelector
+cookie,#main > div.responsive-app__cookies > div > div > button,cssSelector
+title,div.tile__title,cssSelector
+secondaryTitle,div.tile__secondaryTitle,cssSelector
+watch-episode,div.tile__watch-episode,cssSelector
+longDescription,div.tile__longDescription,cssSelector
+filterdropdown,div.filter-select,cssSelector
+filterseason,a.filter-select__link,cssSelector
+photlandingpage,section.gallery-list,cssSelector
+noofshelfs,a.tile--gallery,cssSelector
+photos,div.tile__thumbnail,cssSelector
+description,h2.tile__title,cssSelector
+postdate,div.tile__description__part,cssSelector
+photodetail,div.photo-detail-page,cssSelector
+tileicon,div.tile__icon,cssSelector
+expiredmessagebox,div.video-meta__expired,cssSelector
+filterallcats,div.gallery-list__filters__mobile a,cssSelector
+filterseasonphotos,div.gallery-list__filters__season div.filter-select__inner,cssSelector
+seasonselected,a.filter-select__link,cssSelector
+filtercatphotos,div.gallery-list__filters__categories div.filter-select__inner,cssSelector
+filtercategories,div.gallery-list__filters__categories a.filter-select__link,cssSelector
+creditlandingpage,div.credit-landing-page,cssSelector
+Artistname ,h2.tile__title,cssSelector
+artistrollname,div.tile__description__part,cssSelector
+castlist,a.tile.tile--character,cssSelector
+castdetailspagevalidation,div.credit-details-page,cssSelector
+bioimage,div.bio__image-wrapper img,cssSelector
+biocharacter,h1.bio__character,cssSelector
+bioplayed,h2.bio__played-by,cssSelector
+biolong,div.bio__long-desc,cssSelector
+biolongdescmore,div.bio__long-desc__more,cssSelector
+creditdetailspageback,a.credit-details-page__back-link,cssSelector
+scalablevalidate,div.ScalableSalesPage,cssSelector

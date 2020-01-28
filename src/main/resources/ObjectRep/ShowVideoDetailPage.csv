@@ -1,0 +1,268 @@
+ObjectName,ObjectProperties,SearchType
+ShowsLink,li.navigation__item--shows a,cssselector
+ShowList,div.tile__title,cssselector
+Videos,div.video-list__content.video-list__content-3 a,cssselector
+Episodes,div.show-header__menu ul.show-header__list  li:nth-child(4) a,cssselector
+SeasonList,div.filter-select__inner,cssselector
+LoadButton,div.load-button.full-width,cssselector
+AuthCode,div.card__icon.icon-play--auth,cssselector
+TVProvider,section.fork-picker__mvpd button span span,cssselector
+OptimumTV,a.mvpd-provider.mvpd-provider--cablevision,cssselector
+UserName,input#IDToken1,cssSelector
+Password,input#IDToken2,cssSelector
+SignIn,img#signin_button,cssSelector
+OptimumLogo,div.navigation__logo-wrapper  div span,cssselector
+OptimumVisitsite,ul.identity-header__options li a.mvpd__url,cssselector
+OptimumUnlink,ul.identity-header__options li a.mvpd__signout,cssselector
+VideolistDetail,div.show-page__modules >section:nth-child(1) > div >div > div >a,cssselector
+VideoList,div.video-list__container > div > a,cssselector
+VideoSmartlink,img.video__smart-link,cssselector
+EpisodeHeading,div.show-page__modules section:nth-child(1) h2,cssselector
+EpisodeVideoCount,div.show-page__modules section:nth-child(1) a,cssselector
+EpisodeDropDown,section.show-page section:nth-child(2) div.filter-select__inner,cssselector
+EpisodeDropDownList,div.show-page__modules section:nth-child(1) ul ,cssselector
+EpisodeVideoList,div.show-page__modules section:nth-child(1) a,cssselector
+Details,div > div > div.video-meta > a,cssselector
+Details Description,p.video-meta__description,cssselector
+DetailsExpires,div.video-meta__expires,cssselector
+Details Appearing,div.video-meta__appearing span,cssselector
+DetailsInfo,div.video-meta__info span,cssselector
+ClipDropDownOptions,ul.filter-select__dropdown,cssselector
+ClipEVideoList,section.video-list.video-list__item-clips > div > div.video-list__container > div.video-list__content > a:nth-child(1),cssselector
+CopyrightMetadata,div.video-meta__copyright,cssselector
+Share,div.share,cssselector
+ThrowBackCurrentSubMenu,ul.filter-select__dropdown li,cssselector
+AllShowsVideoList,section.show-list,cssselector
+ShowDetailShowsMenu,ul.navigation__list li,cssselector
+ShowDetailShowListItems,ul.navigation__item__list,cssselector
+OptimumLogo4,span.navigation__mvpd__logo.navigation__mvpd__logo--identity,cssselector
+OptimumImageName,li.navigation__item.navigation__item--identity.navigation__item--account > div > div > a > div > span > img,cssselector
+AllShowsLink,li.navigation__item__more a,cssselector
+Imagelink,div.video-list__container div a,cssselector
+ShowHomePageDetailEpisodescount,section.video section :nth-child(1)  h2,cssselector
+ShowHomeDetailLinksImage,section.video section :nth-child(1)  a,cssselector
+Optimum Unlink,ul.identity-header__options li,cssselector
+EpisodeLink,section.show-page  div.show-page__modules section,cssselector
+expepisode,div.card.card--episode-page > article > a > div > div,cssselector
+BodyAd,section.video-list.video-list__item-0.video-list.video-list__item-episodes.video-list--has-ad > div > div.video-list__container > div.video-list__content.video-list__content-5 > div > div,cssselector
+twitter:card,meta[name='twitter:card'],cssselector
+twitter:site,meta[name='twitter:site'],cssselector
+twitter:site:id,meta[name='twitter:site:id'],cssselector
+twitter:title,meta[name='twitter:title'],cssselector
+twitter:description,meta[name='twitter:description'],cssselector
+twitter:image,meta[name='twitter:image'],cssselector
+clipclick,a.card.card--clip article.card__content  div.card__thumbnail,cssselector
+metanameexp,div.video-meta__expired,cssselector
+metanameclp,"meta[content='Watch Mr. Kaplan: Conclusion (Season 4, Episode 22) of The Blacklist or get episode details on NBC.com']",cssselector
+ClickVideo,div.video-list__content.video-list__content-28 > a:nth-child(2) > article > div.card__thumbnail > div.card__icon,cssselector
+Ad verify,div.PlayerCountdownFont,cssselector
+Episodeclick,section.show-page ul.show-header__list li,cssselector
+episeason,div.filter-select__inner span.filter-select__selected,cssselector
+episeasonnav, div div.filter-select__inner ul li:nth-child(6) a,cssselector
+ClassicFilter,section > div > div.section-heading > div > div,cssselector
+2ThrowBackCurrentSubMenu,li.tabs__tab__item,cssselector
+ogurl,meta[property='og:video:series'],cssselector
+Now,div.video-list__container,cssselector
+ClickImage,section.show-page div.card__icon,cssselector
+ImageDescription,section.show-page div.card__description,cssselector
+NowPalyingActive,a.card.card--episode.card--active,cssselector
+MostRecentfilter,div.filter-select__inner,cssselector
+MostRecentdropdownlistitems1,div.show-page__modules section:nth-child(1) ul li.filter-select__item,cssselector
+EpisodeIcon,div.shelf__tiles,cssselector
+MostRecentdropdownlistitems, ul.filter-select__dropdown,cssselector
+Vediodetailepisodelist,div.tile__secondaryTitle,cssselector
+objsignup_page__content,div.signup-page__content-inner > div > div.signup-page__intro > p,cssselector
+objContinue,div.fork-overlay__picker > div > section.fork-picker__idm > button,cssselector
+objUser_Name,input.signup-form__email,cssselector
+objsignup_btn,div.signup-form > form > div.signup-form__submit > button,cssselector
+objcheckbox,label.signup-form__terms-checkbox,cssselector
+objPassword,input[placeholder='Password'],cssselector
+objmvpd_bridge_screen,div.mvpd-bridge-screen__profile-identity-text,cssselector
+objmvpd_credits_text,div.mvpd-bridge-screen__profile-credits-text,cssselector
+objStart_Watching,div.mvpd-bridge-screen__auth > section.mvpd-bridge-screen__profile > button,cssselector
+objcredit_msg,h2.free-trial-dialog__heading,cssselector
+objcredit_count,span.free-trial-dialog__notice-count,cssselector
+objWatchNow_btn,section > div.free-trial-dialog > div.free-trial-dialog__buttons > button:nth-child(1),cssselector
+objcredit_msg1,h2.free-trial-dialog__heading,cssselector
+objcredit_count1,span.free-trial-dialog__notice-count,cssselector
+objWatchNow_btn1,section > div.free-trial-dialog > div.free-trial-dialog__buttons > button:nth-child(1),cssselector
+objSign_in_Link,ul.identity-header__options > li > a.identity__signin,cssselector
+objUser_Name1,input.signin-form__email,cssselector
+objSign_up1,button.button.button--text,cssselector
+objLive1,li.navigation__item.navigation__item--live > a > span,cssselector
+visisblity,section > div.cpc-live-video-player__wrapper > div.live-video-success > div > div > div > div.live-video-success__logo,cssselector
+objSign_up,a.navigation__item__link--sign-up,cssselector
+objLive2,li.navigation__item.navigation__item--live > a ,cssselector
+objmvpd_dialog,div.mvpd-dialog__featured > div.mvpd-dialog__title,cssselector
+objOptimum,div.mvpd-provider__content > img[alt='Optimum'],cssselector
+objele,meta[property='video:series'],cssselector
+Image,div.show-header__title span,cssselector
+SignINlink,a.navigation__item__link--sign-up,cssselector
+UserName1,input.signup-form__email,cssselector
+Password2,input[type='password'],cssselector
+Submit,div.signup-form__submit,cssselector
+SigninCheck,label.signup-form__terms-checkbox,cssselector
+AdCount,div.PlayerCountdownFont,cssselector
+Scrubber,div.tpScrubber,cssselector
+iframe1,iframe[id='player'],cssselector
+PlayPauseIcon1,div.tpPlay canvas.IconPause,cssselector
+1bodyAd,div > div.video-list__container > div.video-list__content > div,cssselector
+noOfepisodes,div.section-heading > h2,cssselector
+AddsCount,ScrubberChapterTickSkin,className
+PlayPauseIcon3,IconPause,className
+Scrubberball,ScrubberThumbSkin,className
+PlayPauseIcon2,IconPlay,className
+objMainMenulink,ul.show-header__list li:nth-child(3) a,cssselector
+objWatchedVideoClass,div.video-list__container:nth-child(2),cssselector
+objaddimg,div.PlayerCountdownFont,cssselector
+objVideoTitle,div.video-meta__title,cssselector
+showimage,section.show-page  div.show-page__modules section a,cssselector
+Clipslist,#main > section > section.video-list.video-list__item-1.video-list.video-list__item-clips.video-list--filter > div > div.section-heading > h2,cssselector
+clipscontainer,section.video-list.video-list__item-clips > div > div.video-list__container > div.video-list__content > a,cssselector
+linkrel,link[rel='stylesheet'],cssselector
+optimumLogo2,li.navigation__item.navigation__item--identity.navigation__item--account > div > div > a > div > span > img,cssSelector
+DirectTvLink,a.mvpd-provider.mvpd-provider--dtv.mvpd-provider--featured,cssSelector
+DirectTVEmail,#usernameInputId,cssSelector
+DirectTVPwd,input.inputFieldPass,cssSelector
+DirectTvLogin,input.loginBtn,cssSelector
+DirectTvLogo,span.navigation__mvpd__logo.navigation__mvpd__logo--identity>img,cssSelector
+DirecTVerror,div.video-player > div > div,cssSelector
+relAlternate,link[rel='alternate'],cssselector
+twitter_country,"meta[name=""twitter:app:country""]",cssselector
+twitter_appname_iphone,"meta[name=""twitter:app:name:iphone""]",cssselector
+twitter_appname_ipad,"meta[name=""twitter:app:name:ipad""]",cssselector
+twitter_appname_googleplay,"meta[name=""twitter:app:name:googleplay""]",cssselector
+twitter_id_iphone,"meta[name=""twitter:app:id:iphone""]",cssselector
+twitter_id_ipad,"meta[name=""twitter:app:id:ipad""]",cssselector
+twitter_id_googleplay,"meta[name=""twitter:app:id:googleplay""]",cssselector
+twitter_url_iphone,"meta[name=""twitter:app:url:iphone""]",cssselector
+twitter_url_ipad,"meta[name=""twitter:app:url:ipad""]",cssselector
+twitter_url_googleplay,"meta[name=""twitter:app:url:googleplay""]",cssselector
+prop_appname_ios,"meta[property=""al:ios:app_name""]",cssselector
+property_appname_android,"meta[property=""al:android:app_name""]",cssselector
+property_appstore_ios,"meta[property=""al:ios:app_store_id""]",cssselector
+property_pkg_android,"meta[property=""al:android:package""]",cssselector
+property_url_ios,"meta[property=""al:ios:url""]",cssselector
+property_url_android,"meta[property=""al:android:url""]",cssselector
+property_url_web,"meta[property=""al:web:url""]",cssselector
+property_web_fallback,"meta[property=""al:web:should_fallback""]",cssselector
+hidesales_heading,span.video-meta__info-title,cssselector
+list_cardtitles,a.card.card--clip div.card__title,cssselector
+ShowhomepageFirstvideo,div.show-page__modules > section:nth-of-type(1) a:nth-of-type(1),cssSelector
+ShowhomepageFirstvideodetailstitlemetadata,div.video-meta > div.video-meta__inner > div,cssselector
+ThrowBackCurrentSubMenuMobile,div.tabs__select > div > ul > li:nth-child(4)>a,cssselector
+ListedFirstThrowBackVideo,section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--classic-throwback.tabs__content__list--active > section > div > div > div > a:nth-child(1),cssselector
+ClipsFilterSelect,div[class='filter-select custom-select'] >select,cssselector
+FirstVideoafterfilteringclip,div.video-list__container > div:nth-of-type(1) > a:nth-of-type(1),cssselector
+DetailsLinkofclips,a.video-meta__expand,cssselector
+LoadButton12,div.video-list__container > div.load-button.full-width,cssselector
+ClipsVideoList,div.video-list__container > div:nth-of-type(1) > a,cssselector
+objFailmessage,div.video-overlay__message,cssselector
+objOptimimIcon,img[alt='Optimum'],cssselector
+objSignOut,a.mvpd__signout,cssselector
+objWOW,img[alt='WOW!'],cssselector
+objWowUseer,input[placeholder='Username'],cssselector
+objWowPass,input[placeholder='Password'],cssselector
+objwowSignin,button.login,cssselector
+objWowUnlinkicon,img[alt='WOW!'],cssselector
+objXfinity,img[alt='Comcast XFINITY'],cssselector
+comcastuser,#user,cssselector
+comcastpass,#passwd,cssselector
+comcastsubmit,button.submit,cssselector
+HamBurgMenu12,a.navigation__hamburger,cssselector
+ShowNameText,span.show-header__title__inner,cssselector
+SubmenuLinksList,ul.navigation__list>li>a>span,cssSelector
+ShowsubmenuList,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li>a,cssSelector
+episode_select,a.card.card--episode article.card__content  div.card__thumbnail div.card__icon,cssSelector
+episode4    ,section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--classic-throwback.tabs__content__list--active > section > div > div > div > a:nth-child(4),cssSelector
+dropdown_episode_select,div.filter-select__inner,cssSelector
+dropdown_episode_options,div.filter-select.custom-select select option,cssSelector
+click_episodedropdown,div.filter-select.custom-select>select,cssSelector
+open_NBC_APP,a.video-promo__app-link.needsclick,cssSelector
+select_dropdown21,div.show-page__modules > section:nth-of-type(1) select,cssselector
+HamBurgMenu,a[class='navigation__hamburger'],cssselector
+Signup,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a > span,cssSelector
+SignIN2,div.signup-page__content-inner > div > section > div.signup-page__account-actions > p > a,cssSelector
+Email,input[class='signin-form__email'],cssselector
+pwd,input#password-input__password.password-input__password,cssSelector
+SigninClick,div.signin-page__content-inner > section > div.signin-form > form > div.signin-form__submit > button > span > span,cssSelector
+yes,section > div.mvpd-bridge-screen__actions > button:nth-child(2) > span,cssSelector
+providerscreen,#main > div > div > span > div > div.mvpd-dialog__providers,cssSelector
+OptLogo,div.navigation__logo-wrapper div.navigation__mvpd span.navigation__mvpd__logo--identity,cssSelector
+episode2,section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--classic-throwback.tabs__content__list--active > section > div > div > div > a:nth-child(2),cssSelector
+EpisodesFilter,div>div[class='filter-select'],cssSelector
+promotelogo,span img.video-promo__icon,cssSelector
+inapp,span div.video-promo__watch-in-app,cssSelector
+promotext,span div.video-promo__text.video-promo__text--no-app,cssSelector
+PDK_1,div.video-player iframe,cssSelector
+show ,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded a span,cssSelector
+show23,a.navigation__item__link span.navigation__item__title,cssSelector
+show,li.navigation__item__more a,cssSelector
+clips_heading,section.video-list--filter div h2,cssSelector
+clips_videos,section.video-list--filter div.video-list__content a,cssSelector
+clip_episode,div.video-meta__details div.video-meta__info span:nth-child(1),cssSelector
+clip_length,div.video-meta__details div.video-meta__info span:nth-child(2),cssSelector
+clip_type,div.video-meta__details div.video-meta__info span:nth-child(3),cssSelector
+clip_showtype,div.video-meta__details div.video-meta__info span:nth-child(4),cssSelector
+clip_showair-type,div.video-meta__details div.video-meta__info span:nth-child(5),cssSelector
+player3,iframe#player,cssSelector
+playerfrom,div.sc-kGXeez,cssSelector
+playerto,div#rational-control-rack div div div div div.sc-dxgOiQ,cssSelector
+scroll,input.sc-kgoBCf,cssSelector
+valida,div.sc-iAyFgw,cssSelector
+cc,div.sc-gqjmRU.bAyxzl button.sc-htpNat.frKAoy,cssSelector
+cctext,div.sc-jTzLTM.cVVhvN,cssSelector
+ccenglish,button.sc-fjdhpX.gGaKYU,cssSelector
+ccoff,button.sc-fjdhpX.bzsBPy,cssSelector
+ccsettings,button.sc-jzJRlG,cssSelector
+hold,div.sc-brqgnP,cssSelector
+ccaptionssubtitiles,div.tpSubtitles,cssSelector
+verifyoff,div.sc-gqjmRU.bAyxzl svg#Layer_1 > path:nth-child(2),cssSelector
+Backgroundclick,button.sc-iRbamj,cssSelector
+opacityback,div.sc-fAjcbJ.jnwgGn,cssSelector
+opacitybackto,div.sc-gisBJw.bgYIps,cssSelector
+savebutton,div.sc-jDwBTQ.hwRqaB > div.sc-gipzik.fDnkYW > button:nth-child(2),cssSelector
+resetbutton,div.sc-jDwBTQ.hwRqaB > div.sc-gipzik.fDnkYW > button:nth-child(3),cssSelector
+movehighlightcc,div#rational-control-rack > div > div > div.sc-brqgnP.eoJnfw > div.sc-jWBwVP.jRvCoC > div.sc-gqjmRU.bAyxzl > button,cssSelector
+red,div.sc-fBuWsC.fhDgkb,cssSelector
+border,div.sc-jDwBTQ.hwRqaB > div.sc-gPEVay.cZRvJG > button.sc-iRbamj.jQJuIC,cssSelector
+select_dropdown,select.sc-kjoXOD.eaopaU,cssSelector
+textbtn,button.sc-iRbamj.fEIhhg,cssSelector
+textfontsize,select.sc-kjoXOD.eaopaU,cssSelector
+Pause,button.sc-htpNat.frKAoy,cssSelector
+ad,div.tpAdCountdown,cssSelector
+videoclick,div.tpPlayer div.tpActive,cssSelector
+holdad,div.sc-jWBwVP.jRvCoC,cssSelector
+player,div.sc-jWBwVP.jRvCoC button:nth-child(4),cssSelector
+pause2,div.sc-jWBwVP.jRvCoC button:nth-child(1),cssSelector
+back10sec,div.sc-jWBwVP.jRvCoC button:nth-child(2),cssSelector
+duration,div.sc-iAyFgw.bFguz,cssSelector
+ccvalidate,div.sc-gqjmRU.bAyxzl > button,cssSelector
+sound,div.sc-ifAKCX.cuqwQg > button,cssSelector
+fullscreen,div.sc-jWBwVP.jRvCoC > button:nth-child(6),cssSelector
+butncntnr,div.button-container,cssSelector
+cntwatch,section:nth-child(4) > div > div.section-heading > h2,cssSelector
+cntbar,section:nth-child(4) div.card__progress--bar,cssSelector
+bar,div.card__progress--bar,cssSelector
+thumbnail,section:nth-child(4) div.card__thumbnail,cssSelector
+endcard,div.video-end-card__next-info,cssSelector
+livebtn,li.navigation__item--live a.navigation__item__link,cssSelector
+mvpdpickerlive,div.mvpd-dialog,cssSelector
+mvpdpickerlivex,section.fork-picker__mvpd button,cssSelector
+logoval,ul > li.navigation__item.navigation__item--identity.navigation__item--account > div > div > a > div > span > img,cssSelector
+iframe,iframe#player,cssSelector
+movers,button.tpPlayOverlay,cssSelector
+rackmobile,div div div div.sc-jKJlTe div:nth-child(3),cssSelector
+clip_episode,a.card.card--clip article.card__content div.card__thumbnail,cssSelector
+container,div.tpContainer,cssSelector
+endcard,div#rational-end-card,cssSelector
+adblc,div.video-overlay--ad-block,cssSelector
+objDetails,a>span.video-meta__expand__text,cssSelector
+objMetaTag,a.video-meta__app-link,cssSelector
+season_episode,h1 span.video-meta__episode,cssSelector
+month_details,div.video-meta__title,cssSelector
+objShowsLink,ul > li.navigation__item.navigation__item--shows > a,cssselector
+objListOfShows,section.grid > div > div a,cssselector
+objShowWithAuthCode,div.tile__icon.icon-play--auth,cssselector
+objTvProviderLink,section.fork-picker__mvpd button,cssselector
+objSuccessMsg,div > div.live-video-success__title,cssselector
