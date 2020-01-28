@@ -1,0 +1,25 @@
+ObjectName,ObjectProperties,SearchType
+Showsbutton,li.navigation__item--shows a,cssSelector
+Allshowspagevalidation,div.all-shows-page__inner,cssSelector
+Showname,a.tile--title,cssSelector
+addfav,li.navigation__item__desktop-only a.navigation__item__link--favorite-add,cssSelector
+removefav,li.navigation__item__desktop-only a.navigation__item__link--favorite-remove,cssSelector
+headings,h2.section-heading__title,cssSelector
+showname,section.title-description > div > img,cssSelector
+showname,section> div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+showname,section> div.shelf__inner > div > div > a:nth-child(2) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+showname,section> div.shelf__inner > div > div > a:nth-child(3) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+showname,section > div.shelf__inner > div > div > a:nth-child(4) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+fourthfav,section:nth-child(ilinksIterator) > div.shelf__inner > div > div > a:nth-child(4) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+episode,a.tile--episode,cssSelector
+Progressbar,div.tile__progress--bar,cssSelector
+continuewatchingclick,div.home-page__sections > section:nth-child(3) > div.shelf__inner > div > div > a,cssSelector
+onairtiles,a.tile.tile--onairnow,cssSelector
+logo,div.home-page__sections > div > section > div.shelf__inner > div > div > a > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo > div > img,cssSelector
+MVPDpicker,div.mvpd-dialog--featured,cssSelector
+Arrow,section.shelf--OnAirNowTile button.shelf__arrow,cssSelector
+Arrowright,section.shelf--OnAirNowTile button.shelf__arrow--right,cssSelector
+validateplaying,div.live-page__meta,cssSelector
+objVideoScroller,div.sc-kpOJdX.hBijsY,cssSelector
+objADtargets,div.sc-eNQAEJ.gxlVFf>div,cssSelector
+objVideoTimePercentage,div.sc-cMljjf.bizKLZ > div.sc-eNQAEJ.gxlVFf > input,cssSelector

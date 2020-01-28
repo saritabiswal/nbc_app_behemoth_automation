@@ -1,0 +1,49 @@
+ObjectName,ObjectProperties,SearchType
+objmenu,header > div > div > nav > div > ul > li > a > span,cssSelector
+objsName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+objSubMenuItems,section.show-page ul.show-header__list li,cssSelector
+objphotoclick,section > div > div.gallery-list__container.gallery-list__hide-last > div.gallery-list__content > a:nth-child(2),cssSelector
+objHover,div.gallery__photo-count,cssSelector
+objgallery__caption,div.gallery__caption,cssSelector
+objgallery__credit1,div.gallery__credit,cssSelector
+objgallery__credit2,div.gallery__credit span:nth-child(2),cssSelector
+objshare__btn_facebook,div.share a.share__btn.share__btn--facebook,cssSelector
+objshare__btn_twitter,div.share a.share__btn.share__btn--twitter,cssSelector
+objshare__btn_twitter,div.share a.share__btn.share__btn--google,cssSelector
+objslickArrowprevbtn,button.slick-arrow.slick-prev,cssSelector
+objslickArrownextbtn,button.slick-arrow.slick-next,cssSelector
+objiframe,div.gallery__ad div.mps-ad__inner iframe[id^='google_ads_iframe'],cssSelector
+objAdvertisement,div#ad,cssSelector
+objSeason_Filter,section > div > div.section-heading > div > div.gallery-list__filters__season > div > div.filter-select__inner,cssSelector
+objSeason_Filter_values,div.section-heading > div > div.gallery-list__filters__season > div > div > ul > li a,cssSelector
+objSeason_Filter_selection,section > div > div.section-heading > div > div.gallery-list__filters__season > div > div > ul > li:nth-child(2),cssSelector
+objnavigation_bar,div.section-heading h1.section-heading__title,cssSelector
+objheader__tune_in,div.show-header__info div.show-header__tune-in,cssSelector
+objShow_hearder,div.show-header__title span.show-header__title__inner,cssSelector
+objSeason_Filter,div.gallery-list__filters__season span.filter-select__selected,cssSelector
+objCategories_Filter,div.gallery-list__filters__categories,cssSelector
+objfirst_Filter_items,section > div > div.section-heading > div >div.gallery-list__filters__season > div > div > ul > li  a,cssSelector
+objphotogallery_count,div.gallery-list__container div.gallery-list__content  a.card.card--gallery,cssSelector
+objgallery_Title,div.card__meta h2.card__title,cssSelector
+objCategory,div.card__meta div:nth-child(1),cssSelector
+objPost_Date,div.card__meta > div > div:nth-child(2),cssSelector
+objSecond_Filter,div.gallery-list__filters__categories span.filter-select__selected,cssSelector
+objsecond_Filter_items,section > div > div.section-heading > div >div.gallery-list__filters__categories > div > div > ul > li  a,cssSelector
+objfooter,section.footer__top,cssSelector
+menu_list,span.navigation__item__title,cssSelector
+objSeason_Filter_selection,section > div > div.section-heading > div > div.gallery-list__filters__season > div > div > ul > li:nth-child(1),cssSelector
+ShowsLink,a.navigation__item__link,cssselector
+ShowDetailShowListItems,ul.navigation__item__list,cssselector
+banner,div.ad-topbanner.mps-ad__content,cssSelector
+showNavItems,div.show-header__menu>ul>li>a,cssselector
+listofgalleries,div.gallery-list__content.gallery-list__content-125>a,cssselector
+cardTitle1,h2.card__title,cssselector
+AdonDLS,div.ad-topbox.mps-ad-gallery__content,cssselector
+photoGalleriesHeading,h2.section-heading__title,cssselector
+ShowsLink,a.navigation__item__link,cssselector
+rootlink,navigation__item__group,className
+ObjPhotoGal,div > div.section-heading > h1,cssSelector
+SelGallery,div.gallery-list__content.gallery-list__content-39 > a:nth-child(2),cssSelector
+GalSelected,div.photo-detail-page__heading > div,cssSelector
+rightArrow,#main > div.photo-detail-page > div.gallery > div > div > div > div.carousel__arrow.carousel__arrow--right > span,cssSelector
+SelGalleryMob,div.gallery-list__content.gallery-list__content-135 > a:nth-child(2),cssSelector

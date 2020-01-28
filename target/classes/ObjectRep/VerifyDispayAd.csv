@@ -1,0 +1,5 @@
+ObjectName,ObjectProperties,SearchType
+HeaderTitle,div.video-list__inner div.section-heading h2.section-heading__title,cssSelector
+Ad_Width_Heigth,div[id^='div-gpt-topbox'],cssSelector
+Load_button,div.load-button.full-width,cssSelector
+No_of_Videos,section.video-list__item-episodes div.video-list__inner div.video-list__container a.card,cssSelector

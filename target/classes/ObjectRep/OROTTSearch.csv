@@ -1,0 +1,57 @@
+ObjectName,ObjectProperties,SearchType
+Homebutton,"li[aria-label=""Home""]",cssSelector
+Networksbutton,li.Menu-item > ul > li:nth-child(6) > a > span,cssSelector
+Allbrandspage,div.SearchPage,cssSelector
+Trendingnowshelf,div.SearchPage-featuredShows,cssSelector
+Trendingshows ,div.SearchPage-featuredContent div.AriaElement,cssSelector
+brandlogos,span.TileMeta__TileBrand-h3bjh0-3 img,cssSelector
+showtitle,div.VideoHomePage-title,cssSelector
+menunav,ul.Menu-nav,cssSelector
+searchactive,a.Menu-link.is-search.is-active,cssSelector
+spacebar,div.Keyboard-space,cssSelector
+input,input.Keyboard-input,cssSelector
+backspace,div.Keyboard-delete,cssSelector
+clear,div.Keyboard-clear,cssSelector
+toggle,div.Keyboard-toggle,cssSelector
+aletter,"div[aria-label=""a""] div",cssSelector
+gletter,"div[aria-label=""g""] div",cssSelector
+tletter,"div[aria-label=""t""] div",cssSelector
+series,div.SearchResult-title.is-series,cssSelector
+clip,div.SearchResult-subTitle.is-clip,cssSelector
+episodecounter,div.SearchResult-subTitle,cssSelector
+pletter,"div[aria-label=""p""] div",cssSelector
+sletter,"div[aria-label=""s""] div",cssSelector
+yletter,"div[aria-label=""y""] div",cssSelector
+cletter,"div[aria-label=""c""] div",cssSelector
+hletter,"div[aria-label=""h""] div",cssSelector
+movietile,div.SearchResult-title.is-movie,cssSelector
+iletter,"div[aria-label=""i""] div",cssSelector
+lletter,"div[aria-label=""l""] div",cssSelector
+oletter,"div[aria-label=""o""] div",cssSelector
+episodetilex,div.SearchPage-results > div:nth-child(1) > div > div > div.vilynx_enabled > img,cssSelector
+uletter,"div[aria-label=""u""] div",cssSelector
+usabrandlogo,div.SearchPage-results > div:nth-child(1) > div > div > div.Brand-logo > img[alt='USA'],cssSelector
+showtile,div.SearchPage-results > div:nth-child(1) > div > div > img,cssSelector
+Description,div.SearchPage-results > div:nth-child(1) > div > div > div.SearchResult-meta > div.SearchResult-description,cssSelector
+logo,div.SearchPage-results > div:nth-child(1) > div > div > div.Brand-logo,cssSelector
+shownameofepisode,div.SearchPage-results > div:nth-child(1) > div > div > div.SearchResult-meta > div.SearchResult-title,cssSelector
+airdate,div.SearchPage-results > div:nth-child(1) > div > div > div.SearchResult-meta > div.SearchResult-airDate,cssSelector
+episodetitle,div.SearchPage-results > div:nth-child(1) > div > div > div.SearchResult-meta > div.SearchResult-subTitle,cssSelector
+clipbadge,div.SearchPage-results > div:nth-child(1) > div > div > div.SearchResult-meta > div.SearchResult-clip,cssSelector
+jletter,"div[aria-label=""j""] div",cssSelector
+fletter,"div[aria-label=""f""] div",cssSelector
+eletter,"div[aria-label=""e""] div",cssSelector
+dletter,"div[aria-label=""d""] div",cssSelector
+Activationcodevalue,div.ActivationPageComponents__ActivationPageCode-sc-11nvqmz-4,cssSelector
+Activationcodeenter,input.form-element__input,cssSelector
+continuebtn,button.form-element__button,cssSelector
+continuetoidm,div.responsive-app__wrapper > div > div > div > div > div > div > div > div > section:nth-child(1) > button,cssSelector
+signupbtn,button.button--email,cssSelector
+signupmail,input#signup-form__email,cssSelector
+signuppswd,input#password-input__password,cssSelector
+authicon,label.auth-terms__terms-checkbox,cssSelector
+submitbtn,"button[type=""submit""]",cssSelector
+skip,div.mvpd-bridge-screen__actions > button.button--hollow,cssSelector
+creditconfirmation,div.CreditPage-credits,cssSelector
+player,div.VideoPlayer,cssSelector
+noresults,div.SearchPage-noResults,cssSelector

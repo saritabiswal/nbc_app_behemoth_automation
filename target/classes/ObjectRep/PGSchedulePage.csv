@@ -1,0 +1,71 @@
+ObjectName,ObjectProperties,SearchType
+objSchedule_menu,header > div > div > nav > div > ul > li > a > span,cssSelector
+objdescription,meta[name='description'],cssSelector
+objtitle,head > title,cssSelector
+objcanonical,link[rel='canonical'],cssSelector
+objSchedule_video,div.schedule-program.schedule-program--live div.schedule-program__content__program-title,cssSelector
+objWatchlive,div.schedule-program.schedule-program--live > div.schedule-program__ctas > a,cssSelector
+Schedule,span.navigation__item__title,cssselector
+VisitSite,div.schedule-program.schedule-program--live > div.schedule-program__ctas > a.schedule-program__cta__serie,cssselector
+objSchedule,div > ul > li:nth-child(4) > a > span,cssselector
+objDay,div.schedule__day--active div.schedule__day__day,cssselector
+objDate,div.schedule__day--active div.schedule__day__date,cssselector
+Week_view,div.slick-slide.slick-active div.schedule__day__date,cssselector
+objSDay,div.slick-list div.schedule__day__day,cssselector
+objRightArrow,button.slick-arrow.slick-next,cssselector
+Following_week,div.slick-active.schedule__day div.schedule__day__date,cssselector
+objLeftArrow,button.slick-arrow.slick-prev,cssselector
+objTime,div.schedule-program.schedule-program--live div span.schedule-program__time-hmm,cssselector
+objShow_name,div.schedule-program--live div.schedule-program__content__serie-title,cssselector
+objShow_Desc,div.schedule-program--live div.schedule-program__content__description p,cssselector
+objShow_Rating,div.schedule-program.schedule-program--live > div.schedule-program__content > div.schedule-program__content__all-new,cssselector
+img,div.logo-header  img,cssselector
+objWhats_on_header,div.logo-header h2.logo-header__title,cssselector
+objaffiliate_logo,div.logo-header > a > img,cssselector
+objClick_affiliate_logo,div.logo-header > a,cssselector
+objday_schedule,div.schedule__day__day,cssselector
+objschedule_Time,div.schedule-items div.schedule-program div.schedule-program__time span,cssselector
+objschedule_Title,div.schedule-items div.schedule-program div.schedule-program__content__serie-title,cssselector
+objLIVE_flag,strong.schedule-program__live-label,cssselector
+objLive_Icon,div.schedule-show.schedule-program--live a.schedule-program__cta__live,cssselector
+objbackgroundcolor,div.schedule-program.schedule-program--live,cssselector
+ClickOnShow,div.schedule__content div a,cssselector
+Header,header > div > div > nav > div > ul > li:nth-child(3) > a > span,cssselector
+name5,header > div > div > nav > div > ul > li:nth-child(8) > a > span,cssselector
+Name6,header > div > div > nav > div > ul > li:nth-child(6) > a > span,cssselector
+name7,header > div > div > nav > div > ul > li:nth-child(7) > a > span,cssselector
+SearchIcon,header > div > div > nav > div > ul > li.navigation__item.navigation__item--search,cssselector
+name2,header > div > div > nav > div > ul > li:nth-child(2) button span,cssselector
+title,meta[property='og:title'],cssselector
+desc,meta[name='description'],cssselector
+can,link[rel='canonical'],cssselector
+allshows_list,div.schedule-program div.schedule-program__time,cssselector
+live_showtime,div.schedule-program.schedule-program--live div span.schedule-program__time-hmm,cssselector
+ShowsWithvalidLinks,div.schedule-program__content__program-title>a,cssSelector
+CurrentLiveShow,div.schedule-program.schedule-program--live,cssSelector
+CurrentShowWatchNowText,div.schedule-program.schedule-program--live > div.schedule-program__ctas > a.schedule-program__cta__live,cssSelector
+CurrentShowLiveText,div.schedule-program.schedule-program--live > div.schedule-program__time > strong,cssSelector
+more,div.schedule-program.schedule-program--live > div.schedule-program__more,cssSelector
+objSignUpBtn,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a,cssSelector
+objLive,li.navigation__item.navigation__item--live a,cssSelector
+objScheduleGrid,div.live-guide__inner,cssSelector
+objBrandsList,div.live-guide__streams a div img,cssSelector
+objLocationList,div.live-guide__streams > a,cssSelector
+objScheduleRows,div.live-guide__inner > div,cssSelector
+objScheduleFirstRow,a.live-guide-program.live-guide-program--now > div ,cssSelector
+objRightArrowGuide,div.live-guide__arrow.live-guide__arrow--right.live-guide__arrow--active,cssSelector
+objLeftArrowGuide,div.live-guide__arrow.live-guide__arrow--left.live-guide__arrow--active,cssSelector
+objFirstRowPrograms,div.live-guide__inner > div:nth-child(1)>a,cssSelector
+MVPD,div.mvpd-dialog__featured ,cssSelector
+objTvProvidersList,div.mvpd-dialog__providers a img,cssselector
+UserNameOpt,input[name='IDToken1'][type='text'],cssselector
+PasswordOpt,input[name='IDToken2'][type='password'],cssselector
+LoginButton,img#signin_button,cssselector
+SuccessMsg,div.live-video-success__title,cssselector
+objCurrenPlayingProgram,div.live-page__meta__title,cssSelector
+objCurrentPrgMetadata,div.live-page__meta > div > div,cssSelector
+objScheduleTable,div.live-guide__schedules,cssSelector
+objHomeButton, li.navigation__item.navigation__item--home > a,cssSelector
+objLiveLink,li.navigation__item.navigation__item--live > a,cssSelector
+objFooterLinks,div.footer__right > div > ul > li > a,cssSelector
+objLocalSchedule,div.schedule,cssSelector

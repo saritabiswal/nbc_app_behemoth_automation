@@ -1,0 +1,22 @@
+ObjectName,ObjectProperties,SearchType
+AppsLink,div > nav > div > ul > li:nth-child(7) > a,cssselector
+AndroidImage,img[alt='Android App'],cssselector
+Roku Channel,img[alt='Roku Channel'],cssselector
+Xbox ,img[alt='Xbox 360 App'],cssselector
+MenuItems,.navigation__item__title,cssselector
+AppPageIntro,div.app-page__intro,cssselector
+AppsImage,a.card__thumbnail,cssselector
+AppsDownload,div.card__action a,cssselector
+AppsLogo,div.card__footer a,cssselector
+AppsPagefooter,.footer,cssselector
+Shop,ul.navigation__list > li:nth-child(6),cssselector
+Live,ul.navigation__list > li:nth-child(8),cssselector
+Alexa,img[alt='Amazon Alexa Skill'],cssselector
+Alexa name,div.card__action,cssselector
+XboxOneLogo,img[alt='Xbox One App'],cssselector
+Xbox One activate,div.card__action a,cssselector
+AndriodApplogo,div.resp-image img,cssselector
+title,div.card__title,cssselector
+img,a.card__thumbnail div.resp-image img,cssselector
+content,div.card__action a,cssselector
+logo,div.card__footer a div img,cssselector

@@ -1,0 +1,39 @@
+ObjectName,ObjectProperties,SearchType
+ObjSearchButton,button.navigation__item__title,cssselector
+ObjSearchpageload,h2.section-heading__title,cssselector
+objtrendingtiles,div.tile__title,cssselector
+objtrendingtilesBrand,div.tile__meta div.tile__brand-logo img,cssselector
+ObjSearchBarPlaceholder,input.search-input__input,cssselector
+objSearchResultThumbnail,section div:nth-child(1) div  a  article  div.tile__thumbnail,cssselector
+objSearchResultshowtitle,section div:nth-child(1) div  a  article  div.tile__title,cssselector
+objSearchResultCliptitle,section div:nth-child(1) div  a  article  div.tile__secondaryTitle,cssselector
+objSearchResultClipBadge,section div:nth-child(1) div  a  article  div span.tile__meta__badge,cssselector
+objSearchResultClipSeasonepisodenumberdetails,section div:nth-child(1) div  a  article  div span:nth-child(2),cssselector
+objSearchResultClipdescription,section div:nth-child(1) div  a  article  div.tile__longDescription,cssselector
+objclear,button.search-input__clear,cssselector
+objshowname,section.search__hits > div:nth-child(1) > div > div > a > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssselector
+objShowbrandlogo,section.search__hits > div:nth-child(1) > div > div > a > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo > div > img,cssselector
+objclipclick, section.search__hits > div:nth-child(1) > div > a,cssselector
+Cliptitleinclippage,span.video-meta__info-title,cssselector
+clipplaying,input.sc-kGXeez.iGJGZf,cssselector
+clipbrand,div.brand-logo img,cssselector
+objshownav,section.search__hits > div:nth-child(1) > div > div > a,cssselector
+objshowname,div.slideshow__show-logo > div > img,cssselector
+objmovietitle,section.search__hits > div:nth-child(1)  div.tile__title,cssselector
+objmoviethumbnail,section.search__hits > div:nth-child(1)  div.tile__thumbnail,cssselector
+objmovietiletitle,div.slideshow__show-logo > div > div,cssselector
+objtileiconwithauth,div.icon-play--auth,cssselector
+objepisoderesulttile,div.search__results > div > section.search__hits > div:nth-child(3) > div > a > article > div.tile__thumbnail--wrapper > div > div.tile__icon,cssselector
+objEpisodeshowtitle,section.search__hits > div:nth-child(1) > div > a > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssselector
+objEpisodeseasonmetadata,section.search__hits > div:nth-child(1) > div > a > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__secondaryTitle,cssselector
+objEpisoderesultBrandlogo,section.search__hits > div:nth-child(1) > div > a > article > div.tile__meta.tile__meta--branded > div.tile__brand-logo > div > img,cssselector
+objepisode, section.search__hits > div:nth-child(1) > div > a,cssselector
+objlockfork,div.fork-overlay,cssselector
+objnoresults,div.search__results__no_results,cssselector
+ObjSearchShowotherbrand,section.search__hits > div.search__hit.search__hit--show,cssselector
+ObjSearchepisodeotherbrand,a.tile--episode,cssselector
+ObjSearchclipsotherbrand,a.tile--clip,cssselector
+objsearchresults,div.search__hit,cssselector
+objresultsbrandlogos,img.brand-logo__image,cssselector
+objmarketingband,img.tile--marketing-band__image,cssselector
+ObjSearchButton_Mob,button.navigation__search--mobile,cssselector

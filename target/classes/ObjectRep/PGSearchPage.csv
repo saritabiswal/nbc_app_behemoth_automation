@@ -1,0 +1,76 @@
+EpObjectName,ObjectProperties,SearchType
+objSearchIcon,.navigation__search.navigation__item__title,cssSelector
+objExitIcon,div.responsive-app__wrapper div div div span,cssSelector
+objsearch_input_text,div.sticky-outer-wrapper.search-input__wrapper div div div input,cssSelector
+objDefault_Title,div.search__results__wrapper div section div >divh2.section-heading__title,cssSelector
+objcard__title,div.tile__title,cssSelector
+objcard__description,section div div.show-list__container div a article div.card__meta div.card__description div,cssSelector
+objCarKey_art,div.search-results__outer div div section div div.show-list__container div a article div.card__thumbnail div img,cssSelector
+objshow_collection,div.responsive-app__wrapper div div div div div.search-results__outer div div section div div.shelf__tiles a,cssSelector
+objShow,div.responsive-app__wrapper div div div div div.search-results__outer div div section div div.shelf__tiles,cssSelector
+objShow_Title,div.search-results__outer div div section div div.show-list__container div a:nth-child(1),cssSelector
+objresentEpisodes,#hits div:nth-child(1) div div a article div.card__meta div,cssSelector
+objShow,div.shelf__tiles a:nth-child(1) article div.tile__thumbnail,cssSelector
+objShowName,header div div nav div ul li.navigation__item.navigation__item--expanded div ul li a,cssSelector
+objEpisode_ShowName,section.video-list.video-list__item-episodes.video-list--overlay div div.video-list__container div.video-list__content a article div.card__meta div.card__description span,cssSelector
+objSubtitle,div.search-results__outer div section div div,cssSelector
+objShow_Logo,div:nth-child(1) div div a article div.tile__thumbnail div img,cssSelector
+objShow_Title,div:nth-child(1) div div a article div.tile__meta div.tile__title,cssSelector
+objShow_Tune_In,div:nth-child(1) div div a article div.tile__meta div.tile__secondaryTitle,cssSelector
+objShow_Long_Description,div:nth-child(1) div div a article div.tile__meta div.tile__longDescription,cssSelector
+objEpisode_Key_Art,#hits div:nth-child(2) div a article div.tile__thumbnail.vilynx_enabled.vilynx_registered.vilynx div.tile__icon,cssSelector
+objSeason,#hits div:nth-child(3) div a article div.tile__meta div.tile__tertiaryTitle,cssSelector
+objEpisode_Title,div.search__hit.search__hit--show.search__hit--clip div div a article div.tile__meta,cssSelector
+objBadging_details,#hits div:nth-child(1) div div a article div.card__thumbnail__wrapper div span,cssSelector
+objTitle,#hits div.search__hit.search__hit--show.search__hit--clip div div.search__hit__long-tile a article div.tile__meta div.tile__longDescription,cssSelector
+objTune_in_info,div:nth-child(1) div  a  article div.tile__meta div.tile__secondaryTitle,cssselector
+objmetaSection,div a article div.tile__meta div.tile__longDescription,cssselector
+objSearch_Result,div.search-page__outer div div section div div.section-heading__title,cssselector
+objClip_Tune_in_info,div div a article div.tile__meta div.tile__secondaryTitle,cssselector
+objClip_badge,span.tile__clip__badge,cssselector
+objshowS,div.search__hit.search__hit--show.search__hit--clip div div a,cssselector
+objEpisode,div:nth-child(3) div a article div.tile__meta div.tile__tertiaryTitle,cssselector
+objSort,article div.card__meta div.card__meta__top div:nth-child(3) span,cssselector
+Searchresults,div.search-overlay__outer div div div.search-results__outer div div,cssselector
+Container,div.search-overlay__outer div div div.search-results__outer div section div div.show-list__container div a article div.card__thumbnail div img,cssselector
+title,#hits div:nth-child(2) div a article div.tile__meta div.tile__Title,cssselector
+tunein,#hits div:nth-child(2) div a article div.tile__meta div.tile__secondaryTitle,cssselector
+Episodes,div.search__hit__episodes a,cssselector
+SearchResults,div.search-overlay__outer div div div.search-results__outer div div,cssselector
+objimg,div.search__hit.search__hit--show.search__hit--clip div div a article div.tile__thumbnail div img,cssselector
+meta,div.search__hit.search__hit--show div div div a article div.card__meta,cssselector
+episegment,#hits div:nth-child(2) div a article div.card__meta div.card__meta__top div.card__description.card__tune-in.card__tune-in--episegment,cssselector
+tuniein,#hits div:nth-child(2) div a article div.tile__meta div.tile__secondaryTitle,cssselector
+topmeta,#hits div:nth-child(3) div a article div.card__meta div.card__meta__top div:nth-child(3) span span,cssselector
+objEpisode_Title,div:nth-child(2) div a article div.tile__meta div.tile__secondaryTitle,cssselector
+objEpisode, div:nth-child(2) div a,cssselector
+objmeta_episode,div.responsive-app__wrapper div div div.video-meta div.video-meta__inner div,cssselector
+objClip, div:nth-child(3) div a,cssselector
+ObjClip_metaData,div.video-meta__title,cssselector
+objShowmenu, li.navigation__item.navigation__item--shows a,cssselector
+objShow,li.navigation__item--group.navigation__item--expanded div ul li:nth-child(5) a,cssselector
+objsearch,div.search-overlay__outer div div div.sticky-outer-wrapper.search-input__wrapper div div div input,cssselector
+objClear,button.search-input__clear,cssselector
+objx,#main div.responsive-app__wrapper div div div span,cssselector
+searchshows,#hits div:nth-child(2),cssselector
+searchshows,#hits div.search__hit.search__hit--show div div,cssselector
+searchshows,#hits div.search__hit.search__hit--show div a article,cssselector
+SearchAreatitle,div.search__hit:nth-child(1) div.card__title,cssselector
+SearchAreatunein,div.search__hit:nth-child(1) div.card__description.card__tune-in,cssselector
+SearchEpisodemetaimg,div.search__hit:nth-child(1)  div.search-hit-show-entities__episegment img,cssselector
+SearchEpisodeseason,div.search__hit:nth-child(1)  div.search-hit-show-entities__episegment div.card__meta,cssselector
+SearchEpisodeDescription,div.search__hit:nth-child(1)  div.search-hit-show-entities__episegment div.card__description,cssselector
+EpisodeSearch,div.search__hit.search__hit--show div div div a article div.card__meta,cssselector
+EpisodeTunein,#hits div:nth-child(2) div a article div.card__meta div.card__meta__top div.card__description.card__tune-in.card__tune-in--episegment,cssselector
+EpisodeType,#hits div:nth-child(2) div a article div.card__meta div.card__meta__top div:nth-child(3) span span,cssselector
+clear,div.sticky-outer-wrapper.search-input__wrapper div div div span:nth-child(3) button,cssselector
+objSearchIcon,a.navigation__search.navigation__item__title,cssSelector
+FirstSearchResult,#hits article.card__content,cssSelector
+CardData,div.search-hit-show-entities__episegment div.card__meta,cssSelector
+objcliplock,div:nth-child(3) div a,cssSelector
+searchmobicon,a.navigation__search.navigation__search--mobile,cssSelector
+exit,span.search__icon__exit.search__icon__exit--mobile,cssSelector
+img,div.search-overlay__outer div div div.search-results__outer div div section div div.show-list__container div a article div.card__thumbnail div img,cssSelector
+mobile_searchIcon,a.navigation__search.navigation__search--mobile,cssSelector
+objX_mobile,span.search__icon__exit.search__icon__exit--mobile,cssSelector
+searchmobile,a.navigation__search--mobile,cssSelector

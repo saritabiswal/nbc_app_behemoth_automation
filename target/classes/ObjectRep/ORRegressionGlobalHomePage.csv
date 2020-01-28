@@ -1,0 +1,16 @@
+ObjectName,ObjectProperties,SearchType
+objHamBurger,button[class='navigation__hamburger'],cssSelector
+objShows,a[href*='/shows/all/popular'],cssSelector
+objAllBrands,div.brand-logo.tile__thumbnail__image--color,cssSelector
+objSelectShow,div.tile__meta__text,cssSelector
+objAddFavorite,i.show-header__add-favorite-icon,cssSelector
+objCloseButton,span.modal__icon__exit.modal__icon__exit--mobile,cssSelector
+objShowLists,h2.section-heading__title,cssSelector
+objFavoriteShow1,section> div.shelf__inner > div > div > a:nth-child(1) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+objFavoriteShow2,section> div.shelf__inner > div > div > a:nth-child(2) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+objFavoriteShow3,section> div.shelf__inner > div > div > a:nth-child(3) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+objFavoriteShow4,section > div.shelf__inner > div > div > a:nth-child(4) > article > div.tile__meta.tile__meta--branded > div.tile__meta__text > div.tile__title,cssSelector
+objShowFavorites,div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(3) > div.shelf__inner > div > div > a:nth-child(1) > article,cssSelector
+objRemoveFavorite,i.show-header__remove-favorite-icon,cssSelector
+objVerifyRemovedFav,div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(3) > div.shelf__inner > div > div > a.tile.tile--title,cssSelector
+objBrandTilesLiv,div.responsive-app__wrapper > div > div.home-page__sections > div > section > div.shelf__inner > div > div > a,cssSelector

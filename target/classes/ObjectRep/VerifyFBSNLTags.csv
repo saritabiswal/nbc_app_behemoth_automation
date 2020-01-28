@@ -1,0 +1,9 @@
+ObjectName,ObjectProperties,SearchType
+al:android:package,meta[property='al:android:package'],cssSelector
+al:android:app_name,meta[property='al:android:app_name'],cssSelector
+al:android:url,meta[property='al:android:url'],cssSelector
+al:ios:app_store_id,meta[property='al:ios:app_store_id'],cssSelector
+al:ios:app_name,meta[property='al:ios:app_name'],cssSelector
+al:ios:url,meta[property='al:ios:url'],cssSelector
+al:web:url,meta[property='al:web:url'],cssSelector
+al:web:should_fallback,meta[property='al:web:should_fallback'],cssSelector

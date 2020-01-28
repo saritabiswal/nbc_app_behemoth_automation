@@ -1,0 +1,17 @@
+ObjectName,ObjectProperties,SearchType
+objShows,li:nth-child(3) a  span.navigation__item__title,cssSelector
+objAll,div.tile__thumbnail--active div.tile__thumbnail__image--monochrome div.brand-logo__title,cssSelector
+objBrandLists,a.tile--brand.tile--zoomable div.tile__thumbnail__image--monochrome img,cssSelector
+objActive,div.tile__thumbnail--active div.tile__thumbnail__image--monochrome img,cssSelector
+objatoz,a.tile--category[href*='a-z'],cssSelector
+objShowLists,div.tile__meta__text .tile__title,cssSelector
+objfav,div.show-header__menu i.show-header__add-favorite-icon,cssSelector
+objHome,li:nth-child(2) a  span.navigation__item__title,cssSelector
+objfavorites,div section:nth-child(3)> div.section-heading > h2,cssSelector
+objfavshow,section:nth-child(3) div.tile__meta--branded >div > div.tile__title,cssSelector
+objmodalexit,body > div.ReactModalPortal > div > div > span,cssSelector
+objsignup,body > div.ReactModalPortal > div > div > div > a,cssSelector
+objcontwatch,div section:nth-child(3)> div.section-heading > h2,cssSelector
+objshowname,section:nth-child(3) div.tile__meta--branded >div > div.tile__title,cssSelector
+objArrowRight,button.shelf__arrow--right,cssSelector
+objshows,a.tile--zoomable div.tile__thumbnail__image--monochrome img,cssSelector

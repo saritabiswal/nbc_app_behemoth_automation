@@ -1,0 +1,146 @@
+ObjectName,ObjectProperties,SearchType
+Li+A2:C128,li.navigation__item.navigation__item--live a,cssselector
+TVProviderOptinium,div.mvpd-provider__content img[alt='Optimum'],cssselector
+OptiniumTVLogin,mid_panel,id
+UserNameOpt,input#username.textbox,cssselector
+PasswordOpt,input#password.textbox,cssselector
+LoginButton,button#signin_button,cssselector
+Mvpdlogoglobal,li.navigation__mvpd__logo,cssselector
+OptimumLogo,div.navigation__logo-wrapper  div span,cssselector
+TVProviderHeading,div:nth-child(2) > div > div.mvpd-dialog__title,cssselector
+TVProvidersList,div.mvpd-dialog__providers a,cssselector
+DirectTVCancel,div.mvpd-dialog__iframe a,cssselector
+objDishTV,section.cpc-live-video-player img,cssselector
+SpectrumBackLink,a.mvpd-dialog__back.mvpd-dialog__back--iframe,cssselector
+FullListLink,div.mvpd-dialog__full-link a,cssselector
+SucessCheckMarck,div.navigation__mvpd span,cssselector
+SfinityImg,section.cpc-live-video-player img,cssselector
+ProvidersTV,section.cpc-live-video-player img,cssselector
+FullListLink,div.mvpd-dialog__full-link a,cssselector
+FaqLink,div.mvpd-dialog__faq,cssselector
+FaqLink,div.mvpd-dialog__faq a,cssselector
+VideoFrame,iframe#nbctveappplayer,cssselector
+SuccessMsg,div.live-video-success__title,cssselector
+VideoPlayPause,div#anvato-controller-play-pause-button,cssselector
+VideoPlayPauseButtonStatus,div#anvato-controller-play-pause-button  svg,cssselector
+LiveStreamHeader,a.navigation__item__link,cssselector
+LiveStreamFlag,div.live-page__meta__icons > span,cssselector
+LiveStreamTitle,div.live-page__meta__title,cssselector
+LiveStramRating,div.live-guide-program__rating,cssselector
+LiveStreamImage,img.anvato-video-meta__affiliate-image,cssselector
+Footer,footer.footer,cssselector
+ShowsLink,a.navigation__item__link,cssselector
+Episodes,ul.navigation__item__list a,cssselector
+TVProvider,span.button__content,cssselector
+LoadButton,div.load-button.full-width,cssselector
+AuthCode,div.tile__icon.icon-play--auth,cssselector
+TVProviderLink,section.fork-picker__mvpd button,cssselector
+DirectTVLink,div.mvpd-dialog__providers,cssselector
+FullListTitle,span div.mvpd-dialog__title,cssselector
+FullListBack,div.cpc-live-anvato-video-player__dialog > div > div:nth-child(2) > div > a,cssselector
+FullListTextDescription,div > div.mvpd-dialog__description,cssselector
+FullListComboBox,div.mvpd-dialog__predictive > div > input,cssselector
+FullListPageTextSearch,span div.mvpd-dialog__full-list,cssselector
+FullListComboBox,ul.mvpd-predictive__results,cssselector
+FullListFaqText,div.mvpd-dialog__faq,cssselector
+FullListFaqlink,div.mvpd-dialog__faq a,cssselector
+FullListBackClickedval,div.mvpd-dialog__twc,cssselector
+MVPDSearchTextBox,div.mvpd-dialog__predictive input,cssselector
+MVPDSearchClear,span.mvpd-predictive__icon.mvpd-predictive__icon--focus,cssselector
+MVPDTextSearch,div.mvpd-predictive.mvpd-predictive--search input,cssselector
+DirectTVBack,a.mvpd-dialog__back.mvpd-dialog__back--iframe,cssselector
+TVProviderLink,section.cpc-live-video-player img,cssselector
+ShowDetailShowListItems,div.brand-logo.tile__thumbnail__image--monochrome.brand-logo--align-center > img,cssselector
+LivePageTitle,div[class='live-video-promo__title'],cssselector
+GoToFullEpisodes,a[class='live-video-promo__cta'],cssselector
+DtvUname,body > div.iframeBox > div.mainSubHd > form > div.mainLoginBox > fieldset.inputFieldset input#usernameInputId.inputFieldEmail,cssSelector
+DtvPsd,body > div.iframeBox > div.mainSubHd > form > div.mainLoginBox > fieldset.inputFieldsetPassword > fieldset:nth-child(2) > input.inputFieldPass,cssSelector
+DtvSignin,input#loginSubmitId.loginBtn,cssSelector
+Dtvlink,div.mvpd-dialog__providers a,cssSelector
+objMVPD,div.mvpd-dialog__featured ,cssSelector
+PredectiveTextBox,div.mvpd-dialog__predictive > div > input,cssSelector
+Predectivelist,ul.mvpd-predictive__results>li,cssSelector
+nbcBrandLogo,a.live-guide-stream:nth-child(1) > div:nth-child(1),cssselector
+objOptimumLogo,li.navigation__item:nth-child(12),cssselector
+objLive,li.navigation__item.navigation__item--live > a > span,cssselector
+objOptimumLogo2,div.brand-logo img,cssselector
+searchOutput,div.mvpd-predictive.mvpd-predictive--results-list > ul > li,cssselector
+errorsFullListLink,div.mvpd-predictive.mvpd-predictive--results-list > ul > li > a,cssselector
+fullListOfProviders,div.mvpd-predictive.mvpd-predictive--results-list > ul,cssselector
+objFullListPageTextBelow,div > div.mvpd-dialog__description,cssselector
+searchResult,div.mvpd-predictive.mvpd-predictive--results-list > ul,cssselector
+visitTheHelpCenterLink,div:nth-child(2) > div > div.mvpd-dialog__faq > a,cssselector
+objTVProvidersTable,div.mvpd-dialog__providers,cssselector
+objDirectTVLink,a.mvpd-provider.mvpd-provider--dtv.mvpd-provider--featured,cssselector
+objDirectTvEmail,#usernameInputId,cssselector
+objDirectTVPassword,input.inputFieldPass,cssselector
+objDirectTVlogin,#loginSubmitId,cssselector
+objSignUp,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a > span,cssselector
+objTVProviderOptimum,a.mvpd-provider.mvpd-provider--cablevision.mvpd-provider--featured,cssselector
+objLiveButton,li.navigation__item.navigation__item--live > a,cssselector
+objBrandsList,div.live-guide__streams a div img,cssselector
+objTvProvidersList,div.mvpd-dialog__providers a img,cssselector
+objContinueWatching,div.live-video-success__text,cssselector
+objCheckIcon,div.live-video-success__logo,cssselector
+objTvProviderBackButton,div.cpc-live-anvato-video-player__dialog > div > div > a,cssselector
+objTvProviderFrontCom,#wrap > div > h2,cssselector
+objFaqText,div:nth-child(2) > div > div.mvpd-dialog__faq,cssselector
+objFaqLink,div:nth-child(2) > div > div.mvpd-dialog__faq > a,cssselector
+objDtvFrame,p:nth-child(3) > span,cssselector
+objDirectTvNeedHelpText,div > div.mvpd-dialog__faq,cssselector
+objDirectTvNeedHelpLink,div.mvpd-dialog__faq > a,cssselector
+objVerizonUserId,div > input#IDToken1,cssselector
+objVerizonPassword,#IDToken2,cssselector
+objVerizonSigninBtn,div > div #tvloginsignin,cssselector
+objShowsLink,ul > li.navigation__item.navigation__item--shows > a,cssselector
+objSearchResult,div.mvpd-predictive.mvpd-predictive--results-list > ul > li,cssselector
+objErrorFullListLink,div.mvpd-predictive.mvpd-predictive--results-list > ul > li > a,cssselector
+objFullList,div.mvpd-predictive.mvpd-predictive--results-list > ul li,cssselector
+objTvProviderFullListBackBtn,div.cpc-live-anvato-video-player__dialog > div > div:nth-child(2) > div > a,cssselector
+objLivePageMetaTitle,div.live-page__meta__title,cssselector
+objLivePageMetaBrandLogo,div.live-page__meta > div > a > div > div.brand-logo.brand-logo--align-center > img,cssselector
+objScheduleGrid,div.live-guide__inner,cssselector
+objOnNowShowsLst,a.live-guide-program.live-guide-program--now > div,cssselector
+objHomeBtn, li.navigation__item.navigation__item--home > a > span,cssselector
+objLivePaheHeaderss, a > span,cssselector
+objRightArrowGuide,div.live-guide__arrow.live-guide__arrow--right.live-guide__arrow--active,cssselector
+objOnNowGuide,div.live-guide__clock > div:nth-child(1),cssselector
+objLeftArrowGuide,div.live-guide__arrow.live-guide__arrow--left.live-guide__arrow--active,cssselector
+objVolumeControl,#anvato-controller-volume-button > div.button-shape,cssselector
+objCCButton,#anvato-controller-caption-button,cssselector
+objFullScreenBtn,#anvato-controller-fullscreen-button,cssselector
+objVolumeStatus,#anvato-controller-volume-button > div.button-shape > svg:nth-child(1),cssselector
+objFullScreenStatus,#anvato-controller-fullscreen-button > div > svg:nth-child(1),cssselector
+objUnlick,li:nth-child(1) > ul > li:nth-child(2),cssselector
+objSignUpBtn, li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a,cssselector
+objCCOnBtn,#anvato-controller-caption-popup-on-button > div,cssselector
+objCCSOntatus,#anvato-controller-caption-popup-on-button > svg,cssselector
+objCCOffBtn,#anvato-controller-caption-popup-off-button > div,cssselector
+objCCSOfftatus,#anvato-controller-caption-popup-off-button > svg,cssselector
+objPopupCloseBtn,#anvato-controller-caption-popup-close-button,cssselector
+objXfinityUserId,#user,cssselector
+objXfinityPasswd,#passwd,cssselector
+objXfinitySignIn,#sign_in,cssselector
+objParentContrlTxt,div.live-video-promo__text,cssselector
+objTVProviderLogo,div > div > button > div > div > img,cssselector
+objSlingUsername,#username,cssselector
+objSlingPasswd,#password,cssselector
+objSlingLoginBtn,#login,cssselector
+objSubscriptionsErrorMsg,div.live-video-promo__text,cssselector
+objXfinityBtn,li.navigation__item.navigation__item--identity.navigation__item--account,cssselector
+objHambutgerMenuBtn, button.navigation__hamburger,cssselector
+objMenuLiveBtn,li.navigation__item.navigation__item--live > a,cssselector
+objDLSWatchLive,div.slideshow__cta.button>span,cssselector
+objDLSRightArrow,div.slideshow__arrow.slideshow__arrow--right,cssselector
+objLocalSchedule, div.footer__right > div > ul > li:nth-child(7) > a,cssselector
+objScheduleDownArrow,div.schedule-program__more,cssselector
+objVideosList,a.tile.tile--title.tile--zoomable,cssselector
+objLinkTvProvider,div.footer__right > div > ul > li:nth-child(1) > a,cssselector
+objTVProvidersTable,div.mvpd-dialog__providers,cssselector
+objHomeSignUpButton,a.navigation__item__link--sign-up,cssselector
+liveBTN,a.schedule-program__cta__live,cssselector
+Apptext,div.live-page__app__text,cssselector
+objGoToNBCAppBtn,button.button--filled,cssselector
+objScheduleGridTable,div.live-guide__schedules,cssselector
+objNbcOnNowPrograms,div.live-guide-program__title,cssselector
+objOptimumLoginLogo,div#logo.logo-content,cssselector

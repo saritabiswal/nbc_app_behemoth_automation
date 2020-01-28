@@ -1,0 +1,23 @@
+ObjectName,ObjectProperties,SearchType
+ShowsLink,span.navigation__item__title,cssselector
+AllShowsLink,li.navigation__item__more,cssselector
+MenuItems,span.navigation__item__title,cssselector
+ShowsPageTitle,h1.page-title__title,cssselector
+SubTabsAllShows,li.tabs__tab__item,cssselector
+ActiveTab,li.tabs__tab__item.active a,cssselector
+ShowImage,div.tabs__content > div:nth-child(2) a:nth-child(1) img,cssselector
+ShowTitle,div.tabs__content__list.tabs__content__list--current.tabs__content__list--active > section > div > div > div > a > article > div:nth-of-type(2) > div,cssselector
+ShowTune,div.tabs__content__list.tabs__content__list--current.tabs__content__list--active > section > div > div > div > a > article > div:nth-of-type(2) > div:nth-of-type(2) > div,cssselector
+SubTablink,li.tabs__tab__item a,cssselector
+metadataDescription,meta[name='description'],cssselector
+footer,footer.footer,cssselector
+Live,ul.navigation__list > li:nth-child(8),cssselector
+objShowTitle,div.tabs__content > div:nth-child(2) a:nth-child(1)  article ,cssselector
+objShowtune,div.tabs__content > div:nth-child(2) a:nth-child(1)  article ,cssselector
+ThrowBackCurrentSubMenuMobile,div.tabs__select > div > ul > li:nth-child(4)>a,cssselector
+ListedFirstThrowBackVideo,section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--classic-throwback.tabs__content__list--active > section > div > div > div > a,cssselector
+Allshowtab,a[href='/shows/all'],cssselector
+AllshowTab_ShowNames,div[class='card__title'],cssselector
+FirstClip,div[class='video-list__inner'] a:nth-child(1),cssselector
+ShowTitles,div[class='video-list__inner']  div[class='card__title'],cssselector
+ClipsLoadmore,#main > section > section.video-list.video-list__item-0.video-list.video-list__item-clips.video-list--filter > div > div.video-list__container > div.load-button.full-width,cssselector

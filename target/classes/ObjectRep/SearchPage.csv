@@ -1,0 +1,14 @@
+ObjectName,ObjectProperties,SearchType
+SearchIcon,.navigation__search.navigation__item__title,cssselector
+SearchInput,.search-input__input,cssselector
+VideoSection,div .search__hit__episodes .card__content .card__meta,cssselector
+ExitIcon,.search__icon__exit,cssselector
+ResultText,div.search-results__outer > div > section > div > div,cssselector
+VideoDesc,.card__description.card__description__long div div,cssselector
+Badge,.card__badge,cssselector
+ValVideoSection,.video-list__content a .card__content .card__meta .card__title,cssselector
+Clear,button[class='search-input__clear'],cssselector
+Videolist,div[class='search__hit__show']>a,cssselector
+ShowListSections,div.search__hit,cssselector
+SearchLinkFromShow,a.navigation__search.navigation__item__title,cssselector
+SearchResultEpisodeNames,div.card__meta,cssselector

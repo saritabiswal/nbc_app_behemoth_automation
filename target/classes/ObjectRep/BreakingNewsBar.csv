@@ -1,0 +1,148 @@
+ObjectName,ObjectProperties,SearchType
+Signup,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a > span,cssSelector
+Signin,div > div> div.signup-page__account-actions > p > a,cssSelector
+ResetLink,div.signin-page__content-inner > section > div.signin-page__account-actions > p:nth-child(1) > a,cssSelector
+EmailResetfield,div.password-request-page__form-element > label > div > input,cssSelector
+ResetContinue,div.password-request-page__submit > button > span > span,cssSelector
+Errormessage,div.password-request-page__form-element > label > div > div,cssSelector
+Signinkeys,div input#signin-form__email,cssSelector
+Passwordkeysin,input#password-input__password.password-input__password,cssSelector
+SigninClick,button[type=submit],cssSelector
+mvpdbridgesin,main.mvpd-bridge-screen__content,cssSelector
+mvpdtitle,div > h3,cssSelector
+Subtitle,p.mvpd-bridge-screen__text,cssSelector
+text,div p.mvpd-bridge-screen__text,cssSelector
+yes,section > div.mvpd-bridge-screen__actions > button:nth-child(1) > span,cssSelector
+providerscreen,div.mvpd-dialog__featured,cssSelector
+skip,div:nth-child(1) > div > div > main > div > section > div.mvpd-bridge-screen__actions > button:nth-child(2),cssSelector
+Signupkey,input#signup-form__email.signup-form__email,cssSelector
+Signuppasskey,input#password-input__password.password-input__password,cssSelector
+SignupButton,form div:nth-child(4) button.button,cssSelector
+Checkbox,label.auth-terms__terms-checkbox,cssSelector
+successimage,h1.auth-hero__title,cssSelector
+Createdtext,h2.auth-hero__subtitle,cssSelector
+Creditstext,div.mvpd-bridge-screen__profile-credits-text,cssSelector
+Startwatchingbuttontext,section.mvpd-bridge-screen__profile button.button,cssSelector
+mvpd text,div.mvpd-bridge-screen__mvpd-text,cssSelector
+Link Provider ,button.button--hollow,cssSelector
+Epi,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(2) div.navigation__item__group ul.navigation__item__list  li,cssSelector
+Show,li.navigation__item--shows button,cssSelector
+nav,ul.navigation__item__list,cssSelector
+Favorites, div.show-header__menu i.show-header__add-favorite-icon,cssSelector
+CloseNudge,body > div:nth-child(28) > div > div > span,cssSelector
+Logo,div.navigation__inner > div.navigation__logo-wrapper > a.navigation__logo,cssSelector
+Favoritessection,div > section:nth-child(3) > div.section-heading > h2,cssSelector
+Authcode,div.tile__icon.icon-play--auth,cssSelector
+Contbridge,section:nth-child(1) > button,cssSelector
+Linkmvpd,section button.button--secondary,cssSelector
+Signupcontent,div.signup-page__inner main,cssSelector
+Mvpdpickerpage,section div.mvpd-dialog.mvpd-dialog--featured,cssSelector
+Load,section.shelf--VideoTile button.shelf__arrow--right,cssSelector
+watchnw,div.free-trial-dialog__buttons > button:nth-child(1) > span,cssSelector
+ad verify,div.tpAdCountdown,cssSelector
+Icon,li.navigation__item.navigation__item--identity.navigation__item--account > div > div > a > i,cssSelector
+Signoutbtn,div.identity__signout,cssSelector
+Creditinfo,section div.free-trial-dialog div.free-trial-dialog__notice span,cssSelector
+continuewatch,div > section:nth-child(4) > div > div.section-heading > h2,cssSelector
+Firstvideo,section.video-list__item-episodes a:nth-child(1) > article > div.card__thumbnail > div,cssSelector
+Yopmail,input#login.scpt,cssSelector
+checkmail,input.sbut,cssSelector
+Mailchecker,#m1 > div > a > span.lms,cssSelector
+Link,#mailmillieu > div:nth-child(2) > table > tbody > tr:nth-child(2) > td > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td > table > tbody > tr > td > table > tbody > tr > td > div > table:nth-child(2) > tbody > tr:nth-child(2) > td > table > tbody > tr > td > div > a > font,cssSelector
+Createpsd,#password-input__password,cssSelector
+Cntcreatepsd,#main > div > div > main > div > form > div.password-reset-page__submit > button > span,cssSelector
+Successmsgpsdchange,#main > div > div > main > div.flash-messages > div > span > span,cssSelector
+Signup1,li.navigation__item.navigation__item--identity.navigation__item--sign-up > div > a > span,cssSelector
+Signin1,div.signup-page__content-inner > div > section > div.signup-page__account-actions > p > a,cssSelector
+Cntwathin,div > section:nth-child(4) > div > div.section-heading > h2,cssSelector
+Allshows,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li.navigation__item__more,cssSelector
+ScableScalesForm,section.signup-page__pane,cssSelector
+ScalesUserName,input.signup-form__email,cssSelector
+ScalesPassword,input[type='password'],cssSelector
+ScalesCheckbox,label.signup-form__terms-checkbox,cssSelector
+ScalesSubmit,div.signup-form__submit,cssSelector
+ScalesFirstName,#firstName,cssSelector
+ScalesLastName,#lastName,cssSelector
+ScalesGender,select.form-control,cssSelector
+ScalesPhone,#phone,cssSelector
+ScalesMonth,#month,cssSelector
+SxcalesDay,#day,cssSelector
+SxcalesYear,#year,cssSelector
+ScalesCzip,#zipCode,cssSelector
+ScalesLabel2,label.sweepstakes-form__checkbox-label,cssSelector
+ScalesEnterNow,button[type='submit'],cssSelector
+ScalesSucessSigninSett,div.sweepstakes_header h1,cssSelector
+facebookSweepstack,div.facebook-login-button,cssSelector
+facebookSweepstackemail,input[id='email'],cssSelector
+facebookSweepstackpassword,input[id='pass'],cssSelector
+facebooksweepstackloginbutton,button[id='loginbutton'],cssSelector
+facebookemailverification,label.sweepstakes-facebook-login-page__terms-checkbox span,cssSelector
+facebooksubmit,div.sweepstakes-facebook-login-page__submit button,cssSelector
+facebooknormalCheckboxpolicy,label.facebook-login-page__terms-checkbox,cssSelector
+facebooknormalcontinue,div.facebook-login-page__submit button span,cssSelector
+facebooknormalSuccess,h3.mvpd-bridge-screen__title,cssSelector
+SignIn,div.signup-page__account-actions a,cssSelector
+FacebookSignIn,div.facebook-login-button button,cssSelector
+TVProviderFacebook,button.button.button--secondary.button--text span,cssSelector
+Optimum ,div.mvpd-dialog__providers a:nth-child(9),cssSelector
+UserNameOptimum,input[id='IDToken1'],cssSelector
+Password,input[id='IDToken2'],cssSelector
+Signin,img[id='signin_button'],cssSelector
+OptimumImageName,span.navigation__mvpd__logo.navigation__mvpd__logo--identity img,cssselector
+inputEmail,input.signup-form__email,cssSelector
+inputPassword,input.password-input__password,cssSelector
+checkTerms,label.signup-form__terms-checkbox,cssSelector
+signUpBtn,button.button,cssSelector
+linkProviderBtn,section.mvpd-bridge-screen__mvpd > button,cssSelector
+optimumLink,a.mvpd-provider.mvpd-provider--cablevision,cssSelector
+UserName,input#IDToken1,cssSelector
+Password,input#IDToken2,cssSelector
+SignInBtn,img#signin_button,cssSelector
+optimumLogo,div > ul > li.navigation__item.navigation__item--identity.navigation__item--account > div > div > button > div > div > img,cssSelector
+SignUpBtn,a.navigation__item__link--sign-up,cssSelector
+Visitsite,a.mvpd__url,cssSelector
+Unlink,a.mvpd__signout,cssSelector
+Manage,a.identity__account,cssSelector
+SignoutBtn,a.identity__signout,cssSelector
+AccountLogo,div.navigation__item__account>a.navigation__item__link,cssSelector
+signupfbbtn,main > div.signup-page__content-inner > div > section:nth-child(4) > div > button,cssSelector
+email,input#email.inputtext,cssSelector
+pass,#pass,cssSelector
+Button,#loginbutton,cssSelector
+Gettxt,#main > div > div > main > div.facebook-login-page__content-inner > div,cssSelector
+email,input[id='m_login_email'],cssSelector
+pass,input[id='m_login_password'],cssSelector
+signin,button[name='login'],cssSelector
+signupEmail,input[id='signup-form__email'],cssSelector
+signuppassword,input[id='password-input__password'],cssSelector
+termsclick,.signup-form__terms-checkbox span,cssSelector
+startwatchingbutton,section.mvpd-bridge-screen__profile > button,cssSelector
+Sigupbutton,div[class='signup-form__submit']>button,cssSelector
+MarkShowasFavorite,div[class='sticky-outer-wrapper show-header show-header--mobile'] a[class='show-header__toggle-favorite'],cssSelector
+FavoritesSection_GlobalHomePage,section:nth-child(5) > div > div.show-list__container > div > a:nth-child(1),cssSelector
+FavoritesTitle_GlobalHomePage,div > div > section:nth-child(5) > div > div.section-heading > h2,cssSelector
+FavList,section:nth-child(5) > div > div.show-list__container > div > a,cssSelector
+signIN_email,input.signin-form__email,cssSelector
+DesktopaddFav,#main > section > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li:nth-child(1) > a>i,cssSelector
+mvpdbtn,div.mvpd-bridge-screen__actions > button:nth-child(2),cssSelector
+mvpdscreens,div.mvpd-dialog__featured,cssSelector
+errrormsg,div.signup-form__error-message,cssSelector
+signintxt,div.signin-page__content-inner > h1,cssSelector
+coins,div.signup-page__intro.signup-page__intro--coins,cssSelector
+vote,div.signup-page__intro.signup-page__intro--vote,cssSelector
+profile,button.navigation__item__link--account,cssSelector
+manage,a.identity__account,cssSelector
+edit,div.responsive-app__wrapper > div > div.my-account-page > div > div.email-preferences > div > div > div.content-pane__title > a,cssSelector
+pref,label.email-preferences-checkbox,cssSelector
+save,div.email-preferences__actions > button:nth-child(2),cssSelector
+flash,div.email-preferences div div.flash-messages,cssSelector
+nbcprofile,ul.identity-header__list li:nth-child(2),cssSelector
+GmailUser,#identifierId,cssSelector
+NextGButton,#identifierNext,cssSelector
+PassUser,#password > div.aCsJod.oJeWuf > div > div.Xb9hP > input,cssSelector
+PassNext,#passwordNext,cssSelector
+InboxMail,body > table:nth-child(16) > tbody > tr > td:nth-child(2) > table:nth-child(1) > tbody > tr > td:nth-child(2) > form > table.th > tbody > tr:nth-child(1),cssSelector
+signupbtn,button.button--email,cssSelector
+fav,div.show-header__menu i.show-header__remove-favorite-icon,cssSelector
+startwatchingbtn,button.auth-complete__cta,cssSelector
+signinvppa,label.signin-form__vppa-checkbox,cssSelector

@@ -1,0 +1,18 @@
+ObjectName,ObjectProperties,SearchType
+ShowsLink,a.navigation__item__link,cssselector
+ShowDetailShowListItems,ul.navigation__item__list,cssselector
+globalNavItems,ul.navigation__list>li>a,cssselector
+showlevelNavItems,ul.show-header__list>li>a,cssselector
+phototab,section.show-page ul.show-header__list>li>a,cssselector
+seasons_filter,div.gallery-list__filters__season,cssselector
+categories_filter,div.gallery-list__filters__categories,cssselector
+seasons_click,div.gallery-list__filters__season span.filter-select__selected,cssselector
+categories_click,div.gallery-list__filters__categories span.filter-select__selected,cssselector
+categories_list,div.gallery-list__filters__categories > div > div > ul > li > a,cssselector
+seasons_list,div.gallery-list__filters__season > div > div > ul > li a,cssselector
+seasons_click_heading,h1.section-heading__title,cssselector
+seasons_gallery,div.card__description div:nth-child(1),cssselector
+banner,div.ad-topbanner.mps-ad__content,cssSelector
+heading_PLP,h1.section-heading__title,cssSelector
+text,body > pre,cssSelector
+

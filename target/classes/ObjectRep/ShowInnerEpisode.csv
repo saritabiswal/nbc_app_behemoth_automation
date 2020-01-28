@@ -1,0 +1,82 @@
+ObjectName,ObjectProperties,SearchType
+BodyAd,div.mps-ad__inner,cssSelector
+RespNavBar,div.sticky-inner-wrapper,cssSelector
+Thumbnail,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__thumbnail,cssSelector
+Season,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__title,cssSelector
+Date,div.card__meta h2.card__title span:nth-child(1),cssSelector
+EpisodeName,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__secondaryTitle,cssSelector
+EpisodeDescription,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__longDescription,cssSelector
+FilterNav,div.filter-select__inner,cssSelector
+Thumbnailn,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__thumbnail,cssSelector
+Seasonn,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__title,cssSelector
+Daten,div.card__meta h2.card__title span:nth-child(1),cssSelector
+EpisodeNamen,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__secondaryTitle,cssSelector
+EpisodeDescriptionn,#main > div.responsive-app__wrapper > div > div.episodes-page__episodes-module > div.episodes-page__latest-episode > div > div.tile.tile--episode > article > div.tile__meta > div.tile__longDescription,cssSelector
+Filterclick,ul.filter-select__dropdown li:nth-child(3),cssSelector
+LoadMore,div.load-button.full-width,cssSelector
+description,meta[name='description'],cssSelector
+canonical,link[rel='canonical'],cssSelector
+Applink1,meta[property='al:android:package'],cssSelector
+Applink2,meta[property='al:android:url'],cssSelector
+Applink3,meta[property='al:android:app_name'],cssSelector
+Applink4,meta[property='al:ios:app_store_id'],cssSelector
+Applink5,meta[property='al:ios:app_name'],cssSelector
+Applink6,meta[property='al:ios:url'],cssSelector
+Applink7,meta[property='al:web:url'],cssSelector
+Applink8,meta[property='al:web:should_fallback'],cssSelector
+showsclickgn,#app > div > header > div > div > nav > div > ul > li.navigation__item.navigation__item--shows.navigation__item--group > button,cssSelector
+showclickgn,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(2) div.navigation__item__group ul.navigation__item__list li:nth-child(3) a,cssSelector
+Episodeclick,div.sticky-outer-wrapper.show-header.show-header--animate div.show-header__menu ul.show-header__list li:nth-child(4) a,cssSelector
+episeason,div.episodes-page__header div.section-heading div.episodes-page__select-wrapper div.filter-select div.filter-select__inner span.filter-select__selected,cssSelector
+episeasonnav,div.episodes-page__header div.section-heading div.episodes-page__select-wrapper div.filter-select div.filter-select__inner ul.filter-select__dropdown li:nth-child(4) a,cssSelector
+description1,meta[name='description'],cssSelector
+canonical1,link[rel='canonical'],cssSelector
+h1tag,div.section-heading,cssSelector
+episodeh1,h1.section-heading__title,cssSelector
+Main,div.show-header__menu ul.show-header__list li:nth-child(3) a.navigation__item__link,cssSelector
+Episodes,div.show-header__menu ul.show-header__list li:nth-child(4) a.navigation__item__link,cssSelector
+Photos,div.show-header__menu ul.show-header__list li:nth-child(5) a.navigation__item__link,cssSelector
+Cast,div.show-header__menu ul.show-header__list li:nth-child(6) a.navigation__item__link,cssSelector
+Shop,div.show-header__menu ul.show-header__list li:nth-child(7) a.navigation__item__link,cssSelector
+mgame,div.show-header__menu ul.show-header__list li:nth-child(8) a.navigation__item__link,cssSelector
+Seasonmeta,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(2) div.navigation__item__group ul.navigation__item__list li:nth-child(17) a,cssSelector
+episnsorryvideo,div.episodes-page__header div.section-heading div.episodes-page__select-wrapper div.filter-select div.filter-select__inner ul.filter-select__dropdown li:nth-child(6) a,cssSelector
+Clickepisorry,a.card__more-link,cssSelector
+expired,div.video-meta__wrapper div.video-meta__expired,cssSelector
+EpisodeNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(3) a.navigation__item__link span,cssSelector
+ScheduleNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(4) a.navigation__item__link span,cssSelector
+NewssportsNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(5) a.navigation__item__link span,cssSelector
+ShopNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(6) a.navigation__item__link span,cssSelector
+AppNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(7) a.navigation__item__link span,cssSelector
+LiveNav,div.sticky-outer-wrapper div.sticky-inner-wrapper nav.navigation div.navigation__inner ul.navigation__list li:nth-child(8) a.navigation__item__link span,cssSelector
+newssportsNavelement,ul.navigation__item__list div#news-sports-0.navigation__item__title.navigation__item__title--news-sports,cssSelector
+ShowNavRefer1,li.navigation__item__more,cssSelector
+EpisodeRefer,section > div > div.section-heading > h2,cssSelector
+ScheduleNavRefer,h1.logo-header__title,cssSelector
+StoreRefer,div.store-language-container,cssSelector
+LiveRefer,div.live-video-page,cssSelector
+AppRefer,div.app-page,cssSelector
+episeasonnav1,div.episodes-page__header div.section-heading div.episodes-page__select-wrapper div.filter-select div.filter-select__inner ul.filter-select__dropdown li:nth-child(4) a,cssSelector
+Selector1,section.show-page ul.show-header__list li,cssSelector
+Selector2,div.episodes-page__episodes-module > div:nth-child(3) > div > article > div.card__meta,cssSelector
+banner,div.responsive-app div.default-page-template div.mps-ad.mps-ad--topbanner,cssSelector
+ShowNavi,ul.navigation__item__list,cssSelector
+HamBurgMenu,#app > div > header > div > div > nav > div > div > a.navigation__hamburger,cssSelector
+ShowsLink,ul > li.navigation__item.navigation__item--shows.navigation__item--group >a,cssSelector
+EpisodeLink,ul > li:nth-child(4) > a,cssSelector
+LoadMore1,div[class='load-button full-width'],cssSelector
+EpisodedList,a[class='card__title-link'],cssSelector
+EpisodesTitleList,a.card.card--clip,cssSelector
+InnerShowSubmenu,div.show-header__menu>ul>li>a,cssSelector?
+ExpiredEpisode,a[class='card__more-link'],cssSelector
+LatestFirstClip,section:nth-child(4) > div > div.video-list__container > div.video-list__content.video-list__content-6 > a:nth-child(1),cssSelector
+NewEpisodedFirst,div > div.video-list__container > div.video-list__content > a:nth-child(1),cssSelector
+ShowPage_FirstClip,div.video-list__container > div.video-list__content.video-list__content-103 > a:nth-child(1),cssSelector
+ShowPage_FirstEpisode,div > div.video-list__container > div.video-list__content.video-list__content-5 > a:nth-child(2),cssSelector
+Video_First,div > section > div > div.all-video__content > a:nth-child(1),cssSelector
+Episode_Innershow,div[class='episodes-page__episodes-module'] a,cssSelector
+NoEpisodesavailText11,div > p,cssSelector
+body_ad,div[class='ad-topbox mps-ad__content']>div,cssSelector
+ShowNavRefer,div.store-language-container,cssSelector
+NoEpisodesavailText1,div > div.video-list__container > div.video-list__content.video-list__content-5 > a:nth-child(2),cssSelector
+bodyadlinks,ins.dcmads,cssSelector

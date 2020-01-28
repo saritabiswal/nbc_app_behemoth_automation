@@ -1,0 +1,11 @@
+ObjectName,ObjectProperties,SearchType
+objGlobalNavigation,ul.navigation__list,cssSelector
+objNavigationItems,li.navigation__item button,cssSelector
+objHomePageHrefs,a.navigation__item__link span,cssSelector
+objNewsExpanded,a[href*=local-stations],cssSelector
+objNetworkTiles,div.tile__thumbnail__image--monochrome img,cssSelector
+objBrandDisplaying,a.tile--brand,cssSelector
+objnetworkTilesImage,div.tile__thumbnail,cssSelector
+networkTilesUnderneath,div.tile__meta__text,cssSelector
+homePagehrefs,a.navigation__item__link span,cssSelector
+debugOverlay,div.debug-overlay,cssSelector

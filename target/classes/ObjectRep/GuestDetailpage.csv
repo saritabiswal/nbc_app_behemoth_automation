@@ -1,0 +1,84 @@
+ObjectName,ObjectProperties,SearchType
+ShowsLink,li.navigation__item.navigation__item--shows,cssselector
+ShowList,ul.navigation__item__list a,cssselector
+GuestClick,ul.show-header__list,cssselector
+DropDownClick,div.guest-list__filter div.filter-select__inner span.filter-select__selected,cssselector
+DropDownDISPLAYED,ul.filter-select__dropdown,cssselector
+Guestelement,div.guest-list__inner h2.guest-list__title,cssselector
+Guesttable,div div.guest-list.guest-list--mounted div  div.slick-initialized.slick-slider.guest-list__slick ,cssselector
+Guestname,div.guest-detail__meta h1.guest-detail__name,cssselector
+guestimage,div div.guest-detail div div.guest-detail__image div img,cssselector
+drpclicked,div.guest-list.guest-list--mounted > div > div.guest-list__filter > div > div > span,cssselector
+GuestPrev,.carousel__arrow__button--left,cssselector
+Guestafta,.carousel__arrow__button--right,cssselector
+GuestCarosal,#\31 420f3a0d535b295c5faeee66ee298856c3c9f30 > figure > figcaption,cssselector
+Thisweek,div.guest-calendar__headline,cssselector
+Thisday,div.guest-calendar__container-headline-bar--current > span.guest-calendar__container-headline-bar__day,cssselector
+Thisdate,div.guest-calendar__container-headline-bar.guest-calendar__container-headline-bar--current span.guest-calendar__container-headline-bar__date,cssselector
+Thisimage,div.guest-calendar__container-credit > a:nth-child(1) > div > div.guest-calendar__container-photo > div > img,cssselector
+Thisname, div.guest-calendar__container-credit > a:nth-child(1) > div > div.guest-calendar__container-day > div,cssselector
+Prevbtn,section > div.show-page__modules > div.guest-calendar.guest-calendar--open.guest-calendar--overlay > div > div.guest-calendar__container > div > div.slick-arrow.slick-prev > button,cssselector
+Nextbtn,section > div.show-page__modules > div.guest-calendar.guest-calendar--open.guest-calendar--overlay > div > div.guest-calendar__container > div > div.slick-arrow.slick-next > button,cssselector
+guestcal,div.guest-calendar__container,cssselector
+Dropclick,#main > div > div.guest-list.guest-list--mounted > div > div.guest-list__filter > div > div > ul > li:nth-child(4) > span,cssselector
+Role,div.guest-detail__meta h2.guest-detail__role,cssselector
+Social,div.guest-detail__meta div.guest-detail__social,cssselector
+Desc,div.guest-detail__inner div.guest-detail__description,cssselector
+More,div.guest-detail div div.guest-detail__more-container div span,cssselector
+Less,div.guest-detail div div.guest-detail__more.guest-detail__more--active span,cssselector
+Promo,div.guest-detail div div.guest-detail__promo-container,cssselector
+GuestLink,#main > section > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li:nth-child(5) > a,cssselector
+GuestDisplaynames,figcaption.guest-list__display-name,cssselector
+S-Udrpvalue,div.guest-list.guest-list--mounted > div > div.guest-list__filter > div > div > ul > li:nth-child(8) > span,cssselector
+ClipsMetada,div.card__meta,cssselector
+more,div.guest-detail__more,cssselector
+Less,div.guest-detail__more.guest-detail__more--active,cssselector
+Description,div.guest-detail__description.guest-detail__description--active,cssselector
+facebook,a.social-icons__icon.facebook,cssselector
+twitter,a.social-icons__icon.twitter,cssselector
+social,div.guest-detail__social,cssselector
+menu,header > div > div > nav > div > ul > li > a > span,cssselector
+sName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssselector
+header,div.guest-calendar__headline,cssselector
+nextbtn,button.guest-calendar__arrow-next,cssselector
+clip_section,section.video-list__item-clips h2.section-heading__title,cssselector
+slick_arrow_prev,button.slick-arrow.slick-prev,cssselector
+show_name,div.slideshow__title,cssselector
+btn,div.slideshow__arrow.slideshow__arrow--right,cssselector
+First_ShowName,section > div > div.slideshow.slideshow--showpage > div > div > a > div.slideshow__overlay > div > div.slideshow__title,cssselector
+Mobile_Filter,div[class='filter-select__inner'],cssselector
+Mobile_Filter_DrpList,ul[class='filter-select__dropdown'],cssselector
+Mobile_Filter_DrpList_S-U Value,ul[class='filter-select__dropdown']>li:nth-child(8) > span,cssselector
+Mobile_GuestListSlickTrack,div.slick-initialized.slick-slider.guest-list__slick > div > div.slick-track > a figcaption,cssselector
+Slick_arrow_Next,button[class='slick-arrow slick-next'],cssselector
+TJF_GuestCalander,div[class='slick-slide slick-active guest-calendar__container-episode'],cssselector
+TJF_GuestCalander_PrevArrow,button[class='guest-calendar__arrow-prev'],cssselector
+ComingSoon_text,div.guest-calendar__container-name,cssselector
+ComingSoon_img,div.guest-calendar__container-photo img,cssselector
+prev_mobile,button.guest-calendar__arrow-prev,cssselector
+guest_link,div.guest-calendar__container-credit-inner img,cssselector
+ObjSlide_Show,.slideshow__slide-enter-done .slideshow__block>.slideshow__title,cssselector
+ObjGuest_Table,.guest-list__inner,cssselector
+ObjGuest_Name,.carousel__container>div>a figcaption,cssselector
+Firsttitle,div.section-heading,cssselector
+firsttile,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(1) > div.shelf__inner > div > div > a:nth-child(1),cssselector
+rightbutton,button.shelf__arrow.shelf__arrow--right,cssselector
+shelfcnt,#main > div.responsive-app__wrapper > div > div.home-page__sections > section:nth-child(1) > div.shelf__inner > div > div,cssselector
+firsttile3,section > div > section:nth-child(3) > div > div > section > div.shelf__inner > div > div > a:nth-child(1),cssselector
+shelfcnt2,#main > div.responsive-app__wrapper > section > div > section:nth-child(3) > div > div > section > div.shelf__inner > div > div,cssselector
+firsttile8,section > div > section:nth-child(3) > div > div > section > div.shelf__inner > div > div > a:nth-child(1),cssselector
+player,div.video-player,cssselector
+firsttile4,a.tile.tile--episode.tile--zoomable.tile--active,cssselector
+shelfcnt3,#main > div.responsive-app__wrapper > div > div > section:nth-child(5) > div > div > section > div.shelf__inner > div > div,cssselector
+network,#app > div > header > nav > div > ul > li:nth-child(4) > a,cssselector
+rightbutton2,section > div.brand-page__sections > section:nth-child(2) > div.shelf__inner > button,cssselector
+Brandtile, div > div.all-brands-page__sections > section > div > div.grid__tiles > a:nth-child(5),cssselector
+firsttile5,a.tile.tile--title.tile--zoomable,cssselector
+shelfcnt4,#main > div.responsive-app__wrapper > section > div.brand-page__sections > section:nth-child(2) > div.shelf__inner > div > div,cssselector
+firsttile6,a.tile.tile--brand.tile--zoomable.tile--all,cssselector
+shelfcnt5,div > div > div.all-shows-page__sections > section > section.shelf.shelf--default.shelf--BrandItemLabel > div.shelf__inner > div > div,cssselector
+Firstguest,div.guest-calendar__container-credit,cssselector
+Firsttitle01,div.section-heading,cssselector
+firsttile7,a.tile.tile--clip.tile--zoomable,cssselector
+shelfcnt6,div.shelf__tiles__inner,cssselector
+Firsttitle001,div.page-title,cssselector

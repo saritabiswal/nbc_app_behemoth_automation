@@ -1,0 +1,187 @@
+ObjectName,ObjectProperties,SearchType
+objmenu,header > div > div > nav > div > ul > li > a > span,cssSelector
+objsName,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li > a,cssSelector
+objmore_btn,div.about-show__more span.about-show__more__text,cssSelector
+objless_btn,span.about-show__more__text,cssSelector
+objClip_Header,section.video-list__item-clips div.video-list__inner div.section-heading h2.section-heading__title,cssSelector
+objClips,section.video-list__item-clips div.video-list__inner div.video-list__container div.video-list__content a,cssSelector
+objfilter,section.video-list__item-clips div.video-list__inner div.section-heading div.filter-select div.filter-select__inner,cssSelector
+objfil,section.video-list__item-clips div.video-list__inner div.section-heading div.filter-select div.filter-select__inner,cssSelector
+objlist,section.video-list__item-clips div.video-list__inner div.section-heading div.filter-select div.filter-select__inner ul.filter-select__dropdown li span,cssSelector
+objthumbnail,section.video-list__item-clips div.video-list__inner div.video-list__container article.card__content div.card__thumbnail,cssSelector
+objClip_title,section.video-list__item-clips div.video-list__inner div.video-list__container article.card__content div.card__meta div.card__title,cssSelector
+objSunrise_Date,section.video-list__item-clips div.video-list__inner div.video-list__container article.card__content div.card__meta div.card__description span.card__description__part,cssSelector
+objNext_Arrow,button.slick-arrow.slick-next,cssSelector
+objPrev_Arrow,button.slick-arrow.slick-prev,cssSelector
+objDynamic_Lead_Slide,div.hero__item div.hero__overlay.hero__animate-transition,cssSelector
+objAd_Banner,div.mps-ad.mps-ad--topbanner div.mps-ad__inner div.ad-topbanner.mps-ad__content div[id^='google_ads_iframe'] iframe[id^='google_ads_iframe'],cssSelector
+objfirst_clip,section.video-list__item-clips div.video-list__inner div.video-list__container div.video-list__content a:nth-child(1),cssSelector
+objClipDetailbtn,div.video-meta a.video-meta__expand span.video-meta__expand__text,cssSelector
+objrun_time_format,div.video-meta__info span.video-meta__length,cssSelector
+objEpisode,section.video-list.video-list__item-episodes div.video-list__inner div.video-list__container div.video-list__content a:nth-child(2) article.card__content,cssSelector
+objClipDetailbtn,a.video-meta__expand span.video-meta__expand__text,cssSelector
+objFull_Episode,div.video-meta__info span.video-meta__type,cssSelector
+objcurrent_video,div.tabs__content__list--current section.show-list div.show-list__inner  div.show-list__container  div.cards__container  a:nth-child(2),cssSelector
+objClassic_Tab,div.tabs__select  div.tabs__select-inner  ul.tabs__tab li:nth-child(4) a,cssSelector
+objClassic_video,div.tabs__content__list--classic-throwback section.show-list  div.show-list__inner  div.show-list__container a:nth-child(2),cssSelector
+objEpisode_video,div.all-video__inner div.all-video__content  a:nth-child(1),cssSelector
+objupcomingtab,div.tabs__select  div.tabs__select-inner  ul.tabs__tab li:nth-child(3) a,cssSelector
+objvideo,div.tabs__content__list--upcoming section.show-list div.show-list__container div.cards__container a:nth-child(1),cssSelector
+objAd,div.mps-ad__inner,cssSelector
+objguest_calendar_header,div.show-page__modules div.guest-calendar  div.guest-calendar__inner  div.guest-calendar__heading  div.guest-calendar__headline,cssSelector
+objguesthighlighted,div.guest-calendar__container div.slick-initialized.slick-slider  div.slick-list  div.slick-track  div.guest-calendar__container-headline-bar--current,cssSelector
+objguestday,div.guest-calendar__container div.slick-initialized.slick-slider  div.slick-list  div.slick-track  div.guest-calendar__container-headline-bar--current  span.guest-calendar__container-headline-bar__day,cssSelector
+objguestdate,div.guest-calendar__container div.slick-initialized.slick-slider  div.slick-list  div.slick-track  div.guest-calendar__container-headline-bar--current  span.guest-calendar__container-headline-bar__date,cssSelector
+objcalendar_arrow_next_btn,button.guest-calendar__arrow-next,cssSelector
+objcalendar_arrow_prev_btn,button.guest-calendar__arrow-prev,cssSelector
+objshowDate,div.guest-calendar__container div.slick-initialized.slick-slider  div.slick-list  div.slick-track  div.guest-calendar__container-headline-bar  span.guest-calendar__container-headline-bar__date,cssSelector
+objmetaName,meta[name='description'],cssSelector
+objCanonical_URL,link[rel='canonical'],cssSelector
+objDownarrow,section.video-list__item-clips div.video-list__inner div.load-button.full-width[style^='visibility'],cssSelector
+objvideos,section.video-list__item-clips div.video-list__inner div.video-list__container div.video-list__content a,cssSelector
+objNavigation_Bar,#main > section > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul,cssSelector
+oblNavi_menu_list,section > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li > a,cssSelector
+objAboutsection,section > div.show-page__modules > div > div,cssSelector
+objmorbtn_col,div.about-show__more span,cssSelector
+objresposivebar_col,section > div.show-page__modules > div > div > div > div.about-title__text > h2,cssSelector
+objShow_Art,div.about-show div.about-show__inner div.resp-image img,cssSelector
+objfeatureSction,section.features > div.features__inner  > div.section-heading,cssSelector
+objfeaturemetadata,div.features__content > a > article > div.card__meta > div.card__description > div,cssSelector
+objmeta_tag_apple,meta[name='apple-media-service-subscription'],cssSelector
+objArchived_Show,header > div > div > nav > div.navigation__inner > div.sticky-outer-wrapper.show-header.show-header--mobile > div > div.show-header__background > div > div > h1,cssSelector
+objAll_Tab,div.tabs__select  div.tabs__select-inner  ul.tabs__tab li:nth-child(1) a,cssSelector
+objALLShows,section > div.tabs__container > div > div.tabs__content__list.tabs__content__list--all.tabs__content__list--active > section > div > div > div > a > article > div.card__meta > div.card__title,cssSelector
+objEpisode,div > div > section:nth-child(3) > div > div.section-heading > h2,cssSelector
+objEpisodeSection,section:nth-child(3) > div > div.video-list__container > div.video-list__content a,cssSelector
+objEpisodeTitle,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__title,cssSelector
+objEpisodedescription,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > span:nth-child(1),cssSelector
+objEpisodeDate,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > span:nth-child(2),cssSelector
+objdescription,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a:nth-child(1) > article > div.card__meta > div.card__description > span:nth-child(1),cssSelector
+objload_btn,section:nth-child(3) > div > div.video-list__container > div.load-button.full-width,cssSelector
+obj_FirstVideo,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a:nth-child(1),cssSelector
+obj_FirstVideo_Title,section:nth-child(3) > div > div.video-list__container > div.video-list__content > a:nth-child(1) > article > div.card__meta > div.card__title,cssSelector
+obj_EpisodeHeader,div.show-header__title span,cssSelector
+objClip,div > div > section:nth-child(4) > div > div.section-heading > h2,cssSelector
+obj_FirstClip_Title,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a:nth-child(1),cssSelector
+objClipSection,section:nth-child(4) > div > div.video-list__container > div.video-list__content a,cssSelector
+objClipTitle,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__title,cssSelector
+objClipdescription,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > div > div,cssSelector
+objCliptype,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > div > span > span,cssSelector
+objClipDate,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a > article > div.card__meta > div.card__description > div > span,cssSelector
+objload_btn,section:nth-child(4) > div > div.video-list__container > div.load-button.full-width,cssSelector
+obj_ClipVideos,section:nth-child(4) > div > div.video-list__container > div.video-list__content > a,cssSelector
+objDetails_btn,section > div.video-meta > a > span,cssSelector
+objtype,section > div.video-meta.video-meta--expanded > div.video-meta__details > div.video-meta__info > span.video-meta__type,cssSelector
+objClipSction,section.video-list.video-list__item-clips div.video-list__inner h2.section-heading__title,cssSelector
+objClipVideos,section.video-list.video-list__item-clips div.video-list__inner div.video-list__container a,cssSelector
+objdownArrow,section.video-list.video-list__item-clips div.load-button.full-width,cssSelector
+ThrowBackVideoClick,div.video-list__container,cssSelector
+DescriptionText,section > div.show-page__modules > div > div > div > div.about-title__text > div.about-show__long-desc > p:nth-child(1) ,cssSelector
+LoadButton,div.load-button.full-width,cssSelector
+Adtopbox,div.mps-ad.mps-ad--topbox,cssSelector
+ArchiHeader,div.show-header__menu > ul > li > a,cssSelector
+list,section.show-page ul,cssSelector
+ClipLink,section.all-shows div.cards__container a div.resp-image  img,cssselector
+ClipHeading,h2.section-heading__title,cssselector
+ClipTitle, div.video-list__content > a:nth-child(1)  div.card__title,cssselector
+Cliplist,div.show-page__modules section:nth-child(2) a,cssselector
+ClipTitle,div.show-page__modules section:nth-child(2) a img,cssselector
+ClipDescription,div.show-page__modules section:nth-child(2)  span.card__description__part,cssselector
+ClipType,div.show-page__modules section:nth-child(2)  span.card__description__part span.card__clip__badge,cssselector
+clipsDetail, section > div.video-meta > a > span,cssselector
+ClipDetails,div.video-meta.video-meta--expanded > div.video-meta__details > div.video-meta__info >span.video-meta__type,cssselector
+DetailsButton,a.video-meta__expand,cssselector
+TheVoice,a[href='/the-voice'],cssselector
+LatestFeatures,section.features > div > div.section-heading > h2,cssselector
+ShowsLink,a.navigation__item__link,cssselector
+ShowDetailShowListItems,ul.navigation__item__list,cssselector
+latestFeaturesHeading,section.features > div > div.section-heading > h2,cssselector
+latestfeatureImage,div.features__content > a:nth-child(1) > article > div.card__thumbnail > div > img,cssselector
+latestFeatureTitle,div.features__content> a:nth-child(1) > article > div.card__meta > div.card__title,cssselector
+latestFeatureDesc,div.features__content > a:nth-child(1) > article > div.card__meta > div.card__description > div,cssselector
+loadbtn,section.features > div > div.load-button.full-width,cssselector
+aboutShowTitle,h2.about-show__title,cssselector
+moreBtn,div.about-show__more.about-show__more--hidden,cssselector
+NobodyAd,div > div.video-list__container > div.video-list__content > div>div>div,cssselector
+UpcomingTab,div.tabs__select >div li:nth-child(3) > a,cssselector
+UpcomingList,div.tabs__content__list.tabs__content__list--upcoming.tabs__content__list--active > section > div > div > div > a:nth-child(1) > article > div.card__meta > div.card__title,cssselector
+AllshowLink,li.navigation__item__more,cssselector
+objsName,ul[class='navigation__item__list'] >li>a,cssselector
+Videolistitem,section[class*='video-list video-list__item-'],cssselector
+VideolistContainer,section[class*='video-list video-list__item-0'] div.video-list__container a,cssselector
+LoadMore,section[class*='video-list video-list__item-0'] div.video-list__container>div[class='load-button full-width'],cssselector
+ClipsAd,div[class='mps-ad mps-ad--topbox'],cssselector
+AuthVidoes,div.card__icon.icon-play--auth,cssselector
+LinkLive,section.fork-picker__section.fork-picker__mvpd > button>span,cssselector
+ObjLive,div.mvpd-dialog__predictive > div > input,cssselector
+PredictiveList,ul.mvpd-predictive__results>li,cssselector
+Sketches,#main > section > div.sticky-outer-wrapper.show-header.show-header--animate > div > div.show-header__menu > ul > li:nth-child(4) > a,cssselector
+FeaturedSketchesVideo,section.section.section--clips.clips--3up > div > ul > li:nth-child(1) > article > a > div > img,cssselector
+EpisodesDropDown,div.filter-select__inner,cssselector
+Season1DropdownVal,ul.filter-select__dropdown>li:nth-child(6),cssselector
+SorryEpisode,div.card.card--episode-page > article > a > div > div > img,cssselector
+SorrVidoeMetadata,#main > section > div,cssselector
+listOfslides,div > picture > source,cssselector
+Showname,div.hero__show-name,cssselector
+ShowtuneIn,div.hero__show-tune-in,cssselector
+ShowDesc,div.hero__description,cssselector
+CtaPlayIcon,div.hero__cta.hero__cta--icon-play,cssselector
+PrevIcon,div > button.slick-arrow.slick-prev,cssselector
+NextIcon,div > button.slick-arrow.slick-next,cssselector
+Headername,div.show-header__menu,cssselector
+objfeaturelist,a.card.card--feature div.resp-image img,cssSelector
+ShowDetailShowListItems,ul.navigation__item__list,cssselector
+marketingBrandImagesHolder,div.marketing-bands__inner,cssSelector
+CountofImages,section.marketing-bands >div > div> div > div > a > div > img,cssSelector
+GuestCalendarDays,span.guest-calendar__container-headline-bar__day,cssSelector
+HamBurgMenu,div > a.navigation__hamburger,cssSelector
+SubmenuLinksList,ul.navigation__list>li>a>span,cssSelector
+ShowsubmenuList,li.navigation__item.navigation__item--shows.navigation__item--group.navigation__item--expanded > div > ul > li>a,cssSelector
+ClipsFilterDropdownList,section.video-list video-list__item-1 video-list video-list__item-clips video-list--filter>div>div>div>select,cssSelector
+ClipsFilterDropdown,div.show-page__modules > section:nth-of-type(2) select,cssselector
+EpisodesDropDown,div.show-page__modules > section:nth-of-type(1) select,cssselector
+marketband,section.marketing-bands,cssSelector
+shopnav,div.navigation__inner > ul > li:nth-child(6) > a span,cssSelector
+archivedls,div > div.slick-slide.slick-active > a > div,cssSelector
+Heroshowname,div:nth-child(1) > a > div > div > div > div.hero__show-info > div.hero__show-name,cssSelector
+herodescription,div:nth-child(1) > a > div > div > div > div.hero__description,cssselector
+herocta,div:nth-child(1) > a > div > div > div > div.hero__cta,cssselector
+prevbtn,div.hero > div > button.slick-arrow.slick-prev,cssselector
+nextbtn,div.hero > div > button.slick-arrow.slick-next,cssselector
+title,div.show-header__title h1.show-header__title__inner,cssselector
+navlist,div.sticky-outer-wrapper.show-header.show-header--animate div > div.show-header__menu > ul > li > a,cssselector
+aboutShowTitle,h2.about-show__title,cssselector
+aboushowdesc,div.about-show__long-desc,cssselector
+aboutshowmore,div.about-title__text > div.about-show__more > span,cssselector
+aboutshowless,div.about-show__more.about-show__more--active > span,cssselector
+aboutshowimg,div.about-show__inner div.resp-image ,cssselector
+featuretitle,h2.section-heading__title,cssselector
+images,div.features__content > a > article > div.card__thumbnail > div img,cssselector
+links,div.features__content a,cssselector
+DescriptionText,section > div > div.features__content > a > article > div.card__meta > div.card__title,cssselector
+Loadbutton,div.load-button.full-width,cssselector
+MainTab,a.navigation__item__link,cssselector
+PlayPauseIcon,div.tpPlay canvas.IconPause,cssselector
+hidesales_heading,span.video-meta__info-title,cssselector
+list_cardtitles_clips,a.card.card--clip div.card__title,cssselector
+list_cardtitles_episodes,a.card.card--episode div.card__title,cssselector
+Archshowimg,img[alt='Chuck'],cssselector
+Allshows_All,div.tabs__select > div > ul > li:nth-child(1) > a,cssselector
+Allshows_All_Tab_showname,div[class='tabs__content__list tabs__content__list--all tabs__content__list--active'] div[class='card__title'],cssselector
+main_mobile,ul.show-header__list li a,cssselector
+ClipsName,section[class='video-list video-list__item-1 video-list video-list__item-clips video-list--filter'] div[class='video-list__container'] a,cssselector
+BrandingBar,div.show-header__info,cssSelector
+SlickShowsList,div.slick-track>div,cssSelector
+SlickShowNextArrow,button.slick-arrow.slick-next,cssSelector
+ActiveSlide,a[class='hero__link needsclick'],cssSelector
+SlideShow,div.slick-slide,cssSelector
+DesSlideTitle,div.hero__description,cssSelector
+Playicon,divhero__cta hero__cta--icon-play,cssSelector
+AboutshowTitle,div.about-title__text,cssSelector
+ShowMore,div[class='about-show__more'],cssSelector
+ShowLess,div[class='about-show__more about-show__more--active'],cssSelector
+Featurecollection,div.features__content.features__content-3 > a,cssSelector
+Mobile_GuestName,div.guest-calendar__container-name,cssselector
+DropDownDISPLAYED,ul.filter-select__dropdown,cssselector
+Dropclick,#main > div > div.guest-list.guest-list--mounted > div > div.guest-list__filter > div > div > ul > li:nth-child(4) > span,cssselector
+ClipsFName,section[class='video-list video-list__item-1 video-list video-list__item-clips video-list--filter'] div[class='card__title'],cssselector

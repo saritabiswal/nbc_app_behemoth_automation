@@ -1,0 +1,89 @@
+TestName,TestClass,Execution,ExecutionType,Browser,BrowserVersion,OS,OSVersion
+search,com.nbcd.test.OTTMorePageRTP4771Vizio,Yes,Chrome,Chrome,75,Windows,7
+search,com.nbcd.test.OTTSearchPageRTP4076Vizio,No,Chrome,Chrome,75,Windows,7
+ContactUs,com.nbcd.test.OTTNetworksPageRTP4088Xboxoneapp,No,Chrome,Chrome,75,Windows,7
+ContactUs,com.nbcd.test.OTTNetworksPageRTP4088VizioApp,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyLiveStreamPageSupportedRegion17293603,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyAuthSuccessMsg17543606,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyAuthFrameDetails18743613,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyMVPDListPicker18753607,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyExternalPageAuthFlowMVPD18743608,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyLiveStreamNavigationForLoggedUer18733609,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyNavigationLiveStreamNotAuthenticated18733610,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyLiveStreamGeneralLayOut17523617,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyAuthIFrameLayOutDirectTV20953623,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyFullListViewLayOut20933631,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyScrollSizeForVODPage20933628,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyOneResultEnterButton20933629,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePagelivepageAuthkill54455843,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyRollOverBehavoirNavigationUsingArrowKeysPredictiveText21063624,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePagelivePageNavelement54885790,No,Chrome,Chrome,75,Windows,7
+SearchPage,com.nbcd.test.TCSearchPageIdentifyVerifysearchresultbehaviour5630,No,Chrome,Chrome,75,Windows,7
+SearchPage,com.nbcd.test.TCSearchPageIdentitybehaviourabilities,No,Chrome,Chrome,75,Windows,7
+SearchPage,com.nbcd.test.TCSearchPageIdentifyVerifySearchforEpisode,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageverifyLiveNotSupportedRegion17293604,No,Chrome,Chrome,75,Windows,7
+SearchAllPages,com.nbcd.test.TCSearchAppsPageReusableVerifysearchandcloses,No,Chrome,Chrome,75,Windows,7
+SearchAllPages,com.nbcd.test.TCSearchAppsPageReusableVerifySearchforclips5630,No,Chrome,Chrome,75,Windows,7
+SearchAllPages,com.nbcd.test.TCSearchAppsPageReusableVerifySearchforepisode,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageRegressionVerifyLiveStreamingWebRTP4124,No,Chrome,Chrome,75,Windows,7
+LivePage,com.nbcd.test.TCLivePageRegressionVerifyLiveStreamingWebRTP4185,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+Schedule,com.nbcd.test.TCSchedulePageRegressionLiveScheduleVerifyLiveGuidePageRTP4166,No,Chrome,Chrome,63,Windows,7
+VideoPlayer,com.nbcd.test.PGVideoPlayerRegressionVerifyNotInPackageMessagingRTP4169,No,Chrome,Chrome,63,Windows,7
+OneAppNetworks,com.nbcd.test.TCNetworksPageVerifyNetworksRTP4133,No,Chrome,Chrome,75,Windows,7
+OneAppNetworksMobile,com.nbcd.test.TCNetworksPageVerifyNetworksRTP4133Mobile,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Search,com.nbcd.test.TCOneAppSearchPageVerifySearchSearchResultsRTP4125,No,Chrome,Chrome,75,Windows,7
+OneAppRegressionShowHomePage,com.nbcd.test.TCShowHomePageRegressionRTP4074 ,No,Chrome,Chrome,63,Windows,7
+Identity,com.nbcd.test.TCIdentityVerifyGoogleFBAuthenticationRTP4168,No,Chrome,Chrome,64,Windows,7
+Identity,com.nbcd.test.TCIdentityMobVerifyGoogleFBAuthenticationRTP4168,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Identity,com.nbcd.test.TCIdentityMobVerifyEmailAuthenticationRTP4167,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Identity,com.nbcd.test.TCIdentityVerifyEmailPreferenceAndManageProfileRTP4210,No,Chrome,Chrome,64,Windows,7
+Identity,com.nbcd.test.TCIdentityMobVerifyEmailPreferenceAndManageProfileRTP4210,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Identity,com.nbcd.test.TCIdentityVerifyEmailAuthenticationRTP4167,No,Chrome,Chrome,64,Windows,7
+OneAppAllShowsPage,com.nbcd.test.TCAllShowsPageRegressionRTP4127,No,Chrome,Chrome,64,Windows,7
+OneApp,com.nbcd.test.TCAllShowsPageRegressionRTP4127Mobile,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCGlobalHomePageOneAppGlobalHomePageRTP4089MobQAA917,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCGlobalHomePageOneAppGlobalHomePageRTP4089QAA881,No,Chrome,Chrome,64,Windows,7
+oneapp,com.nbcd.test.TCBrandLandingPageValidationsRTP4042,No,Chrome,Chrome,64,Windows,7
+oneapp,com.nbcd.test.TCBrandLandingPageValidationsRTP4042Mob,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Oldsuite,com.nbcd.test.TCOneAppGlobalHomePageEpisodePageRemovedNBCRESP9607,No,Chrome,Chrome,64,Windows,7
+Oldsuite,com.nbcd.test.TCOneAppGlobalHomePageGlobalNavAllLinksNBCRESP9674,No,Chrome,Chrome,64,Windows,7
+Oldsuite,com.nbcd.test.TCContactMobileMistypeurlcontactusredirectsContactUsNBCRESP6030,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+Oldsuite,com.nbcd.test.TCContactDesktopMistypeurlcontactusredirectsContactUsNBCRESP6030,No,Chrome,Chrome,64,Windows,7
+Oldsuite,com.nbcd.test.TCCreditDetailsPageVerifyCreditRoleAsCharacterNBCRESP1303,No,Chrome,Chrome,64,Windows,7
+Oldsuite,com.nbcd.test.TCGlobalHomePagetitledescanNBCRESP1,No,Chrome,Chrome,64,Windows,7
+Oldsuite,com.nbcd.test.TCGlobalHomePageGlobalHomepageapple1012,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCGlobalHomePageVerifyNBCRESP3571,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCGlobalHomePageVerifyNBCRESP6507,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCGlobalHomePageVerifyExpandCapitalizationRewriteRuleinURLNBCRESP8417,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCGlobalHomePageGlobalFooterlinksNav3585,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP3035,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP5711,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP5489,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP4564,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP7916,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyNBCRESP7916,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCIdentityVerifyTabNBCRESP7918,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oldsuite,com.nbcd.test.TCIdentityMobVerifySignupcoins7880,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oldsuite,com.nbcd.test.TCIdentityTabVerifySignupcoins7879,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oldsuite,com.nbcd.test.TCShowHomePage043VerifyFaceBookSNLTagsDBB3078,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCShowHomePageVerifymetaTagsDBB3087,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCShowHomePage043VerifyTwitterTagsDBB3079,No,Chrome,Chrome,64,Windows,7
+oldsuite,com.nbcd.test.TCShowHomePageVerifyAboutTheShowNBCRESP1573,No,Chrome,Chrome,64,Windows,7
+oneapp,com.nbcd.test.TCNetworksPageVerifyNetworksRTP4133Tab,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCAllShowsPageRegressionRTP4127Tab,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCBrandLandingPageValidationsRTP4042Tab,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCOneAppSearchPageVerifySearchSearchResultsRTP4125QAA919Tab,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCOneAppSearchPageVerifySearchSearchResultsRTP4125QAA919Mob,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCShowHomePageRegressionRTP4074Mobile,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCShowHomePageRegressionRTP4074Tab,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCIdentityTabVerifyEmailAuthenticationRTP4167,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCIdentityTabVerifyEmailPreferenceAndManageProfileRTP4210,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCIdentityTabVerifyGoogleFBAuthenticationRTP4168,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCSchedulePageMobVerifyLocalScheduleRTP4619,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCOneAppGlobalHomePageF2RTP4616Part1,No,Chrome,Chrome,64,Windows,7
+oneapp,com.nbcd.test.TCOneAppGlobalHomePageF2RTP4616Part2,No,Chrome,Chrome,64,Windows,7
+oneapp,com.nbcd.test.TCSchedulePageTabVerifyLocalScheduleRTP4619,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCOneAppShowlevelNavDevicesMobileQAA946,No,ANDROIDPHONE,TRUE,75,Samsung Galaxy S8 Plus,9
+oneapp,com.nbcd.test.TCOneAppShowlevelNavDevicesTabletQAA946,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oneapp,com.nbcd.test.TCGlobalHomePageTabRegressionGlobalHomePageRTP4616,No,ANDROIDTAB,TRUE,75,Samsung Galaxy Tab S3,8
+oldsuite,com.nbcd.test.TCActivationPageTCActivationPageVerifySucessPage2751,No,Chrome,Chrome,64,Windows,7

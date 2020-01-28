@@ -1,0 +1,216 @@
+ObjectName,ObjectProperties,SearchType
+addcontent_click,ul.action-links a,cssSelector
+collection_click,ul  li:nth-child(1)  span a,cssSelector
+CMStitle_enter,input.machine-name-source,cssSelector
+Displaytitle_enter,input#edit-field-display-title-und-0-value,cssSelector
+AddFeature_btn,input#edit-field-features-und-add-more,cssSelector
+published_drop,div.form-item-status select,cssSelector
+type_drop,div.form-item-type select,cssSelector
+Apply_btn,input#edit-submit-collections-node-selection,cssSelector
+chkbx_1,input#edit-entityreference-view-widget-0,cssSelector
+chkbx_2,input#edit-entityreference-view-widget-1,cssSelector
+submit_btn,div#edit-actions-ervw>input#edit-ervw-submit,cssSelector
+simply_click,ul.pager,cssSelector
+ModerationStatus,select[id='edit-event'],cssSelector
+features_table,table#field-features-values,cssSelector
+Global_Save,div[id='edit-actions'] > input[id='edit-submit'],cssSelector
+feature_click,ul  li:nth-child(5)  span a,cssSelector
+text_Title,input#edit-title,cssSelector
+btn_browse,a.button.browse,cssSelector
+viewLib_tab,a#ui-id-2,cssSelector
+image_first,div.media-thumbnail img,cssSelector
+submitbtn,a.publisher_media_browser--media_browser_1,cssSelector
+select_label,select[id='edit-field-feature-label-type-und'],cssSelector
+txt_meta,input#edit-field-feature-metadata-und-0-value,cssSelector
+txt_headline,input#edit-field-feature-headline-und-0-value,cssSelector
+txt_link,input#edit-field-feature-link-und-0-url,cssSelector
+chck_box1,input#edit-field-feature-link-und-0-attributes-target,cssSelector
+attachbtn,input#edit-field-feature-image-und-0-attach-button,cssSelector
+relation_link,ul.vertical-tabs-list li:nth-child(3) a,cssSelector
+dd_shows,select[id='edit-field-pub-relation-tv-shows-und-0-field-show-und--2'],cssSelector
+savebtn,input#edit-submit,cssSelector
+publish_link,ul.vertical-tabs-list li:nth-child(2) a,cssSelector
+api,td.line-content,cssSelector
+content_link,div.navbar-menu-administration li a.navbar-icon-content,cssSelector
+type_ddwn,select[id='edit-type'],cssSelector
+applybtn,input#edit-submit-content,cssSelector
+coll_table,table#field-collections-values,cssSelector
+add_coc,input#edit-field-collections-und-add-more,cssSelector
+title_popup_enter,div.views-widget div.form-item-title .form-text,cssSelector
+edit_showname,div.ctools-content ul li:nth-child(1),cssSelector
+coll_tab_vertical, ul.vertical-tabs-list li:nth-child(16) a,cssSelector
+nbc_grid,div.form-item-ios-collection-und-0-target-id,cssSelector
+input_collname,input#edit-generetic-collection-und-0-target-id,cssSelector
+overall_save,input#edit-submit--2,cssSelector
+person_link,ul  li:nth-child(9)  span a,cssSelector
+person_fname,input#edit-field-person-first-name-und-0-value,cssSelector
+person_lname,input#edit-field-person-last-name-und-0-value,cssSelector
+expand_person,ul.menu li:nth-child(9) button,cssSelector
+credit_link,ul.menu li:nth-child(9) ul li a,cssSelector
+person_add,input#edit-field-show-credit-person-und-0-target-id,cssSelector
+credit_role,select[id='edit-field-show-credit-role-und'],cssSelector
+cast_tvseason, ul.vertical-tabs-list li:nth-child(2) a,cssSelector
+addexisting_btn_tvseason,input#edit-field-tv-credit-und-actions-ief-add-existing,cssSelector
+addnode_text,input#edit-field-tv-credit-und-form-entity-id,cssSelector
+addnode_btn,input.ief-entity-submit,cssSelector
+cast_tvshow, ul.vertical-tabs-list li:nth-child(4) a,cssSelector
+addexisting_btn_tvseason--3,input#edit-field-tv-credit-und-actions-ief-add-existing--3,cssSelector
+card_title_credits,div.card__meta h2.card__title,cssSelector
+addmember_team,input#edit-field-members-und-add-more,cssSelector
+team_creditname,input#edit-field-members-und-4-target-id,cssSelector
+member_heading,div.tabledrag-toggle-weight-wrapper,cssSelector
+coachNAme,input#edit-field-coach-und-0-target-id,cssSelector
+prefix_person,input#edit-field-person-prefix-und-0-value,cssSelector
+person_disptitle,input#edit-field-display-name-und-0-human,cssSelector
+browse_covermedia,a#edit-field-person-cover-photo-und-0-browse-button,cssSelector
+attach_covermedia,input#edit-field-person-cover-photo-und-0-attach-button,cssSelector
+network_dd,select[id='edit-field-show-social-accounts-und-0-field-show-social-network-und'],cssSelector
+accHandler_person,input#edit-field-show-social-accounts-und-0-field-show-social-account-und-0-value,cssSelector
+videoorg_credit,input#edit-field-mpx-org-tags-und,cssSelector
+promoURL_credit,#edit-field-promotional-link-und-0-url,cssSelector
+link_tvseason,ul  li:nth-child(8)  span a,cssSelector
+text_CMStitle,#edit-title--2,cssSelector
+text_Seasonnum,input#edit-field-season-id-und-0-value,cssSelector
+text_teamname,input#edit-field-season-teams-und-0-target-id,cssSelector
+link_publishing, ul.vertical-tabs-list li:nth-child(6) a,cssSelector
+link_relationships, ul.vertical-tabs-list li:nth-child(7) a,cssSelector
+tvshow_dropdown,select[id='edit-field-pub-relation-tv-shows-und-0-field-show-und--4'],cssSelector
+status_publsihingdd,select[id='edit-event--2'],cssSelector
+Team_mainlink,ul  li:nth-child(18)  span a,cssSelector
+bowse_team,a#edit-field-team-banner-und-0-browse-button,cssSelector
+attach_team,input#edit-field-team-banner-und-0-attach-button,cssSelector
+leader_team,input#edit-field-leader-und-0-target-id,cssSelector
+season_team,select[id='edit-field-pub-relation-tv-shows-und-0-field-season-und--4'],cssSelector
+cast_name,div.card__meta h2,cssSelector
+cast_in_app,div.card__meta,cssSelector
+cast_img,div.card__thumbnail img,cssSelector
+character_link,a.navbar-icon-character-profile.navbar-menu-item,cssSelector
+prefix_char,input#edit-field-character-prefix-und-0-value,cssSelector
+fname_char,input#edit-field-character-first-name-und-0-value,cssSelector
+lname_char,input#edit-field-character-last-name-und-0-value,cssSelector
+shortbio_char,textarea#edit-field-summary-und-0-value,cssSelector
+browse_char,a#edit-field-character-cover-photo-und-0-browse-button,cssSelector
+attach_char,input#edit-field-character-cover-photo-und-0-attach-button,cssSelector
+charName_credit,input#edit-field-show-credit-character-und-0-target-id,cssSelector
+tvshow_addlink,ul  li:nth-child(6)  span a,cssSelector
+shorttitle_TV,input#edit-field-short-title-und-0-value,cssSelector
+LongTitle_TV,input#edit-field-long-title-und-0-value,cssSelector
+spokendesc_TV,textarea#edit-field-spoken-description-und-0-value,cssSelector
+tunein_TV,input#edit-field-tune-in-und-0-value,cssSelector
+appdispname_TV,input#edit-field-app-tune-in-und-0-value,cssSelector
+sortTitle_TV,input#edit-field-sort-title-und-0-value,cssSelector
+tv_additionalInfo, ul.vertical-tabs-list li:nth-child(5) a,cssSelector
+template_TV,select[id='edit-field-show-template-und'],cssSelector
+active_checkbox,input#edit-field-active-und,cssSelector
+availableOndevices_checkbox,input#edit-field-tv-show-frontends-und-tv,cssSelector
+categoryTV_show,select[id='edit-field-show-category-und'],cssSelector
+daypart_Tvshow,select[id='edit-field-daypart-und'],cssSelector
+showgenre_TV,select[id='edit-field-primary-genre-und'],cssSelector
+additionalGenre_Tvshow,select[id='edit-field-additional-genres-und'],cssSelector
+Tvshow_keyart_browse,a#edit-field-tv-cover-media-und-0-browse-button,cssSelector
+keyart_attach,input#edit-field-tv-cover-media-und-0-attach-button,cssSelector
+publishingoptions_Tvshow, ul.vertical-tabs-list li:nth-child(11) a,cssSelector
+menuItem_title1,input#edit-field-tv-show-navigation-und-0-title,cssSelector
+menuItem_url1,input#edit-field-tv-show-navigation-und-0-url,cssSelector
+url_besidemain1,span.token-click-insert-processed a,cssSelector
+add_menuitem,input#edit-field-tv-show-navigation-und-add-more,cssSelector
+menuItem_title2,input#edit-field-tv-show-navigation-und-1-title,cssSelector
+menuItem_url2,input#edit-field-tv-show-navigation-und-1-url,cssSelector
+scrollUP_div,div.fieldset-description,cssSelector
+person_itunesPage,input#edit-field-itunes-page-und-0-url,cssSelector
+person_wikilink,input#edit-field-reference-und-0-url,cssSelector
+person_occupation,input#edit-field-occupation-und-0-value,cssSelector
+person_residence,input#edit-field-location-und-0-value,cssSelector
+person_hometown,input#edit-field-person-hometown-und-0-value,cssSelector
+credit_promolink,input#edit-field-promotional-link-und-0-url,cssSelector
+credit_team,input#edit-field-team-und-0-target-id,cssSelector
+team_publishing, ul.vertical-tabs-list li:nth-child(3) a,cssSelector
+DLS_tablescroll,#field-dl-slides-values,cssSelector
+DLS_additembtn,input#edit-field-dl-slides-und-add-more,cssSelector
+DLS_Link,ul  li:nth-child(3)  span a,cssSelector
+DLS_showname,input#edit-field-dl-show-name-und-0-value,cssSelector
+DLS_tunetext,input#edit-field-dl-kicker-und-0-value,cssSelector
+DLS_headline,textarea#edit-field-dl-headline-copy-und-0-value,cssSelector
+DLS_desc,input#edit-field-dl-copy-und-0-value,cssSelector
+web_desktop_browse,a#edit-field-dl-slide-image-und-0-browse-button,cssSelector
+web_desktop_attach,input#edit-field-dl-slide-image-und-0-attach-button,cssSelector
+web_mobile_browse,a#edit-field-dl-slide-compact-image-und-0-browse-button,cssSelector
+web_mobile_attach,input#edit-field-dl-slide-compact-image-und-0-attach-button,cssSelector
+DLS_linkURL,input#edit-field-dl-slide-image-link-und-0-url,cssSelector
+multi_large_browse,a#edit-field-dl-slide-ios-overrides-und-form-field-global-keyart-und-0-browse-button,cssSelector
+multi_large_attach,input#edit-field-dl-slide-ios-overrides-und-form-field-global-keyart-und-0-attach-button,cssSelector
+multi_small_browse,a#edit-field-dl-slide-ios-overrides-und-form-field-compact-image-und-0-browse-button,cssSelector
+multi_small_attach,input#edit-field-dl-slide-ios-overrides-und-form-field-compact-image-und-0-attach-button,cssSelector
+CTA_title,input#edit-field-dl-call-to-action-und-0-field-dl-call-link-und-0-title,cssSelector
+CTA_URL,input#edit-field-dl-call-to-action-und-0-field-dl-call-link-und-0-url,cssSelector
+CTA_type,select[id='edit-field-dl-call-to-action-und-0-field-destination-type-und'],cssSelector
+DLS_table,table#field-dl-slides-values,cssSelector
+MB_linkclick,ul  li:nth-child(4)  span a,cssSelector
+MB_browse,a#edit-field-marketing-band-items-und-0-browse-button,cssSelector
+MB_attach,input#edit-field-marketing-band-items-und-0-attach-button,cssSelector
+MB_compact_browse,a#edit-field-compact-image-und-0-browse-button,cssSelector
+MB_compact_attach,input#edit-field-compact-image-und-0-attach-button,cssSelector
+showsdropdown_relation,select[id='edit-field-show-und'],cssSelector
+MB_table,table#field-marketing-bands-values,cssSelector
+AddItem_MB,input#edit-field-marketing-bands-und-add-more,cssSelector
+COPPA_compliant_chkbox,input#edit-field-coppa-compliant-und,cssSelector
+click_colorbox,div.color_picker,cssSelector
+color_simplyclick,fieldset#edit-group_show_colors,cssSelector
+submit_color,div.colorpicker_submit,cssSelector
+color_ball,div.colorpicker_color div div,cssSelector
+color_slider,div.colorpicker_hue div,cssSelector
+tvshow_browse2,a#edit-field-cover-image-mobile-und-0-browse-button,cssSelector
+tvshow_attach2,input#edit-field-cover-image-mobile-und-0-attach-button,cssSelector
+tvshow_browse3,a#edit-field-show-key-art-und-0-browse-button,cssSelector
+tvshow_attach3,input#edit-field-show-key-art-und-0-attach-button,cssSelector
+tvshow_browse4,a#edit-field-ios-overrides-und-form-field-global-keyart-und-0-browse-button,cssSelector
+tvshow_attach4,input#edit-field-ios-overrides-und-form-field-global-keyart-und-0-attach-button,cssSelector
+tvshow_browse5,a#edit-field-ios-overrides-und-form-field-compact-image-und-0-browse-button,cssSelector
+tvshow_attach5,input#edit-field-ios-overrides-und-form-field-compact-image-und-0-attach-button,cssSelector
+tvshow_browse6,a#edit-field-client-app-overrides-und-form-field-roku-show-homepage-image-und-0-browse-button,cssSelector
+tvshow_attach6,input#edit-field-client-app-overrides-und-form-field-roku-show-homepage-image-und-0-attach-button,cssSelector
+tvshow_browse7,a#edit-field-client-app-overrides-und-form-field-roku-show-title-image-und-0-browse-button,cssSelector
+tvshow_attach7,input#edit-field-client-app-overrides-und-form-field-roku-show-title-image-und-0-attach-button,cssSelector
+tvshow_browse8,a#edit-field-xbox-overrides-und-form-field-global-keyart-und-0-browse-button,cssSelector
+tvshow_attach8,input#edit-field-xbox-overrides-und-form-field-global-keyart-und-0-attach-button,cssSelector
+tvshow_browse9,a#edit-field-xbox-overrides-und-form-field-background-image-und-0-browse-button,cssSelector
+tvshow_attach9,input#edit-field-xbox-overrides-und-form-field-background-image-und-0-attach-button,cssSelector
+tvshow_bionavtext,input#edit-field-bio-nav-icon-text-und-0-value,cssSelector
+LateNightGuests_tab,ul.vertical-tabs-list li:nth-child(10) a,cssSelector
+guestname1_Latenight,input#edit-field-late-night-guests-und-0-field-lng-guests-und-0-value,cssSelector
+guestname2_Latenight,input#edit-field-late-night-guests-und-1-field-lng-guests-und-0-value,cssSelector
+guestname3_Latenight,input#edit-field-late-night-guests-und-2-field-lng-guests-und-0-value,cssSelector
+guestname4_Latenight,input#edit-field-late-night-guests-und-3-field-lng-guests-und-0-value,cssSelector
+teamAddMem,"//*[starts-with(@id,'edit-field-members-und')][@size='60']",xpath
+teamAddMembtn,"[id^=""edit-field-members-und-add-more""]",cssSelector
+Tvshow_Title,input#edit-title--2,cssSelector
+Coll_AddNode_Title,input#edit-title--3,cssSelector
+Coll_urlSafe,.machine-name-label,cssSelector
+tvshow_posterimg_browse,#edit-field-poster-und-0-browse-button,cssSelector
+tvshow_posterimg_attach,#edit-field-poster-und-0-attach-button,cssSelector
+tvshow_showimgDesktop_browse,#edit-field-image-homepage-desktop-und-0-browse-button,cssSelector
+tvshow_showimgDesktop_attach,#edit-field-image-homepage-desktop-und-0-attach-button,cssSelector
+tvshow_showimgMbl_browse,#edit-field-image-homepage-mobile-und-0-browse-button,cssSelector
+tvshow_showimgMbl__attach,#edit-field-image-homepage-mobile-und-0-attach-button,cssSelector
+SmartTile_TVShow,select[id='edit-field-smart-tile-placement-und'],cssSelector
+SchemaType_TVShow,select[id='edit-field-schema-type-und'],cssSelector
+tvshow_ioscollection,div.form-item-ios-collection-und-0-target-id label,cssSelector
+tvshow_nbccollection,div.form-item-generetic-collection-und-0-target-id label,cssSelector
+tvshow_rokuColelction,div.form-item-roku-collection-und-0-target-id label,cssSelector
+tvshow_samsungTvColelction,div.form-item-samsung-tv-collection-und-0-target-id label,cssSelector
+tvshow_defaultcollection,div.form-item-default-collection-und-0-target-id label,cssSelector
+dlvivew,h1.page-title,cssSelector
+brandDropdown,div.form-item-field-pub-relation-tv-shows-und-0-field-brand-und select,cssSelector
+showsdropdown,div.form-item-field-pub-relation-tv-shows-und-0-field-show-und select,cssSelector
+seasondropdown,div.form-item-field-pub-relation-tv-shows-und-0-field-season-und select,cssSelector
+chkbx_3,input#edit-entityreference-view-widget-2,cssSelector
+tvshow_relationship,ul.vertical-tabs-list li:nth-child(12) a,cssSelector
+tvshow_posterNoLogoimg_browse,#edit-field-poster-no-logo-und-0-browse-button,cssSelector
+tvshow_posterNoLogoimg_attach,#edit-field-poster-no-logo-und-0-attach-button,cssSelector
+collection_edit,tbody tr td div.form-item.form-type-checkbox span.float-right,cssSelector
+mb_image_edit,a#edit-field-marketing-band-items-und-0-edit,cssSelector
+mb_image_link_title,input#edit-field-image-link-und-0-title,cssSelector
+mb_image_link_url,input#edit-field-image-link-und-0-url,cssSelector
+mb_image_edit_submit,div#modalContent input.form-submit,cssSelector
+mb_edit_save,div#block-system-main input#edit-submit,cssSelector
+displaybrand_dl,select#edit-field-slide-brand-und,cssSelector

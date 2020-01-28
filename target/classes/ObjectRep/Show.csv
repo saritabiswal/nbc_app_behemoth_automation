@@ -1,0 +1,4 @@
+ObjectName,ObjectProperties,SearchType
+SHOW,SHOWS,LinkText
+SHOWNAME,The Tonight Show Starring Jimmy Fallon,LinkText
+TITLE,html,cssSelector

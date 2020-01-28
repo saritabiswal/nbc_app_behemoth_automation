@@ -1,0 +1,23 @@
+ObjectName,ObjectProperties,SearchType
+SelectSubject,select,cssselector
+SelectTopic,div.form__item.form__technical.form__select > div > select,cssselector
+Email,email,id
+ConfirmEmail,confirm_email,id
+techoptDescription,technical_description,id
+Submit,button.form-element__button.form-element__button--active,cssselector
+InvalidErrMsg,span[class='form-element__label__error'],cssselector
+RequiredMsg,div[class='form__required-field form__required-field--error'],cssselector
+Success,div[class='contact-page-success__success-text-inner'],cssselector
+SelectShow,div.form__item.form__show.form__select > div > select,cssselector
+SelectShowSubject,div.form__item.form__show_subject.form__select > div > select,cssselector
+Feedback,feedback_description,id
+textinfo,div.form__item  a,cssselector
+Contactus,h1.section-heading__title,cssselector
+generalinfo,section.contact-page__header-textarea,cssselector
+formheader,div > div.contact-page__form-header h2,cssselector
+additional resources ,div.additional-resources__content,cssselector
+footer,footer.footer,cssselector
+selectedSubject,form > div.form__item.form__subject.form__select > div > select > option:nth-child(2),cssselector
+selectedTopic,div.form__item.form__technical.form__select > div > select > option:nth-child(2),cssselector
+submissionForm,section.contact-page__container > div,cssselector
+matchingEmailError,div.form__item.form__confirm_email.form__input > div > div > span,cssselector

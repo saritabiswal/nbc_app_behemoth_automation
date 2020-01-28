@@ -1,0 +1,16 @@
+ObjectName,ObjectProperties,SearchType
+objHome,//*[text()='Home']/parent::a,xpath
+objShows,//*[text()='Shows'],xpath
+objShowsimg,a.tile--zoomable div.tile__thumbnail__image--monochrome img,cssselector
+objArrowBtn,button.shelf__arrow--right,cssselector
+objPopular,//*[text()='Popular'],xpath
+objShowTile,div.tile__title,cssselector
+objEpisodes,section.links-selectable-group section.shelf--VideoTile h2,cssselector
+objEpisodeTile,.shelf--VideoTile .tile__icon,cssselector
+objRightArrowBtn,.shelf--VideoTile .shelf__arrow--right,cssselector
+selectablegroup,section.links-selectable-group,cssselector
+titlePage,div.slideshow--titlepage,cssselector
+header,div.show-header__title>h1,cssselector
+atoz,a[href*=a-z],cssselector
+tiletitles,div.tile__title,cssselector
+slideshow,div.slideshow--titlepage,cssselector
